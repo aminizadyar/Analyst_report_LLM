@@ -1,6 +1,6 @@
 1- clean the analysis column. the amount of data in analyst reports can be reduced by 70%. I suspect after that, there is no need for summarizing the text. Each institution has its own layout. I think it can be done in a week. (I think I just need to delete everything that comes after analyst certification)
 
-2- A lot of the tickers are not specified in json files. something must be done about them. (maybe use some cheap llm (like claude 3 haiku) to get the right ticker)
+2- A lot of the tickers are not specified in json files. something must be done about them. (maybe use some cheap llm (like claude 3 haiku) to get the right ticker). I need to get the date and the country.
 
 3- the earnings call transcripts: I must extract the text only. the charts or the tables must be omitted. (I believe everything after presentation and before copyright must be kept)
 
