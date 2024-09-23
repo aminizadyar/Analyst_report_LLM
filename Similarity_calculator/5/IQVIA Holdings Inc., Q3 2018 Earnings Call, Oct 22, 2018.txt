@@ -1,0 +1,570 @@
+
+IQVIA Holdings Inc. NYSE:IQV
+FQ3 2018 Earnings Call Transcripts
+Monday, October 22, 2018 1:00 PM GMT
+S&P Global Market Intelligence Estimates
+ -FQ3 2018--FQ4 2018--FY 2018--FY 2019- CONSENSUSACTUALSURPRISECONSENSUSCONSENSUSCONSENSUSEPS Normalized 1.391.422.161.475.486.29Revenue  (mm)2583.412594.000.412645.3010333.4211013.58Currency: USD
+Consensus as of  Oct-22-2018 1:15 PM GMT
+
+
+  - EPS NORMALIZED  -  CONSENSUSACTUALSURPRISEFQ4 20171.341.404.48 %FQ1 20181.271.345.51 %FQ2 20181.231.294.88 %FQ3 20181.391.422.16 %
+
+Table of Contents
+ Call Participants........................................................................................................................................................3Presentation........................................................................................................................................................4Question and Answer........................................................................................................................................................8
+Call Participants 
+EXECUTIVES 
+ 
+ 
+Andrew  Markwick 
+Vice President of Investor Relations 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+ 
+Michael R. McDonnell 
+Executive VP & CFO 
+ 
+ 
+ANALYSTS 
+ 
+ 
+Daniel Gregory Brennan 
+UBS Investment Bank, Research Division 
+ 
+ 
+Eric White Coldwell 
+Robert W. Baird & Co. Incorporated, Research Division 
+ 
+ 
+Erin Elizabeth Wilson Wright 
+Crédit Suisse AG, Research Division 
+ 
+ 
+John Charles Kreger 
+William Blair & Company L.L.C., Research Division 
+ 
+ 
+Juan Esteban Avendano 
+BofA Merrill Lynch, Research Division 
+ 
+ 
+Robert Patrick Jones 
+Goldman Sachs Group Inc., Research Division 
+ 
+ 
+Ross Jordan Muken 
+Evercore ISI Institutional Equities, Research Division 
+
+Presentation 
+ 
+ 
+Operator 
+ 
+Ladies and gentlemen, thank you for standing by, and welcome to the IQVIA Third Quarter 2018 Earnings Conference Call. [Operator Instructions] As a reminder, this conference is being recorded, Monday, October 22, 2018. 
+ 
+ 
+I would now like to turn the conference over to Andrew Markwick, Vice President, Investor Relations. Please go ahead. 
+ 
+ 
+Andrew  Markwick 
+Vice President of Investor Relations 
+ 
+Thank you, Jennifer. Good morning, everyone. Thank you for joining our third quarter 2018 earnings call. With me today are Ari Bousbib, Chairman and Chief Executive Officer; Michael McDonnell, Executive Vice President and Chief Financial Officer; Eric Sherbet, Executive Vice President and General Counsel; and Nick Childs, Senior Vice President, Financial Planning and Analysis. 
+ 
+ 
+Today, we will be referencing a presentation that will be visible during this call for those of you on our webcast. This presentation will also be available following this call on the Events & Presentations section of our IQVIA Investor Relations website at ir.iqvia.com. 
+ 
+ 
+Before we begin, I would like to caution listeners that certain information discussed by management during this conference call will include forward-looking statements. Actual results could differ materially from those stated or implied by forward-looking statements due to risks and uncertainties associated with the company's business, including the impact of the changes to the revenue recognition accounting standards, which are discussed in the company's filings with the Securities and Exchange Commission, including our Annual Report on Form 10-K and subsequent SEC filings. 
+ 
+ 
+In addition, we will discuss certain non-GAAP financial measures on this call, which should be considered as supplement to, and not a substitute for, financial measures prepared in accordance with GAAP. A reconciliation of these non-GAAP measures to the comparable GAAP measures is included in the press release and conference call presentation. 
+ 
+ 
+I would now like to turn the call over to our Chairman and CEO, Ari Bousbib. 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+Thanks, Andrew, and good morning, everyone. Thank you for joining our third quarter 2018 earnings call. I'm pleased to report that Q3 was another quarter of strong financial performance, and once again, we reported results at the high end or above our guidance ranges. 
+ 
+ 
+To review the numbers, third quarter revenue of $2,594,000,000 came in at the high end of our guidance range, and that's despite the headwind from FX of approximately $10 million. Revenue growth was 6.3% at constant currency. 
+ 
+ 
+Technology & Analytics Solution revenue was strong despite the traditional Q3 demand softness on the commercial side of the business. Constant currency Technology & Analytics Solution revenue growth was 15% in the third quarter. And again, consistent with the first and second quarter, organic constant currency growth was about 4%. I think, actually, year-to-date, constant currency organic growth rate on Technology & Analytics Solution was over 4%. 
+ 
+ 
+R&D Solutions revenue grew 3.5% at constant currency. Early in the third quarter, we marked the anniversary of all acquired R&D businesses, and therefore this growth is organic. As you know, we've experienced some quarterly lumpiness associated with the timing of revenue recognition and pass-through under ASC 606. In fact, pass-through this quarter cost us several hundred basis points of R&D growth. 
+ 
+ 
+As expected, third quarter Contract Sales & Medical Solutions growth was down about 12% at constant currency. 
+ 
+ 
+Switching to profits. Adjusted EBITDA of $561 million was above our guidance range, and it grew 8.4% at constant currency. Third quarter adjusted EBITDA margins expanded 80 basis points reported and 40 basis points at constant currency, reflecting the continued impact of our synergy realization and cost-containment initiatives. 
+ 
+ 
+Let's look a bit at our year-to-date margin expansion. Year-to-date revenue conversion contributed 120 basis points of margin expansion, and all cost takeout actions contributed 140 basis points of margin expansion. 
+ 
+ 
+As you know, we've been making investments in our technology suite, technology acquisitions, our next generation of clinical development offering and the expansion of our real-world platform. All of these initiatives have a dilutive impact on our margins. These items all led to 70 basis points of year-to-date margin expansion at current currency -- I'm sorry, at constant currency. 
+ 
+ 
+Adjusted diluted EPS of $1.42 grew 19.3% and was again at the high end of our guidance range. This result was driven entirely by our strong operational performance. 
+ 
+ 
+I want to spend a few moments on a couple of important partnerships and how we're doing in the market. You will have seen that we announced the expansion of our partnership with Salesforce. This follows the successful launch of our new Orchestrated Customer Engagement or OCE platform, which is powered by Force.com, marketing cloud and MuleSoft. 
+ 
+ 
+The team is now working in close collaboration with Salesforce to develop orchestrated clinical trials, or OCT, a first-of-its-kind suite of integrated clinical applications designed to make clinical trials more efficient. We are very excited that this technology will be powered by Health Cloud, and we're looking forward to working with Salesforce on joint go-to-market initiatives. 
+ 
+ 
+We continue to have success in the market with OCE, and the recent number of small wins continues to drive momentum. Since we launched OCE in December, we have now won 15 out of 20 competitions in this space. We will have seen -- you will have seen that we've issued a press release last week announcing that our OCE platform was selected by Roche for global deployment. 
+ 
+ 
+In addition, the deal includes our ePromo, MDM and Organization Manager applications. We're committed to investing in the success of this milestone agreement. As always, this strong execution here will strengthen the offering in the marketplace and continue to highlight our global deployment capabilities. 
+ 
+ 
+In the real-world space, the team signed an important collaboration with Genomics England, where we will work together to launch the first real-world research platform with integrated clinical and genomic data. 
+ 
+ 
+R&D Solutions had a record quarter of contracted bookings. Our third quarter contracted net new business, excluding pass-through, was $1.7 billion, which resulted in a book-to-bill of 1.69 for the quarter. 
+ 
+ 
+Bookings growth was over 40% compared to the third quarter of 2017. We are excited about the trajectory of our contracted NNB. But remember, this is a long-cycle business, and bookings today will take a while to be reflected in revenue. 
+ 
+ 
+The next-generation clinical development team continues to drive this. We had another strong quarter with gross new business awards of over $600 million, which excludes pass-through associated with this revenue. This means that less than 2 years into the merger, we have almost $3 billion of awards that leverage our core-enabled capabilities, again excluding pass-through. 
+ 
+ 
+With that, let me turn it over to Mike McDonnell, our Chief Financial Officer. 
+ 
+ 
+Michael R. McDonnell 
+Executive VP & CFO 
+ 
+Thank you, Ari, and good morning, everyone. As Ari mentioned, we reported strong third quarter financials. Let's review the results. 
+ 
+ 
+Third quarter revenue of $2,594,000,000 grew 6.3% at constant currency and 5.2% reported. Year-to-date revenue of $7,724,000,000 grew 6.4% at constant currency and 7.6% reported. 
+ 
+ 
+Third quarter Technology & Analytics Solutions revenue of $1,014,000,000 grew 15% at constant currency and 12.9% reported. Technology & Analytics Solutions year-to-date revenue of $3,010,000,000 grew 12.5% at constant currency and 13.8% reported. Year-to-date, Technology & Analytics Solutions organic revenue was over 4% at constant currency. 
+ 
+ 
+R&D Solutions revenue of $1,382,000,000 grew 3.5% at constant currency and 3.1% at actual FX rates. Year-to-date, R&D Solutions revenue of $4,097,000,000 grew 5.8% at constant currency and 6.8% at actual FX rates. Year-to-date, R&D Solutions organic revenue growth was about 4.5% at constant currency. 
+ 
+ 
+Contract Sales & Medical Solutions revenue of $198 million declined 11.9% at constant currency and 12.8% reported. Contract Sales & Medical Solutions year-to-date revenue of $617 million declined 13.3% at constant currency and 11.7% at actual FX rates. 
+ 
+ 
+Now moving down the P&L. Third quarter adjusted EBITDA of $561 million grew 8.4% at constant currency and 9.4% reported. Year-to-date, adjusted EBITDA grew 10% at constant currency and 10.6% reported, resulting in adjusted EBITDA year-to-date margin expansion of 70 basis points at constant currency and 60 basis points reported. 
+ 
+ 
+Third quarter GAAP net income was $60 million, and GAAP diluted earnings per share was $0.29. Adjusted net income of $294 million grew 13.1% in the third quarter. Growth was primarily driven by stronger adjusted EBITDA and tax efficiencies, partially offset by higher interest expense. 
+ 
+ 
+Third quarter adjusted diluted earnings per share of $1.42 grew 19.3%. Year-over-year growth was driven by higher adjusted net income, which I just discussed, as well as the lower share count year-over-year. Year-to-date, adjusted diluted earnings per share of $4.05 grew 21.3%. 
+ 
+ 
+Let's spend a few minutes on R&D Solutions' net new business. Last 12 months contracted net new business, excluding pass-through, at September 30, 2018, was $5.37 billion, which represents year-over-year growth of 22.9%. As you know, we now report backlog including pass-through. On this basis, we have had good backlog progression over the last 4 quarters, and at September 30, 2018, closing backlog was $16.4 billion. 
+ 
+ 
+Now let's have a look at the balance sheet. At September 30, cash and cash equivalents totaled $827 million, and debt was $10.6 billion, resulting in net debt of about $9.8 billion. Our gross leverage ratio was 4.9x trailing 12 months adjusted EBITDA. Net of cash, our leverage ratio was 4.5x. Cash flow from operating activities was $344 million in the third quarter. Capital expenditures were $123 million, and free cash flow was $221 million. 
+ 
+ 
+During the third quarter, we repurchased $133 million of our shares, resulting in $792 million of year-to-date share repurchase at an average price of $105.34. Since the merger, we have completed $4.4 billion of share repurchase at an average price of $86.07. At September 30, we had $889 million remaining under our share repurchase authorization. 
+ 
+ 
+Let's now turn to 2018 guidance. We are updating our full year guidance ranges for revenue, adjusted EBITDA and adjusted diluted EPS. As you know, revenue guidance has been raised twice this year, largely to reflect our stronger organic performance. Unfortunately, foreign currency has now turned against us, but despite a $35 million headwind from FX for the balance of the year versus our previous guidance, we are reaffirming the midpoint of the full year guidance range. We now expect revenue to be between $10,300,000,000 and $10,350,000,000, and that represents year-over-year growth of 6.2% to 6.7%. 
+ 
+ 
+Now it's still too early to guide to 2019 as we're in the middle of our planning process. But recall, at the beginning of this year, we guided 2018 revenue under the new accounting standard, including pass-through and our declining Contract Sales & Medical Solutions business. This guidance was 3% to 5% growth and included a tailwind from FX of about 100 basis points. As you know, we are beating this original guidance despite the FX headwinds we are experiencing in the second half of the year. 
+ 
+ 
+Again, it is too early to guide 2019. We expect to do this on our fourth quarter earnings call in early February. But we do want to share what we currently see on our top line for 2019 from a currency perspective. As we sit here looking at rates today, assuming they stay unchanged in 2019, and compare these rates to the average rates of 2018, it would result in a headwind of about $125 million to our constant currency revenue growth in 2019. 
+ 
+ 
+Now back to 2018. Adjusted EBITDA guidance has been raised by $10 million at the midpoint. We now expect full year adjusted EBITDA to be between $2,195,000,000 and $2,225,000,000, representing year-over-year growth of 9.2% to 10.7%. Adjusted diluted EPS guidance has been raised by $0.05 at the midpoint. We now expect full year adjusted diluted EPS to be between $5.45 and $5.55, which represents year-over-year growth of 19.8% to 22%. 
+ 
+ 
+Our adjusted book tax rate is still expected to be approximately 23%. This guidance assumes current foreign currency rates remain in effect for the rest of the year. 
+ 
+ 
+So in summary, we delivered another quarter of strong financial results. Year-to-date, adjusted EBITDA margins expanded 70 basis points at constant currency. We extended our partnership with Salesforce to develop a suite of clinical trial technology. OCE continues to drive momentum in the market, with Roche becoming an important reference client. 
+ 
+ 
+Our RWI team signed an important collaboration with Genomics England to launch the first real-world research platform with integrated clinical and genomic data. R&D Solutions LTM contracted services net new business grew approximately 23%, supported by record contracted bookings in the quarter. 
+ 
+ 
+We executed $133 million of share repurchase in the quarter, bringing the total postmerger repurchase to $4.4 billion at an average price of $86.07. And we reaffirmed revenue guidance for the year, and we raised our profit guidance. 
+And with that, I will ask the operator to open the lines for Q&A. 
+
+ 
+
+Question and Answer 
+ 
+ 
+Operator 
+ 
+[Operator Instructions] Our first question comes from the line of Robert Jones with Goldman Sachs. 
+ 
+ 
+Robert Patrick Jones 
+Goldman Sachs Group Inc., Research Division 
+ 
+I guess just -- I appreciate the perspective, Mike, on FX. And I know you're not in a position, as you mentioned, to give guidance on '19. But I wanted just to ask a question on the R&D segment specifically. You sit here today on a trailing book-to-bill of 1.38. Conversion rates have been fairly steady, ticked down a little bit this quarter for you guys. So just was hoping maybe you could share some perspectives on when we should start to think about the top line accelerating more commensurate to the levels of the type of bookings growth that you guys have been experiencing. 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+All right. Maybe I'll say a couple of words, and Mike can chip in. Look, Bob, we'd like to see this today, but it's a long-cycle business. We always said, since the time of the merger, that we would begin to see the benefits of the merger on our top line exiting third year after the merger. That's not going to be before the end of '19, and we are sticking to that plan and target. Now having said that, you are correct. We are actually doing probably better than we expected in terms of our market share gains and bookings, but perhaps a little earlier than we had anticipated. But I do want to remind you that today, and we're going to have this for the next quarter or 2, we are executing backlog that was sold, booked before the merger. And you may want to have some perspective and recall that in some quarters before the merger, we actually had book-to-bill ratios that were below 1. And so we are, in a sense, fighting that adverse set of bookings. And had it been at least above 1, then maybe we would start to see some growth accelerating earlier than the end of '19. But again, we are delivering growth in R&D despite these backlog issues prior to the merger. We are delivering growth that's, I think, better than all of us were expecting. Year-to-date, what's our R&D growth? 
+ 
+ 
+Andrew  Markwick 
+Vice President of Investor Relations 
+ 
+Year-to-date organic? About 4.5%. 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+Right, overall. 
+ 
+ 
+Andrew  Markwick 
+Vice President of Investor Relations 
+ 
+And the only thing I'd add as well is don't forget, we've moved to the new accounting standards, around 606. This is our first year we're implementing, and we've recast last year. We're seeing some lumpiness as we go through the year. But I think, and Ari mentioned it in the prepared remarks, under 605, we would have been several hundred basis points higher. So we've got to translate this through to the new accounting standard as well. 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+Right. And if you add the headwind -- again, pass-throughs are pretty much where we thought they would be. They're kind of flattish year-over-year, and it's -- that's creating a headwind to our growth of several hundred basis points, consistent with what we've had since the beginning of the year. 
+ 
+ 
+Robert Patrick Jones 
+Goldman Sachs Group Inc., Research Division 
+ 
+Got it. And then I guess, Ari, just one quick follow-up. You usually share a little bit in the prepared remarks on the sources of bookings. Obviously, another big quarter, as you mentioned, of wins for you guys on the R&D segment. So just I was hoping maybe you could give us a little bit on the sources of the strength, big pharma versus emerging biotech, and maybe if there was any individual, single outsized wins in the quarter that really helped bolster that bookings number. 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+Yes. I mean, I've got some numbers here. Thanks for the question. I mean, year-to-date, if you look at gross new bookings in the EVP segment, which continues to be very, very strong, frankly, in the marketplace and for us, in particular, as you know, we've put renewed emphasis on the go-to-market in EVP since after the merger. Year-to-date, we're at 73% or 75%. What am I reading here? 
+ 
+ 
+Andrew  Markwick 
+Vice President of Investor Relations 
+ 
+Year-to-date, 78%. 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+78%, right. So almost 80%. In the quarter, actually, growth is -- I even am afraid of mentioning the number, but it's just under 90% growth in the third quarter for EVP, our gross new bookings. So again, I think I'd mentioned that year-to-year -- maybe I didn't mention it. On a year-to-date basis, gross new business awards, which probably is the best way to look at market share, this is awards, not contract, and it's on a gross basis, they grew year-to-date 30% in aggregate. So again, very, very strong, but again, a big, big piece comes from the growth in EVP. So yes, okay? Thank you very much. 
+ 
+ 
+Operator 
+ 
+Our next question comes from the line from Ross Muken with Evercore ISI. 
+ 
+ 
+Ross Jordan Muken 
+Evercore ISI Institutional Equities, Research Division 
+ 
+So I wanted to go back on the technology business. Obviously, you had the phenomenal Roche announcement. It seems like that will give you more sort of selling clout in the universe. And obviously, you talked about sort of the competitive wins. Just help us paint a picture of kind of where we are in that process and how this sort of competitive sell-through is going. Obviously, you have the very dominant market position already. And now you're selling in kind of a new technology capability. And so to see someone like Roche take everything on, obviously, quite impressive. Do you think there'll be more things like that? Do you think it's going to help you on sort of singular replacement? Just give us a little bit of flavor for how you're going to use that as a means of trying to push others in the industry in a similar sort of direction. 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+Yes. Thanks for the question. Look, I want to answer the question more from a strategic standpoint. If you look at what we've been doing, and this was true before the merger at IMS, and certainly, as you can see it has accelerated since the merger at IQVIA, a very significant area for investments for us is to embed data analytics and technology in everything we do. And the reason I believe this is very important to understand is, look, we don't want to be in commoditized businesses. We want to add value to our customers. We want to sell based on outcomes and value and on performance. We want to embed strong intellectual property in everything we do and build long, sustainable partnerships with our clients well into the future and gain a bigger share of their spend. If you step back, our pharma clients globally spend well over $200 billion in the type of stuff that we offer. But we are the largest provider of these services by far across the board at over $10 billion of revenue a year versus our competitors in any of the segments that we compete in. And so even we are the largest in any of these businesses, and that still represents less than 5% market share of the total spend. There's no one in the world of pharma that doesn't buy something from us. So we already are present, as you say, in all of these clients. And we have a great commercial footprint that we can continue to leverage and try to gain share of that spend. That's our strategy. And technology is front and center at the core of this. So with respect to the segment -- the narrow segment of CRM, and as we redefined it, OCE, our strategy has been to integrate applications across the board to make it a seamless experience for our clients and deliver SaaS applications that are very easy to use, easy to plug in, that leapfrog what's already in the market. We've had this great collaboration with Salesforce that led to the OCE platform we launched in December. We believe it's the next-generation solution. It obviously is built on a more advanced Salesforce platform than anything that was in the market before. So it benefits from that added functionality and standardization. And we think that this is what we want at Roche. And this is a large, global deployment in over 100 markets. It's very significant in every dimension you can think of. And you can be sure that we've been discussing similar type of engagements with all of the large pharma. And now, regretfully, they are on a different platform now, and it's a higher ramp. And we need to get to the point where they are going to consider switching over, and we are working on that. Having said that, anyone else who is looking for a new platform, typically we've been winning in the vast majority of the cases, and we will continue that. Now I also want to say a word about our expansion in clinical technology. We made a lot of investments right off the bat, immediately after the acquisition. That's why we spent a lot of money in acquisitions the first year, last year. You see that this has tempered since June. I don't think we did much acquisitions this quarter. 
+ 
+ 
+Michael R. McDonnell 
+Executive VP & CFO 
+ 
+$28 million. 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+Yes. $20 million, $28 million, again, really nothing. And we've built, I think, a very, very strong set of capabilities, which we are now integrating. We're going to do this on Health Cloud with Salesforce. We've extended our partnership. They are very excited about it. We are very excited about it. And it's going to be even more integrated on the commercial side because this is new. There is really no competition out there. People have point solutions once again, and we're going to take our orchestrated clinical technology, or OCT, to market as soon as we are ready. The technology will cover areas such as regulated comp and management, regulatory compliance, and of course, the virtual trials that we've been talking about. So again, we're very excited about this, and we believe this will continue to differentiate us in the marketplace and accelerate our penetration of pharma. 
+ 
+ 
+Operator 
+ 
+Our next question comes from the line of Erin Wright with Credit Suisse. 
+ 
+ 
+Erin Elizabeth Wilson Wright 
+Crédit Suisse AG, Research Division 
+ 
+How should we be thinking about the quarterly progression of some of the incremental expenses associated with some of the near-term investments you called out in IT systems and other initiatives in the prepared remarks? And more broadly, where do we stand now in terms of those underlying cost savings or integration synergy targets? 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+Thanks, Erin. In terms of margins, you're right. I mean, all the things I've just mentioned don't come for free. Certainly, next-gen capabilities build up, continues to be a headwind because we continue to hire in a tight market, very expensive, highly qualified data scientists. It's probably the single most sought-after skill set. Everyone wants to be in artificial intelligence and predictive analytics and machine learning. And that's what we're all about. We've been talking about this long before it's become a buzzword. We continue to invest in this area. We continue to invest in our technology suite and development program with Salesforce that I discussed. And of course, the implementation. I mean, look, the first year of implementing the large deployments like the one with Roche is not necessarily a profitable endeavor for us. So these clearly are headwinds, but we are committed to continue to deliver margin expansion. Obviously, as we deploy in the years ahead in these technologies and there is less of that headwind, then obviously, margins could lead to creep at a much faster speed than they are. If you eliminate -- that's why I wanted to share with you the year-to-date margin expansion at constant currency. You can see that absent the headwinds, we would have expanded margins a lot more if the revenue dropped through, of course, from accelerating revenue growth, and then there is all the cost containment and the integration synergies, which we are very on track to deliver. I think we are a little ahead probably on the cost targets. You would remember, we had $200 million of cost takeout, everything else being the same on the baseline what we had at the time of the merger. And we said this would be fully there exiting '19. And therefore, you would get all the benefits of -- in '20. However, I think we are seeing an acceleration of that, and we are very much probably, I would say -- Andrew and Mike, correct me if I'm wrong, how much of the $200 million has been executed, probably, I would say 2/3. 
+ 
+ 
+Michael R. McDonnell 
+Executive VP & CFO 
+ 
+Yes. 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+We are in the 2/3, 70%. Exiting '18, we'll be 70% in, and that comes in, in the '19 numbers already, with the last 30% continuing so far. Yes, that's for the integration. Thank you, Erin. 
+ 
+ 
+Erin Elizabeth Wilson Wright 
+Crédit Suisse AG, Research Division 
+ 
+Okay, great. And just a quick one on the fixed price model. What percentage of new business, I guess, are you applying that as it stands today? 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+Fixed price. Let's see. I'll try to remember here for you. On the next-gen awards, this is in the quarter... 
+ 
+ 
+Michael R. McDonnell 
+Executive VP & CFO 
+ 
+No, year-to-date. 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+Overall, yes, yes. Of all of this, I think about 50% approximately of everything that we have been awarded to date. So I said before it's almost $3 billion since the merger. About 50% is on fixed price, and sometimes it's not all fixed price, but let's say, call it, fixed price of this $3 billion. And if you look across R&D bookings, all included, going forward, what we're trying to -- what we're seeing here, based on the numbers we're looking at here going forward, I would say about 1/3 of all of our bookings will have either all fixed price or some significant portion that's on a fixed-price basis, about 1/3. All included, not just ventures. 
+ 
+ 
+Operator 
+ 
+Our next question comes from the line of John Kreger with William Blair. 
+ 
+ 
+John Charles Kreger 
+William Blair & Company L.L.C., Research Division 
+ 
+Ari, just to go back to your comments about the OCT suite of clinical products. Can you give us a sense about timing? When do you expect to roll those out to the market? 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+Well, look, we already are in the market, again, selling point solutions. You're familiar with DrugDev, and we also actually sold a couple of small pilot trials on the Virtual Trial front. We've also sold some very nice work on the compliance side to a few large top 5 European pharma companies. But look, it's going to take a little bit of time to develop our -- the program really calls for later in '19 to have our first fully integrated clinical trial technology suite. 
+ 
+ 
+John Charles Kreger 
+William Blair & Company L.L.C., Research Division 
+ 
+Great. And then maybe, Mike, you could maybe take this one. I think in the last 3 quarters, you've talked about next 12 months expected backlog to revenue conversion of about $4.6 billion. Can you just talk a little bit about what are the puts and takes that's kind of kept that number pretty stable despite the much stronger net awards that you've reported of late? 
+ 
+ 
+Michael R. McDonnell 
+Executive VP & CFO 
+ 
+Yes. I want to remind you about the FX comments that we made on this, Bob (sic) [ John ]. We've lost about $35 million to FX for the balance of '18 from a revenue perspective. And as I've mentioned in the prepared remarks, there's about $125 million of headwind that we see based on current rates in 2019. So that goes right to that metric. At the time that we recasted our opening backlog, it was about $4.5 billion. That's progressed to $4.6 billion. I would note that we are seeing some very good success with next-gen, as we've talked about it. But that also shifts the mix to some more complex businesses, and we have probably a larger mix of historically slower-burning projects as a result of having these more complex trials that'll take a little longer to complete. So I think overall, there is some rounding in the FX. It's really the primary thing that I would point to on that metric. 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+Yes. I have the same frustration. Unfortunately, we're using -- I assume that without the FX, I haven't got the -- I don't see the number here, but this $4.6 billion, over the next 12 months, should be quite -- should be higher, right, if we hadn't had... 
+ 
+ 
+Andrew  Markwick 
+Vice President of Investor Relations 
+ 
+Without the FX here. 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+The FX, right. So that's -- a big portion of the $125 million that we talked about or the headwind next year is actually in R&D. And again, I think that also the 2016 weak booking is also a reflection of that. There were some of them, which we are again executing. This is when it ramps. I mean, remember, when you book $1 today, it does translate into maybe $0.09 or $0.10 of revenue the following year, and then it ramps up further, 25%. So really, '18, '19 is when we are seeing revenue from the bookings in '16, which I'll remind you, were not that special. So that's part of it. And it's the mix as well. We've got more complex projects, which we -- more specialty stuff, which -- where most of the next-gen capabilities applies. So it takes a little bit of time to round this up, but it's a mix issue as well, right? So it's a bunch of mix and match. But I will agree with you, I would like to see this number tick up. And we would have seen it tick up significantly absent the FX. 
+ 
+ 
+Operator 
+ 
+Our next question comes from the line of Eric Coldwell with Baird. 
+ 
+ 
+Eric White Coldwell 
+Robert W. Baird & Co. Incorporated, Research Division 
+ 
+I've had, I think, a couple of people have asked around my topic, but I hate to be very client-specific, but since you do have a named big pharma account with OCE, I'm hoping you can give us a little more sense on sizing, timing, cost impact. I think, Ari, you might have suggested that, that will not be a profitable endeavor in year 1, as you obviously want to spend a lot of money to ramp that account up and do it the right way. That'd be a good benchmark for future big pharma wins. But if we could get any kind of financial details or timing details around that OCE win, it would be very helpful. 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+Yes. So I would love -- that's a good question, Eric. And to be honest with you, I would love to give you the number, but we're not authorized to share that number. And it's a large deal. Can we share the number of seats? 
+ 
+ 
+Andrew  Markwick 
+Vice President of Investor Relations 
+ 
+We did it 14,000. 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+Yes, it's 14,000 seats, which is pretty large by CRM standards in one contract in over 100 countries. So you could try to figure out what the -- and again, it includes also a lot of other stuff. It's not just CRM. I mentioned ePromo and so on and yes, master data management. So it's a large contract, okay? I mean, I think the numbers for license proceeds, this is a software business model, as you know. There is some implementation upfront, which is on a flat number. But then it's on a software basis. And the deal is -- did we mention how many years? It's 3 or 5 years, I don't remember. 
+ 
+ 
+Andrew  Markwick 
+Vice President of Investor Relations 
+ 
+Yes. I mean, standard contract can be 3 to 5 years. But then I mean, these kinds of deals are very sticky, one will earn better... 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+Right, right. And again, you can probably derive some kind of range, but it's a large deal. It's -- let me put it individually. It's larger than what my colleagues at the legacy Quintiles organization would call an elephant trial. So it's a large number. And then yes, that's why -- once the market -- more importantly, ultimately, look, I mean, the market has been dominated largely by one company, and that company probably has 80%, 90% share of large pharma clients. We only launched OCE in December. So -- and we have not so much revenue here. So we see a great market opportunity. It's a large segment. People say it's about $2 billion. There is a large pharma renewal cycle that takes place over the next 12 to 18 months. So we think we have a fair shot at claiming a non-insignificant share of the market, which we strongly believe we have a superior solution. 
+ 
+ 
+Eric White Coldwell 
+Robert W. Baird & Co. Incorporated, Research Division 
+ 
+If I could shift gears and just quickly ask on Contract Sales & Medical Solutions. Obviously, it's not a focal point for IQVIA, and it's not an area where, I think, your investor base is overly concerned. But I would be interested in getting a market update, what you're hearing in the market, what you're seeing in the market, where the bookings in that segment -- I know you don't report them per se, but what does the bookings profile look like? When do you expect that growth to perhaps stabilize or even turn around a bit? 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+Yes. So I can't speak to bookings or to the market in general, but I can tell you, it's not that it's not a priority, it's a smaller part of the business. But since we pulled this out of the market, as you know, we were -- our first go around was to try to divest, and we decided that we are going to retain it for now. And we have actually put a lot of emphasis from a managerial standpoint over the past few months in turning around this business. Now we are now executing whatever was sold before, but I think we are -- let me put it this way. I'm challenging the team to turn this trend around. I don't want to see any red next year, okay? And hopefully, we will turn this right. As we said, it's early because we are in the midst of the planning cycle, but hopefully, I'm looking forward to putting a marker for '19 that's a bit more positive, let me put it this way, than what you've seen to date over the past few years in that business. And of course, we are, of course, trying to drive costs down and take it to market in a more accelerated fashion. So that's what I can share now. So yes, I have good hopes, and I'm certainly targeting better performance in '19. 
+ 
+ 
+Operator 
+ 
+Our next question comes from the line of Daniel Brennan with UBS. 
+ 
+ 
+Daniel Gregory Brennan 
+UBS Investment Bank, Research Division 
+ 
+Ari, Mike, just a few questions on next-gen. So of your existing CRM customer base, how many have been pitched next-gen to date? And how quickly can you roll out next-gen to the clients that haven't seen it? And then just one more part to this. In terms of the wins you've seen, like how many of these wins are coming from existing customers versus share gains from new customers adopting? 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+Okay. Well, look, I've got a lot of data on next-gen because, as you can imagine, we spend a lot of time on this. As I've said many times, what we did -- we wanted to prove this out, right? So to sell to our existing clients, it would have been very hard to know whether we would have won anyway because we have got good relationships and so on and so forth. So we wanted to really go after so-called locked out accounts and try to win with clients who were not our clients. Clients, who had been working this industry for a long time for too long, and I'm only speaking about large pharma now, who function very much, I hate to say this, I know there are lawyers in the room, but like somewhat of an oligopoly, okay? People in the market stabilize in the sense when these large pharma work with these 2 or 3 CROs, these large pharma works -- and that's because they're dealing with this industry like a commodity type of service. And they can't go out and have an RFP to 100 CROs and have 100 features and shows from these CROs. They need to work with 2 or 3 to keep everybody honest and just they pick based on relationships and what have you. And we came to disrupt this model. We want to go after the entire market. We don't want to just work with our 3 buddies, okay, in large pharma. We want to work with everybody because we want to compete on value and superior technology. And we want to bring differentiated value to the market. So therefore, it was a little harder at the beginning because we're at the higher ramp. But the good news is we've won on -- we've won with large pharma clients with whom we were not doing work, we hadn't done work for many, many years, sometimes more than 12 years. Now we didn't, of course, we didn't spend much time with our existing clients, and we have also limited capabilities. We are now getting to, hopefully, an inflection point where pretty much everyone has heard of next-gen and pretty much everyone has had the chance -- I'm talking about the top 20 pharma clients, has had the chance to get a pitch or a presentation from our teams. And in many cases, now they don't always have a trial that's suitable. They don't always have an RFP that's -- where they want to bring us in. But with less than 2 years into the merger, with almost $3 billion of awards and a lot of it with people who were not our clients before, with new customers, we had some nice -- in the quarter, by the way, we had a top 10 pharma who was not a traditional client of the legacy Quintiles organization, top 10 pharma whom we won a Phase III MS trial, I don't think we're allowed to say it but an MS trial. And again, that was totally based on our capabilities on patient density data and predictive analytics. We won with another top 10 pharma that is a client of ours, several neurology trials, again, using next-gen capabilities. We've got a lot of EPP clients as well, people we've never worked with before, oncology studies. So by the way, I would say, of the almost $3 billion of next-gen, I just want to -- this, I always report the awarded numbers, I should say that about 75% of these have been contracted. So not everything has been contracted yet at this time. Okay. I hope this color on next-gen gives you some more details. 
+ 
+ 
+Operator 
+ 
+Our next question comes from the line of Derik De Bruin with Bank of America. 
+ 
+ 
+Juan Esteban Avendano 
+BofA Merrill Lynch, Research Division 
+ 
+This is Juan Avendano for Derik. My question is at your last Analyst Day, you communicated a net leverage target ratio of 4 to 4.5x. Given recent developments in the interest rate environment, do you still see this relatively high net leverage ratio as appropriate for the company? 
+ 
+ 
+Michael R. McDonnell 
+Executive VP & CFO 
+ 
+Yes. So -- this is Mike speaking. I'd say absolutely. You may have seen that we ended the quarter net debt at about 4.5x, so we're very comfortable at that level. We have a very good, high-visibility business with R&D. Typically, the better part of 80% of the expected revenue in years sitting in backlog. We have a subscription business in data and a lot of the tech business. We just have very good cash flow visibility, only about 4% CapEx intensity. We've moved our maturities out to 2023 and beyond. And importantly, we've fixed a lot of our debt. So to your question about rates and potential increases, when you look at our elements of fixed debt and you consider the swaps that we've put in place and the other protections that we have in the way of floors and caps and so forth, you get to a number that's about 75% or a little higher of our debt that's effectively fixed. So I think we're sitting right in the sweet spot of a logical leverage level, we're very comfortable with it and... 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+With our average... 
+ 
+ 
+Michael R. McDonnell 
+Executive VP & CFO 
+ 
+And our average loss of debt is running at about 3.8%. So we've got very good -- and after-tax probably closer to 3%. So it's a very comfortable level for us. 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+And what about our maturities? 
+ 
+ 
+Michael R. McDonnell 
+Executive VP & CFO 
+ 
+Yes. Our maturities, there's nothing significant, really, until 2024. 
+ 
+ 
+Juan Esteban Avendano 
+BofA Merrill Lynch, Research Division 
+ 
+Got it. And a quick follow-up on the R&D Solutions segment. Much of your focus has been on data-driven strategies around patient recruitment. But perhaps, if you could -- aside from data and analytics, can you tell us a little bit more about your clinical research site strategy, perhaps how many sites you have relationships with, how many of those sites you own and how your site network strategy fits in your overall patient recruitment strategy? 
+ 
+ 
+Ari  Bousbib 
+Chairman, President & CEO 
+ 
+Yes. I think we have that. Look, we run almost 1,000 clinical trials, full clinical trials and then a few hundred more, where we are involved, not necessarily as full clinical but provider of resources. I don't have those numbers here, but I'm sure we can provide you with the number of sites we work with. And of course, we have strategies as the classical way we do business, mirrored to all of our competitors. I just don't have those numbers right here. I'm sure if you follow up, Andrew will be happy to provide you with these numbers. 
+ 
+ 
+Andrew  Markwick 
+Vice President of Investor Relations 
+ 
+Thanks very much. I think -- should we take an end to the call please, operator? Yes, sorry. And we'll be available for the rest of the day to take follow-up questions for anyone if they have questions following the call, and we look forward to speaking to everyone again on our fourth quarter 2018 earnings call. 
+ 
+ 
+OperatorLadies and gentlemen, this does conclude the conference call for today. We thank you for your participation and ask that you kindly disconnect your lines. 
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved. 
+ 
+ 
+These materials have been prepared solely for information purposes based upon information generally available to the public and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic information received in connection with each analytical process. 
+ 
+ 
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com  (free of charge), and www.ratingsdirect.com  and www.globalcreditportal.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees. 
+© 2020 S&P Global Market Intelligence. 
+
+Contents
+
+
+
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence2
+
+ 
+
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence1
+
+IQVIA HOLDINGS INC.  FQ3 2018 EARNINGS CALL   |    OCT 22, 2018
+
+
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.3spglobal.com/marketintelligence 
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.7spglobal.com/marketintelligence 
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.17spglobal.com/marketintelligence 
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.18spglobal.com/marketintelligence 
+

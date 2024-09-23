@@ -1,0 +1,1810 @@
+CORE
+
+Lennox International
+EBIT growth at trough; Industry consolidation may be near at hand
+
+Following Q3 earnings, we lower our EPS estimates, and our Price Target falls to $230 from $239. Tornado issues aside, we thought there were some points of encouragement for LII, particularly amidst what is an increasingly challenging demand backdrop for many Multi-Industry companies (per our report `Q3 Learnings from Earnings Part 1; October 22, 2018'). We note that the share price has now reached a point which it has `bounced off' on 4 other occasions this year, which may suggest a favorable entry point.
+
+Top-line shortfall should reverse: LII sounded upbeat on the demand backdrop, noting that it had clearly lost share (due to the tornado) amidst a strong Resi market, and there were still several years left in the Replacement cycle in the US, while Commercial HVAC should re-accelerate in Q4. In Refrigeration, the market remains challenging, but LII seems to be out-growing its nearest competitor. We are watchful for signs that the housing weakness spills over into broader US construction / Buildings demand, but so far there is not much evidence of this.
+
+Margin set-up is encouraging: Our view for some time now (HVAC Markets stand out amidst a rising industrial tide; August 9, 2018) has been that the HVAC OEMs should enjoy a margin tailwind in 2019 as price / cost becomes more favorable, and what we heard suggests that industry competitive discipline is supporting ongoing price increases, and the rising tariffs should not be an insurmountable headwind.
+
+Consolidation prospects: Mr Bluedorn spent some time discussing HVAC consolidation on the earnings call; what we heard was consistent with what we have laid out in various reports since March (`LII ­ Winner amidst future consolidation; April 23, 2018' and `IR ­ CEO Meeting Takeaways; June 11, 2018'). We show inside updated LII-York Resi and LII-Carrier scenarios. We continue to think anti-trust is not a big hurdle to M&A among the Big 4 US OEMs, and await news from UTX and JCI regarding their portfolio reviews. We think LII is likely to be a net winner from consolidation.
+
+LII: Quarterly and Annual EPS (USD)
+
+2017
+
+2018
+
+2019
+
+Change y/y
+
+FY Dec Actual Old New Cons Old
+
+New Cons 2018 2019
+
+Q1
+
+0.85A 1.13A 1.13A 1.13A 1.70E 1.01E 1.43E
+
+Q2
+
+2.83A 3.67A 3.67A 3.67A 4.50E 4.17E 4.14E
+
+Q3
+
+2.53A 2.88E 2.72A 2.92E 3.58E 3.81E 3.69E
+
+Q4
+
+1.68A 1.56E 1.48E 1.52E 2.12E 2.71E 2.40E
+
+Year
+
+7.87A 9.24E 9.00E 9.23E 11.90E 11.70E 11.94E
+
+P/E
+
+24.5
+
+21.5
+
+16.5
+
+Source: Barclays Research. Consensus numbers are from Thomson Reuters received on 22-Oct-2018; 13:35 GMT
+
+33% 30% 8% -12% 14%
+
+-11% 14% 40% 83% 30%
+
+Barclays Capital Inc. and/or one of its affiliates does and seeks to do business with companies covered in its research reports. As a result, investors should be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only a single factor in making their investment decision.
+PLEASE SEE ANALYST CERTIFICATION(S) AND IMPORTANT DISCLOSURES BEGINNING ON PAGE 13.
+
+Equity Research
+Industrials | U.S. Multi-Industry 22 October 2018
+
+Stock Rating
+
+OVERWEIGHT Unchanged
+
+Industry View
+
+NEUTRAL Unchanged
+
+Price Target
+
+USD 230.00
+
+lowered -4% from USD 239.00
+
+Price (19-Oct-2018) Potential Upside/Downside Tickers
+
+USD 193.12 +19.1% LII
+
+Market Cap (USD mn) Shares Outstanding (mn) Free Float (%) 52 Wk Avg Daily Volume (mn) 52 Wk Avg Daily Value (USD mn) Dividend Yield (%) Return on Equity TTM (%) Current BVPS (USD)
+Source: Thomson Reuters
+
+7774 40.26 90.14
+0.3 64.96
+1.3 N/A -4.48
+
+Price Performance 52 Week range
+
+Exchange-NYSE USD 229.98-178.12
+
+Link to Barclays Live for interactive charting
+U.S. Multi-Industry Julian Mitchell +1 212 526 1661 julian.mitchell@barclays.com BCI, US
+Ronnie Weiss +1 212 526 8431 ronnie.weiss@barclays.com BCI, US
+Lee Sandquist + 1 212 526 3717 lee.sandquist@barclays.com BCI, US
+Jason Makishi +1 212 526 5335 jason.makishi@barclays.com BCI, US
+
+152
+
+Barclays | Lennox International
+
+U.S. Multi-Industry
+Lennox International Inc. (LII)
+
+Industry View: NEUTRAL Stock Rating: OVERWEIGHT
+
+Income statement ($mn) Revenue EBITDA EBIT Pre-tax income Net income (adj) EPS (adj) ($) Diluted shares (mn) DPS ($)
+
+2017A 3,652 497 432 402 336 7.87 42.7 1.87
+
+2018E 3,800
+565 502 460 369 9.00 41.0 2.25
+
+2019E 3,954
+709 646 602 465 11.70 39.8 2.52
+
+2020E 4,165
+794 731 686 530 12.53 42.3 2.82
+
+CAGR 4.5% 16.9% 19.1% 19.5% 16.4% 16.8% -0.3% 14.8%
+
+Margin and return data EBITDA margin (%) EBIT margin (%) Pre-tax margin (%) Net margin (%) ROIC (%) ROA (%) ROE (%)
+
+13.6 11.8 11.0
+6.7 26.8 13.9 892.8
+
+14.9 13.2 12.1
+9.4 48.7 18.8 736.9
+
+17.9 16.3 15.2 11.7 57.7 26.1 -379.4
+
+19.1 17.5 16.5 12.7 60.8 27.4 3,432.2
+
+Average 16.4 14.7 13.7 10.1 48.5 21.6
+1,170.6
+
+Balance sheet and cash flow ($mn) Cash and equivalents Total assets Goodwill Short and long-term debt Net debt/(funds) Total liabilities Shareholders' equity Tangible book value Inventories Working capital Cash flow from operations Capital expenditure Free cash flow
+
+68 1,892
+201 1,004
+936 1,841
+50 -150 484 642 194
+-98 96
+
+79 1,769
+1 1,004
+925 1,892 -123 -123
+494 608 453 -110 343
+
+146 1,923
+1 1,004
+858 1,908
+15 15 514 633 502 -107 395
+
+241 2,127
+1 1,004
+763 1,951
+176 176 541 646 578 -112 466
+
+CAGR 52.4%
+4.0% -86.4%
+0.0% -6.6% 1.9% 52.0%
+N/A 3.8% 0.2% 43.8% N/A 69.3%
+
+Price (19-Oct-2018)
+
+USD 193.12
+
+Price Target
+
+USD 230.00
+
+Why Overweight? Supported by improved
+
+incremental margins in 2019, and the pending
+
+Residential replacement cycle, we see upside to consensus estimates, and are encouraged by management's desire to review the portfolio
+
+Upside case
+
+USD 253.00
+
+Buoyant replacement cycle in US Resi HVAC plays
+
+out, and LII reached $13 in 2020 EPS, applying the
+
+average 5 year multiple premium implies a $250 upside value
+
+Downside case
+
+USD 177.00
+
+Continued commodity cost inflation, slowing Commercial demand, and a lackluster Refrigeration
+
+rebound
+
+Upside/Downside scenarios
+
+Valuation and leverage metrics P/E (adj) (x) EV/EBITDA (x) EV/sales (x) FCF yield (%) P/BV (x) Dividend yield (%) Net debt/EBITDA (x) Net debt/capital (%)
+
+24.5 18.4
+2.5 1.0 164.6 1.0 1.6 49.5
+
+21.5 16.2
+2.4 3.8 -64.7 1.2 1.6 52.3
+
+16.5 12.8
+2.3 4.4 497.3 1.3 1.2 44.6
+
+Average
+
+15.4
+
+19.5
+
+11.3
+
+14.7
+
+2.2
+
+2.3
+
+5.2
+
+3.6
+
+46.4
+
+160.9
+
+1.5
+
+1.2
+
+1.0
+
+1.3
+
+35.9
+
+45.5
+
+Selected operating metrics FCF/NI (x) R&D/sales (%) Capex/sales (%) Organic growth (%) Inventory turns (x) Tax rate (%) Incremental margins (%)
+
+0.4
+
+1.0
+
+0.9
+
+1.8
+
+1.8
+
+1.8
+
+2.7
+
+2.9
+
+2.7
+
+5.0
+
+3.6
+
+4.2
+
+5.4
+
+5.5
+
+5.6
+
+39
+
+22
+
+23
+
+-265.7 47.2 93.4
+
+Average
+
+0.9
+
+0.8
+
+1.8
+
+1.8
+
+2.7
+
+2.7
+
+5.3
+
+4.5
+
+5.4
+
+5.5
+
+23
+
+27
+
+40.5
+
+-21.2
+
+Source: Company data, Barclays Research Note: FY End Dec
+
+22 October 2018
+
+2
+153
+
+Barclays | Lennox International
+
+Key Exhibits
+We show below our updated EPS Bridges
+
+FIGURE 1 2018E EPS Bridge
+LII EPS Bridge Start EPS (2017) Organic volume Organic pricing FX Raw mat'l (Gross) Sourcing Tariffs Distribution/SG&A costs Freight Costs Marshalltown Tornado Productivity Interest Corporate Other Tax Share count End EPS 2018 Change in EPS y-o-y
+
+$ 7.87 $ 0.88 $ 1.22 $ (0.02) $ (0.82)
+
+5% core volume (exc-Tornado headwind) ~$80m pricing tailwind; $5m headwind from mix in 1H
+Neutral $45m gross headwind
+
+$ 0.57
+
+$30m tailwind, net of Tier Two commodity cost inflation
+
+$ (0.08)
+
+Section 301
+
+$ (0.33) $10m headwind from Distribution, $10m headwind from SG&A investment
+
+$ (0.41)
+
+$25m headwind
+
+$ (1.25)
+
+~$115m revenue, $65m EBIT headwind in Resi
+
+$ 0.12
+
+$5-10m of NA manufacturing productivity
+
+$ 0.07 $ 0.07 $ (0.07) $ 0.82 $ 0.35 $ 9.00
+
+$85m guide
+~23% tax rate assumed ~$450m buyback assumed
+Guide: $8.70-9.10
+
+$ 1.13
+
+FIGURE 2
+2019E EPS Bridge
+LII EPS Bridge Start EPS (2018) Organic volume Organic pricing FX Distribution/SG&A costs
+Incremental Headwinds in 2019 Insurance Proceeds to offset 2018 Total Tornado Impact Productivity Interest Corporate Other Tax Share count End EPS 2019 Change in EPS y-o-y
+
+$ 9.00
+$ 0.40 $ 1.45 $ (0.03) $ (0.11) $ (0.70) $ 1.25 $ 0.55 $ 0.07 $ (0.03) $ (0.03) $ 0.07 $ (0.00) $ 0.36 $11.70
+$ 2.70
+
+4.5% core volume (exc-Tornado headwind) 2% tailwind to revenue
+~23% tax rate assumed $250m buyback assumed
+
+Source: Company Data, Barclays Research
+
+Source: Company Data, Barclays Research
+
+Organic Sales
+We estimate that when excluding the Tornado impact, LII grew organic sales ~6% in Q3, a slight deceleration from Q2. In Commercial, we expect growth to rebound in Q4, following a subdued Q3 performance (National Account lumpiness in North America, and Customer digestion of commercial unitary price increases associated with F Gas regulation in Europe).
+
+FIGURE 3 Exc-Tornado impacts, LII Resi organic sales growth was similar in Q318 to Q218...
+
+Organic Sales
+30% Growth
+20%
+
+Lennox (Resi) UTX (Carrier Resi) IR (Resi) Daikin (Americas AC)* JCI (Resi HVAC Equip. / Buildings)** EMR (C&RS - Climate Tech) RBC (Climate Solutions)
+
+10%
+
+FIGURE 4 ...While LII Commercial demand moderated in Q3
+
+Organic Sales
+20G%rowth
+15%
+
+Lennox (Commercial) Daikin (Global AC)* JCI (HVAC & Refrig Product / Buildings)** IR (Global Comm'l HVAC) UTX (Global Comm'l HVAC)
+
+10%
+
+0%
+
+5%
+
+-10%
+
+0%
+
+-20% Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 14 15 15 15 15 16 16 16 16 17 17 17 17 18 18 18
+Source: Company Data, Barclays Research, *Daikin numbers are non-organic, **JCI Resi HVAC Equipment data only starts in Q3 17 before that it is total Buildings
+
+-5% Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 14 15 15 15 15 16 16 16 16 17 17 17 17 18 18 18
+Source: Company Data, Barclays Research, *Daikin numbers are non-organic, **JCI HVAC & Refrig Product data only starts in Q3 17 before that it is total Buildings
+
+22 October 2018
+
+3
+154
+
+Barclays | Lennox International
+
+FIGURE 5 LII seems to be out-growing its main local peer in Refrigeration
+
+Organic Sales Growth 10%
+
+Lennox (Refrig)
+
+DOV (R&FE)
+
+5%
+
+0%
+
+-5%
+
+-10%
+
+-15% Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 14 15 15 15 15 16 16 16 16 17 17 17 17 18 18 18
+Source: Company Data, Barclays Research
+
+HVAC Margins
+The combination of solid volume demand, higher prices, and levelling out in input costs, should lead to a sharp recovery in HVAC profits over the next two years. We note that following the last period when profits were suppressed by inflation pressure (2011-2012), there then followed a very sharp rebound (2013). Consensus assumes no such profit acceleration in 2019, which we believe may prove conservative.
+
+FIGURE 6 HVAC OEM profit growth should re-accelerate; consensus estimates for 2019+ may prove conservative if EBIT growth follows historical patterns
+
+EBIT Change (Y-o-Y, %)
+40%
+
+Commodity Prices
+(Y-o-Y, %)
+50%
+
+30%
+
+40%
+
+20%
+
+30%
+
+10%
+
+20%
+
+0%
+
+10%
+
+-10%
+
+0%
+
+-20%
+
+-10%
+
+-30%
+
+-20%
+
+-40%
+
+-30%
+
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018E 2019E 2020E
+
+OEM Average
+
+OEM Median
+
+Copper (RHS, Y-o-Y % Lagged 1 Year)
+
+Source: Company Data, Barclays Research, Companies / segments included in HVAC: IR, LII, UTX (CC&S), Note: Our estimates are higher than consensus (from Thomson Reuters Datastream) and estimates used above are our own
+
+22 October 2018
+
+4
+155
+
+Barclays | Lennox International
+
+FIGURE 7 Gross margins remained pressured, but headwinds would be abating...
+
+3.0% 2.5%
+
+LII Y-o-Y Change in
+Gross Margin (%)
+
+2.0%
+
+1.5%
+
+1.0%
+
+0.5%
+
+0.0%
+
+-0.5%
+
+-1.0%
+
+-1.5% Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 16 16 16 16 17 17 17 17 18 18 18
+Source: Barclays Research, Company Data
+
+FIGURE 8 ...as operating profit growth reaccelerates from a bottom
+
+60.0% 50.0% 40.0%
+
+LII Y-o-Y Change in Operating Profit (%)
+
+30.0%
+
+20.0%
+
+10.0%
+
+0.0%
+
+-10.0%
+
+-20.0% Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 16 16 16 16 17 17 17 17 18 18 18 18E19E19E19E19E
+
+Source: Barclays Research, Company Data; Note Profit growth in 2H19 is supported by insurance reimbursements related Iowa Tornado headwinds
+
+The combination of higher prices (from the carry-over of measures enacted in 2018) and lower input costs, could be a very powerful driver of higher gross margins for the HVAC industry in 2019.
+
+FIGURE 9 US Multi HVAC Pricing Impact
+
+2.5% 2.0%
+
+LII Top-line Pricing
+Impact (%)
+
+1.5%
+
+1.0%
+
+0.5%
+
+0.0%
+
+-0.5% Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 16 16 16 16 17 17 17 17 18 18 18
+Source: Company Data, Barclays Research, Companies Included are IR, LII
+
+FIGURE 10 Change in Input Costs Y-o-Y by quarter
+
+YoY Change in commodity price (%)
+
+160% 140% 120% 100%
+80% 60% 40% 20%
+0% -20% -40%
+
+Q217 Q317 Q417 Q118 Q218 Q318 Q418 Q119 Q219 Q319 Q419
+
+Source: Company Data, Barclays Research, Bloomberg Analytics, Prices as of 10/18/2018
+
+22 October 2018
+
+5
+156
+
+Barclays | Lennox International
+
+LII has kept its total cost guidance (including both commodity costs and freight expenses) at $70m, while taking up the estimated pricing tailwind.
+
+FIGURE 11 US Multi Industry Price / Cost (exc. Tariff) Guidance
+
+Company
+DOV EMR
+
+Date
+
+2017 Head / Tailwind
+
+10/18/2018 8/7/2018
+
+Gross
+
+Net -$15m
+
+2018 Original Guided Head / Tailwind ($m Q1 18 Guided Head / Tailwind ($m /
+
+/ Op margin bps)
+
+Op margin bps)
+
+Gross
+
+Net +$14m
+
+Neutral for the Full Year
+
+Gross
+
+Net +$4m
+
+Neutral for the Full Year
+
+2018 New (Q2) Guided Head / Tailwind ($m / Op margin bps)
+
+Gross
+
+Net +$0m
+
+Neutral for the Full Year
+
+ETN
+
+7/31/2018
+
+Neutral for the Full Year
+
+Neutral for the Full Year
+
+Neutral for the Full Year
+
+IR
+
+7/25/2018
+
+JCI
+
+7/31/2018
+
+-60bps
+
+0bps -$0.05 (~$40m) in 1H18 offset by price in
+2H18
+
+-25bps ~-$0.03 (~$25m) in 1H18 offset by
+price in 2H18
+
+-10bps ~$0.01 Pressure net of cost recovery
+
+LII
+
+10/22/2018 -$20m
+
+$0m
+
+-$40m
+
+$0m
+
+-$60m
+
+$0m
+
+-$70m
+
++$5m
+
+MMM PH* nVent PNR
+RBC
+SWK
+
+9/12/2018 8/2/2018 7/26/2018 7/25/2018
+
+$110m
+
+$110m
+
+'Net positive'
+
+-$45m
+
+-$22m
+
+8/7/2018
+
+Headwind
+
+7/20/2018 -$80m
+
+-$80m
+
+'More than offset inflation'
+
+Neutral for the Year
+
+-$27.5m
+
+'-$3.5m
+
+-$20m
+
++$4m
+
+Neutral
+
+-$150m
+
+-$50m
+
+'More than offset inflation'
+
+'Positive spread'
+
+-$27.5m
+
+-$3.5m
+
+-$29m -$180m
+
+-$5m Neutral to
+Slightly favorable
+-$60m
+
+'Better than neutral'
+
+'At a minimum, Neutral'
+
+-$50m
+
+-$22m
+
+-$80m
+
+-$39m Neutral to
+Slightly favorable
+-$35m
+
+UTX (CCS) 7/24/2018
+
+-$50m
+
+*PH is a June FY; outlooks from Q2 18 are for their FY 19
+
+Source: Barclays Research, Company Data
+
++$50m
+
+-$75m
+
++$35m
+
+-$100m
+
++$25m
+
+2018 New (Q2) Guided Head / Tailwind ($m / Op margin bps)
+
+Gross
+
+Net +$0m
+
+-$70m
+
++$10m
+
+Key Raw Materials
+Steel, Copper, Aluminum Steel, Copper, Cast Iron, Aluminum, Brass Iron, Steel, Copper, Nickel, Aluminum, Brass, Lead Total COGS: Aluminum (3%), Steel (6%), Copper (2%)
+Steel, Copper, Aluminum, Lead
+Total COGS: Steel (9%), Copper (8%), Aluminum (4%) Oil-derivative inputs (petroleum materials, metals, wood pulp)
+Steel, Brass, Copper, Aluminum, Nickel, Rubber Steel, Aluminum, Brass, Copper, Bronze Steel, Aluminum
+Within Raw Mats: Copper (90%), Aluminum (10%), Steel is negligible
+Steel, Zinc, Copper, Brass, Aluminum, Resins Steel, Copper, Aluminum, Titanium, Nickel
+
+In 2018, LII anticipates a $5m headwind from net tariff costs (Lists 1-3). When incorporating the potential impact of list 4, the annualized net tariff cost headwind increases by a little over 2X to ~$10m+ in 2019.
+
+FIGURE 12 US Multi Industry Tariff Impact Guidance, Updated for Q3 companies that have reported thus far
+
+Company
+ALLE CFX DHR DOV EMR ETN FLOW FTV GDI GE GTES
+
+Most Recent Reporting Date
+
+Q2 Guided Annual Headwind (EBIT $m)
+
+7/19/2018 8/6/2018 10/18/2018 10/18/2018 8/7/2018 7/31/2018 8/1/2018 7/26/2018 8/2/2018 7/20/2018 8/1/2018
+
+Gross 'Little Effect'
+'$1-2m of max pressure' ~$0.04 EPS Small part of $55m commodity headwind
+~$65m 'Less than $10m'
+~$0.12 EPS ~$5-7m
+~$300-400m ~$10-15m
+
+Net
+'Slightly green' Neutral Neutral Neutral Neutral Neutral
+
+HON
+
+10/19/2018
+
+Minimal impact to our overall business results'
+
+IR JCI KMT LII MMM nVent PH PNR RBC ROK ROP RXN SWK UTX
+
+7/25/2018 7/31/2018 8/7/2018 10/22/2018 7/23/2018 7/26/2018 8/2/2018 7/25/2018 8/7/2018 7/25/2018 7/26/2018 7/31/2018 7/20/2018 7/24/2018
+
+Minimal impact in Q4
+~$5m ~$10m ~$5m ~$20m
+
+~$35m ~$0.05
+
+No Impact
+
+Source: Barclays Research, Company Data
+
+Total price / cost Neutral
+'Not material' Neutral ~$10m
+Neutral 'Very little impact'
+Neutral Less than $0.05 EPS (Q4)
+Neutral $10-20m (Barclays est.)
+
+Q3 Guided Annual Headwind (EBIT $m)
+
+Gross
+
+Net
+
+~$0.05 EPS Small part of total cost headwind
+
+Minimal FY 18 impact, significant 2019 prior to mitigations; 'tens of millions of
+pressure [in 2018]...getting into hundreds of millions of dollars [into
+2019]
+
+~$5m for FY 18; >2X $5m for FY 19
+
+'Net positive' in FY 18 / FY 19
+
+Lists Addressed within Section 301 (by latest guidance)
+Lists 1, 2, 3 Lists 1, 2, 3
+List 1, 2 List 1
+List 1, 2 Lists 1, 2, 3
+Lists 1, 2, 3, 4
+Lists 1, 2 List 1
+Lists 1, 2, 3, 4 List 1
+Lists 1, 2, 3 Lists 1, 2, 3
+Lists 1, 2 List 1
+Lists 1, 2 Lists 1, 2
+
+22 October 2018
+
+6
+157
+
+Barclays | Lennox International
+
+HVAC Consolidation
+LII provided considerable commentary on HVAC consolidation on the earnings call, which was broadly consistent with what we have written about throughout the year. For background, please see our initial report (`HVAC / F&S Consolidation; March 14, 2018') and our follow up in August (`HVAC Markets stand out amidst a rising industrial tide; August 9, 2018'). In the event that consolidation does occur but LII is not one of the involved parties, we think that it will likely win organic market share, particularly as some of its biggest rivals will be involved in a multi-year restructuring; if it is involved, we think most putative transactions are likely to be highly accretive and generate considerable synergies.
+As Mr. Bluedorn pointed out (consistent with the point we made in March), the main catalyst for HVAC consolidation to occur now is that two of the larger global players, JCI and UTX, are both undertaking strategic portfolio reviews. We expect to hear the outcome of the JCI review by early November, and we expect to hear from UTX by mid-November, based on the timelines previously laid out by their management teams.
+The rationales that LII cited for consolidation were consistent with what we had highlighted in our report following meetings with the Ingersoll CEO Mike Lamach (`IR ­ CEO Meeting Takeaways; June 11, 2018'), including:
+ The need for continuous investment to drive up efficiency in HVAC products, to meet tighter environment standards;
+ The growing importance of having strong controls offerings alongside traditional equipment;
+ The increasing role of digital / information management / data analytics offerings;
+ Traditional supplier / COGS savings from factory footprint and supplier consolidation;
+ Savings from reduction of corporate and SG&A expenses.
+We continue to think that anti-trust considerations are not a huge barrier to consolidation (something which Mr. Bluedorn also seems to be believe), and nor are differing distribution models (Mr. Bluedorn on this point noted that "in an industry like this, when you consolidate...there will be some period of time leaving distribution alone....I don't think you want to sort of go from one model to another model quickly").
+We show below the positioning of the major players in the HVAC industry. Our understanding is that LII would prefer to stay focused on unitary HVAC, rather than move into the Applied world, in any meaningful way.
+
+FIGURE 13 HVAC Market Global Positioning Chart
+
+HVAC market
+Comm'l Building / HVAC Controls Commercial Applied HVAC Commercial Unitary HVAC Resi Unitary / Light Comm'l HVAC Transport Refrigeration VRF HVAC Technology
+
+Daikin
+Some Some Strong Strong None Strong
+
+Midea
+None None Some Strong None Strong
+
+Gree
+None None Some Strong None Strong
+
+HON
+Strong None None None None None
+
+IR
+Strong Strong Strong Some Strong Strong
+
+JCI
+Strong Strong Some Some None Strong
+
+LII
+Some None Some Strong None Some
+
+Nortek
+Some None Some Some None Some
+
+Schneider Siemens
+
+Strong None None None None None
+
+Strong None None None None None
+
+UTX
+Some Some Strong Strong Strong Some
+
+Source: Barclays Research. Midea, Gree, Daikin, and Nortek, are not covered. Schneider Electric and Siemens are covered by European Capital Goods analyst, James Stettler.
+
+22 October 2018
+
+7
+158
+
+Barclays | Lennox International
+
+We show below where we see the biggest anti-trust risks facing HVAC consolidation among the Big 4 US players ­ transport refrigeration is the major such area, in our view (where LII does not participate).
+
+FIGURE 14 HVAC Anti-trust concerns
+
+Anti-trust risk?
+IR JCI (Buildings)
+LII UTX (CC&S)
+
+IR
+--Small risk in Applied HVAC
+No Transport Refrig. Anti-Trust
+
+Source: Barclays Research
+
+JCI
+Small risk in Applied HVAC --No No
+
+LII
+No No --Resi Anti-Trust
+
+UTX
+Transport Refrig. Anti-Trust No
+Resi Anti-Trust ---
+
+LII ­ York Residential Scenario
+In response to a question on the call regarding consolidation, LII's CEO noted "the York business can certainly combine with us."
+
+FIGURE 15 LII ­ York Residential / Light Commercial Transaction (for Illustrative Purposes Only)
+
+LII - York Transaction Overview Purchase EV Purchase EV/EBITDA Purchase EV/Sales
+
+1,560.0 13.0x 1.6x
+
+LII - York P&L
+York (Residential / Light Commercial) Revenue ($m) YoY % Growth
+
+Cash on Balance Sheet (2018) Cash kept on Balance Sheet (2018) Debt Raised
+Interest Expense (%)
+
+79 79 1560
+2.5%
+
+EBIT($m) EBIT margin (%) EBIT incremental margin (%)
+Synergies ($m) Synergies (% of target sales)
+
+Core LII EBITDA York EBITDA Pro Forma EBITDA
+
+585 Interest Expense ($m) 120 705 PTP ($m)
+
+Core LII Debt Deal Debt Raise Pro Forma Debt Pro Forma Net Debt
+
+1004 1560 2564 2485
+
+Tax ($m) Effective Tax Rate (%)
+Net Income ($m)
+
+Pro Forma ND/EBITDA
+
+3.5x
+
+EPS ($) Accretion (%)
+
+Source: Barclays Research; Units in $m or % unless otherwise indicated
+
+2019
+
+2020
+
+1,030 3%
+108 10.4%
+25%
+10 1%
+(39)
+79
+(18) 22.9%
+61
+$1.53 13%
+
+1,061 3%
+115 10.9%
+25%
+21 2%
+(39)
+97
+(22) 22.9%
+75
+$1.78 14%
+
+22 October 2018
+
+8
+159
+
+Barclays | Lennox International
+
+LII ­ Carrier RMT Scenario
+In response to a question on the call regarding consolidation with Carrier, the LII CEO noted "my guess is they could combine with us." As we highlighted in a recent report, `UTX ­ Press reports that UTX is exploring sale of Chubb F&S; September 24, 2018', UTX seems to be in the midst of divesting the non-HVAC parts of its CC&S division, which may render what is left of CC&S as easier to merge with a partner, or else list it separately as a standalone HVAC entity (similar to LII).
+
+FIGURE 16 LII ­ Carrier RMT ­ Value to LII Shareholders; Illustrative Capital Structure of the RMT
+
+LII Debt LII EBITDA Elims / Corporate Total EBITDA Net Debt Net Debt/EBITDA
+
+2019 707 0 707 925 1.3x
+
+Allocate Debt to UTX CC&S CC&S Carrier - Core EBITDA Additional Stand-up Costs Total EBITDA Net Debt Net Debt/EBITDA
+
+2019 1,588
+(50) 1,538 3,308
+2.2x
+
+LII 'Buildings NewCo' Following RMT with UTX CC&S LII EBITDA CC&S Carrier - Core EBITDA CC&S Carrier Minorities Elims / Corporate (LII) Additional Stand-up Costs (UTX Carrier, given existing LII Treasury/Corporate functions)
+Total EBITDA Net Debt Net Debt/EBITDA
+Source: Barclays Research, Company Data, Units are in $m, unless % or a multiple
+
+2019 707
+1,588 -113
+0 -50 2,132 4,232 2.0x
+
+FIGURE 17 LII ­ Carrier RMT ­ Value to LII Shareholders
+
+LII HVAC NewCo:
+
+2019 EBITDA
+
+Enterprise Value
+
+Valuation method
+
+LII
+
+707
+
+9,196 13X; Current Multiple
+
+CC&S Carrier - Core EBITDA
+
+1,588
+
+17,463 11.0X; Premium to IR
+
+CC&S Carrier Minorities
+
+(113)
+
+(1,246) 11.0X; In-line with Core
+
+Additional CC&S Stand-up Costs
+
+(50)
+
+(550) 11.0X; In-line with Core
+
+New Buildings NewCo (Pre-Synergies)
+
+2,132
+
+24,863
+
+NPV (Synergies)
+
+0
+
+3,909
+
+NPV
+
+Total Buildings NewCo
+
+2,132
+
+28,772
+
+14.5X (implied)
+
+Note: Synergies net of cash costs to derive assumed ~$0m in 2019, given 2019 close.
+
+13.5
+
+LII Shareholder Ownership of NewCo: UTX Shareholder Ownership of NewCo:
+
+32% 68%
+
+32% 68%
+
+LII Shareholders own: 32% of NewCo EBITDA 32% of NewCo Debt Total MV MV / share
+
+2019 EBITDA Enterprise Value
+
+672
+
+9,066
+
+963
+
+8,103
+
+$
+
+197.52
+
+Valuation method 13.5
+
+Current LII MV Premium to Current Market Valuation
+
+7,774 4%
+
+Source: Barclays Research, Company Data, Units are in $m, unless % or a multiple
+
+22 October 2018
+
+9
+160
+
+Barclays | Lennox International
+
+Summary Financials
+
+FIGURE 18 P&L
+Income Statement Sales YoY%
+
+2015 3,467
+3%
+
+2016 3,642
+5%
+
+2017 2018E 2019E 2020E 3,652 3,800 3,954 4,165
+0% 4% 4% 5%
+
+Operating Profit (clean) Margin
+
+378 470 508 521 644 729 10.9% 12.9% 13.9% 13.7% 16.3% 17.5%
+
+Interest Expense Other Income/ (Expense) PTP
+
+(24) (27) (31) (39) (40) (41)
+
+1
+
+0
+
+0
+
+(4) (4) (4)
+
+355 443 478 479 600 684
+
+Tax Expense Tax Rate
+
+(95) (124) (157) (104) (139) (158) 26.9% 28.0% 32.8% 21.7% 23.2% 23.1%
+
+Net Income Adjustments Adjusted Net income Margin
+
+187 47
+234 6.8%
+
+310 27
+337 9.3%
+
+245 29
+273 7.5%
+
+356 15
+370 9.7%
+
+463 2
+464 11.7%
+
+528 2
+529 12.7%
+
+Diluted EPS - continuing operations
+
+$5.14 $7.66 $7.87 $9.00 $11.70 $12.53
+
+YoY%
+
+17% 49% 3% 14% 30% 7%
+
+NOSH
+
+45.60 44.00 42.70 41.03 39.76 42.28
+
+Source: Barclays Research estimates, Company Data; All Units in $m or % unless otherwise indicated
+
+FIGURE 19 Balance Sheet
+Balance Sheet Cash Other current assets Current assets
+
+2015 39
+899 938
+
+2016 50
+956 1,006
+
+2017 68
+1,069 1,137
+
+2018E 79
+1,085 1,165
+
+2019E 146
+1,126 1,272
+
+2020E 241
+1,182 1,423
+
+PP&E Goodwill/ Intangibles Other LT assets Total LT assets Total assets
+
+340 195 207 742 1,680
+
+361 195 198 754 1,760
+
+398 201 156 754 1,892
+
+448 1
+156 604 1769.3
+
+495 1
+156 651 1,923
+
+547 1
+156 704 2,127
+
+ST debt Other current liabilities Current liabilities
+
+204
+
+52
+
+1
+
+1
+
+1
+
+1
+
+620 836 654 704 720 763
+
+824 889 655 705 721 764
+
+LT debt Other LT liabilities LT liabilities Total liabilities
+
+509 246 755 1,579
+
+616 218 834 1,722
+
+971 216 1,187 1,841
+
+971 216 1,187 1,892
+
+971 216 1,187 1,908
+
+971 216 1,187 1,951
+
+Shareholders' Equity
+
+102
+
+38
+
+50 (123) 15 176
+
+Total liabilities and Shareholders' Equity
+
+1,680 1,760 1,892 1,769 1,923 2,127
+
+Source: Barclays Research estimates, Company Data; All Units in $m or % unless otherwise indicated
+
+22 October 2018
+
+10
+161
+
+Barclays | Lennox International
+
+FIGURE 20 Cash Flow
+Cash flow Net income D&A Change in working capital Other cash flow from operations Cash flow from operations
+
+2015 187
+63 39
+0 289
+
+2016 310
+58 (6) 0 363
+
+2017 245
+65 (115)
+0 194
+
+2018E 356 64 34 0 453
+
+2019E 463 64 (25) 0 502
+
+2020E 528 64 (13) 0 578
+
+Capex Other cash flow from investments Cash flow from investments
+
+(70) (84) 59 (18) (11) (102)
+
+(98) (110) (107) (112)
+
+19 197
+
+(3) (4)
+
+(80) 86 (110) (116)
+
+Cash flow from financing
+
+(276) (249) (97) (528) (325) (367)
+
+Total cash flow
+
+1
+
+11
+
+18
+
+11
+
+67
+
+95
+
+Source: Barclays Research estimates, Company Data; All Units in $m or % unless otherwise indicated
+
+FIGURE 21 Divisional Summary
+Divisional Revenue Residential Heating & Cooling Commercial Heating & Cooling Refrigeration Total Segment Revenues
+
+2015 2016 2017 2018E 2019E 2020E
+
+1867 887 714
+3468
+
+2001 918 723
+3642
+
+2140 974 538
+3652
+
+2212 1040
+548 3800
+
+2301 1095
+558 3954
+
+2462 1133
+569 4165
+
+YoY Revenue Change Residential Heating & Cooling Commercial Heating & Cooling Refrigeration Total Change
+
+8% 7% 7% 3% 4% 7% 1% 3% 6% 7% 5% 4% -5% 1% -26% 2% 2% 2% 3% 5% 0% 4% 4% 5%
+
+Operating Profit Residential Heating & Cooling Commercial Heating & Cooling Refrigeration Corporate Total Segment Operating Profit
+
+278 349 374 371 462 536
+
+130 149 157 165 193 205
+
+53
+
+69
+
+66
+
+71
+
+75
+
+81
+
+(84) (97) (89) (85) (87) (93)
+
+378 470 508 521 644 729
+
+Operating Margin Residential Heating & Cooling Commercial Heating & Cooling Refrigeration Total Segment Operating Margin
+
+14.9% 14.7%
+7.4% 10.9%
+
+17.4% 16.3%
+9.5% 12.9%
+
+17.5% 16.2% 12.3% 13.9%
+
+16.8% 15.9% 12.9% 13.7%
+
+20.1% 17.7% 13.5% 16.3%
+
+21.8% 18.1% 14.3% 17.5%
+
+Incremental Margin
+
+Residential Heating & Cooling
+
+33% 53% 18% -5% 102%
+
+Commercial Heating & Cooling
+
+72% 62% 14% 12% 52%
+
+Refrigeration
+
+6% 170% 1% 44% 48%
+
+Total
+
+37% 53% 356% 9% 80%
+
+Source: Barclays Research estimates, Company Data; All Units in $m or % unless otherwise indicated
+
+46% 30% 53% 41%
+
+22 October 2018
+
+11
+162
+
+Barclays | Lennox International
+
+FIGURE 22 LII ­ One Pager
+
+Revenue Split by Segment
+
+Refri g er
+
+ati o n 15%
+
+Res i d en tial
+
+Heati n g
+
+&
+
+Co o l ing
+
+58%
+
+Co mmer cial
+Heati n g &
+Co o l ing 27%
+
+Revenue Split by Geography Asia Pacific 4% Euro p e 8%
+America s
+88%
+
+Lennox
+
+Revenue Split by Customer
+
+Co mmer cial 46%
+
+Res i d en tial 54%
+
+Revenue Split by End Market New Co n s tru c ti o n 27%
+Rep l ac e men t 73%
+
+2017 Sales (mn) % of total Operating Profit % of total Operating Margin (%)
+Products / Services
+Major Brands
+
+Residential Heating & Cooling 2140.4 59% 373.9 62.6% 17.5%
+Furnaces, air conditioners, heat pumps,
+packaged heating and cooling systems, indoor air quality equipment, comfort control products,
+Lennox, Dave Lennox Signature, Armstrong Air, Ducane, Aire-Flo, Air-Ease, Concord, Magic-Pak, ADP: Advanced
+
+Commercial Heating & Cooling 973.8 27% 157.3 26.3% 16.2%
+Unitary heating and air conditioning equipment,
+applied systems, controls, installation and service of commercial heating and cooling equipment Lennox, Allied Commercial, Magic-Pak, Raider,
+Landmark, Prodigy, Strategos, Energence and Lennox
+
+Distributor Products, iComfort and Lennox PartsPlus
+
+National Account Services
+
+Main Competitors
+Replacement New Construction Exclusive LII Brand Allied Brand
+
+UTX, Ingersoll-Rand, Paloma Industries, Johnson Controls, Daikin Industries, Nortek 80.0% 20.0% 80.0% 20.0%
+
+UTX, Ingersoll-Rand, Paloma Industries, Johnson Controls, Daikin Industries, Nortek, AAON 75.0% 25.0% 90.0% 10.0%
+
+Geographic sales split
+
+Americas Europe Asia Pacific
+
+100% 0% 0%
+
+75% 25% 0%
+
+Source: Barclays Research, Company Data; All Units in $m or % unless otherwise indicated
+
+Refrigeration 538.2 15% 66.2 11.1% 12.3%
+Condensing units, unit coolers, fluid coolers, air cooled condensers, air handlers, process chillers,
+controls, compressorized racks, supermarket Heatcraft Worldwide Refrigeration, Bohn, Larkin, Climate Control, Chandler Refrigeration, Kysor/Warren,
+Friga-Bohn, HK Refrigeration, Hyfra, Kirby
+Hussmann, Rheem Manufacturing, EMR, UTX, GEA, Alfa Laval; Guntner GmbH, Panasonic, Hill-Phoenix (DOV)
+67.0% 33.0% 50.0% 50.0%
+60% 13% 27%
+
+Segment Total 3652.4 100% 597.4 100.0% 16.4%
+73.0% 27.0% 75.0% 25.0%
+88% 8% 4%
+
+Valuation: Our Overweight rating and $230 target price are predicated upon the following methodology: DCF (4% growth, 16% OM, 8% WACC); EV/EBITDA (12.5x 2020 EBITDA); P/E (19x 2020 EPS); FCF (5.5% yield). Our prior target price was predicated upon the following methodology: DCF (4% growth, 16% OM, 8% WACC); EV/EBITDA (15x 2019 EBITDA); P/E (23x 2019 EPS); FCF (4.5% yield).
+
+22 October 2018
+
+12
+163
+
+Barclays | Lennox International
+ANALYST(S) CERTIFICATION(S): I, Julian Mitchell, hereby certify (1) that the views expressed in this research report accurately reflect my personal views about any or all of the subject securities or issuers referred to in this research report and (2) no part of my compensation was, is or will be directly or indirectly related to the specific recommendations or views expressed in this research report.
+
+IMPORTANT DISCLOSURES CONTINUED
+Barclays Research is produced by the Investment Bank of Barclays Bank PLC and its affiliates (collectively and each individually, "Barclays"). All authors contributing to this research report are Research Analysts unless otherwise indicated. The publication date at the top of the report reflects the local time where the report was produced and may differ from the release date provided in GMT.
+Availability of Disclosures:
+Where any companies are the subject of this research report, for current important disclosures regarding those companies please refer to https://publicresearch.barclays.com or alternatively send a written request to: Barclays Research Compliance, 745 Seventh Avenue, 13th Floor, New York, NY 10019 or call +1-212-526-1072.
+The analysts responsible for preparing this research report have received compensation based upon various factors including the firm's total revenues, a portion of which is generated by investment banking activities, the profitability and revenues of the Markets business and the potential interest of the firm's investing clients in research with respect to the asset class covered by the analyst.
+Analysts regularly conduct site visits to view the material operations of covered companies, but Barclays policy prohibits them from accepting payment or reimbursement by any covered company of their travel expenses for such visits.
+Barclays Research Department produces various types of research including, but not limited to, fundamental analysis, equity-linked analysis, quantitative analysis, and trade ideas. Recommendations contained in one type of Barclays Research may differ from those contained in other types of Barclays Research, whether as a result of differing time horizons, methodologies, or otherwise.
+In order to access Barclays Statement regarding Research Dissemination Policies and Procedures, please refer to https://publicresearch.barcap.com/S/RD.htm. In order to access Barclays Research Conflict Management Policy Statement, please refer to: https://publicresearch.barcap.com/S/CM.htm.
+Primary Stocks (Ticker, Date, Price)
+Lennox International (LII, 19-Oct-2018, USD 193.12), Overweight/Neutral, CD/CE/J
+Prices are sourced from Thomson Reuters as of the last available closing price in the relevant trading market, unless another time and source is indicated.
+Disclosure Legend:
+A: Barclays Bank PLC and/or an affiliate has been lead manager or co-lead manager of a publicly disclosed offer of securities of the issuer in the previous 12 months.
+B: An employee or non-executive director of Barclays Bank PLC and/or an affiliate is a director of this issuer.
+CD: Barclays Bank PLC and/or an affiliate is a market-maker in debt securities issued by this issuer.
+CE: Barclays Bank PLC and/or an affiliate is a market-maker in equity securities issued by this issuer.
+D: Barclays Bank PLC and/or an affiliate has received compensation for investment banking services from this issuer in the past 12 months.
+E: Barclays Bank PLC and/or an affiliate expects to receive or intends to seek compensation for investment banking services from this issuer within the next 3 months.
+FA: Barclays Bank PLC and/or an affiliate beneficially owns 1% or more of a class of equity securities of this issuer, as calculated in accordance with US regulations.
+FB: Barclays Bank PLC and/or an affiliate beneficially owns a long position of more than 0.5% of a class of equity securities of this issuer, as calculated in accordance with EU regulations.
+FC: Barclays Bank PLC and/or an affiliate beneficially owns a short position of more than 0.5% of a class of equity securities of this issuer, as calculated in accordance with EU regulations.
+GD: One of the analysts on the fundamental credit coverage team (or a member of his or her household) has a financial interest in the debt or equity securities of this issuer.
+GE: One of the analysts on the fundamental equity coverage team (or a member of his or her household) has a financial interest in the debt or equity securities of this issuer.
+H: This issuer beneficially owns more than 5% of any class of common equity securities of Barclays PLC.
+I: Barclays Bank PLC and/or an affiliate is party to an agreement with this issuer for the provision of financial services to Barclays Bank PLC and/or an affiliate.
+J: Barclays Bank PLC and/or an affiliate is a liquidity provider and/or trades regularly in the securities of this issuer and/or in any related derivatives.
+K: Barclays Bank PLC and/or an affiliate has received non-investment banking related compensation (including compensation for brokerage services, if applicable) from this issuer within the past 12 months.
+
+22 October 2018
+
+13
+164
+
+Barclays | Lennox International
+
+IMPORTANT DISCLOSURES CONTINUED
+
+L: This issuer is, or during the past 12 months has been, an investment banking client of Barclays Bank PLC and/or an affiliate.
+
+M: This issuer is, or during the past 12 months has been, a non-investment banking client (securities related services) of Barclays Bank PLC and/or an affiliate.
+N: This issuer is, or during the past 12 months has been, a non-investment banking client (non-securities related services) of Barclays Bank PLC and/or an affiliate.
+
+O: Not in use.
+P: A partner, director or officer of Barclays Capital Canada Inc. has, during the preceding 12 months, provided services to the subject company for remuneration, other than normal course investment advisory or trade execution services.
+
+Q: Barclays Bank PLC and/or an affiliate is a Corporate Broker to this issuer.
+
+R: Barclays Capital Canada Inc. and/or an affiliate has received compensation for investment banking services from this issuer in the past 12 months.
+
+S: This issuer is a Corporate Broker to Barclays PLC.
+
+T: Barclays Bank PLC and/or an affiliate is providing equity advisory services to this issuer. U: The equity securities of this Canadian issuer include subordinate voting restricted shares. V: The equity securities of this Canadian issuer include non-voting restricted shares.
+
+Risk Disclosure(s)
+
+Master limited partnerships (MLPs) are pass-through entities structured as publicly listed partnerships. For tax purposes, distributions to MLP unit holders may be treated as a return of principal. Investors should consult their own tax advisors before investing in MLP units.
+
+Guide to the Barclays Fundamental Equity Research Rating System:
+
+Our coverage analysts use a relative rating system in which they rate stocks as Overweight, Equal Weight or Underweight (see definitions below) relative to other companies covered by the analyst or a team of analysts that are deemed to be in the same industry (the "industry coverage universe").
+
+In addition to the stock rating, we provide industry views which rate the outlook for the industry coverage universe as Positive, Neutral or Negative (see definitions below). A rating system using terms such as buy, hold and sell is not the equivalent of our rating system. Investors should carefully read the entire research report including the definitions of all ratings and not infer its contents from ratings alone.
+
+Stock Rating
+
+Overweight - The stock is expected to outperform the unweighted expected total return of the industry coverage universe over a 12-month investment horizon.
+
+Equal Weight - The stock is expected to perform in line with the unweighted expected total return of the industry coverage universe over a 12month investment horizon.
+Underweight - The stock is expected to underperform the unweighted expected total return of the industry coverage universe over a 12-month investment horizon.
+
+Rating Suspended - The rating and target price have been suspended temporarily due to market events that made coverage impracticable or to comply with applicable regulations and/or firm policies in certain circumstances including where the Investment Bank of Barclays Bank PLC is acting in an advisory capacity in a merger or strategic transaction involving the company.
+
+Industry View
+
+Positive - industry coverage universe fundamentals/valuations are improving. Neutral - industry coverage universe fundamentals/valuations are steady, neither improving nor deteriorating.
+
+Negative - industry coverage universe fundamentals/valuations are deteriorating.
+
+Below is the list of companies that constitute the "industry coverage universe":
+
+U.S. Multi-Industry Allegion plc (ALLE) Dover Corporation (DOV)
+
+Colfax Corporation (CFX) Eaton Corporation (ETN)
+
+Danaher Corp. (DHR) Emerson Electric Co. (EMR)
+
+Fortive Corporation (FTV) General Electric (GE) Ingersoll-Rand Plc (IR)
+
+Gardner Denver (GDI) HD Supply Inc (HDS) Johnson Controls International (JCI)
+
+Gates Industrial Corp. Plc (GTES) Honeywell International Inc. (HON) Kennametal (KMT)
+
+Lennox International (LII)
+
+nVent Electric plc (NVT)
+
+Parker-Hannifin Corp (PH)
+
+Pentair plc (PNR) Rockwell Automation Inc. (ROK)
+
+Regal Beloit Corporation (RBC) Roper Technologies Inc (ROP)
+
+Rexnord (RXN) SPX Flow (FLOW)
+
+Stanley Black & Decker Inc. (SWK)
+
+The 3M Company (MMM)
+
+United Technologies Corporation (UTX)
+
+22 October 2018
+
+14
+165
+
+Barclays | Lennox International
+IMPORTANT DISCLOSURES CONTINUED
+Distribution of Ratings: Barclays Equity Research has 1542 companies under coverage. 44% have been assigned an Overweight rating which, for purposes of mandatory regulatory disclosures, is classified as a Buy rating; 58% of companies with this rating are investment banking clients of the Firm; 75% of the issuers with this rating have received financial services from the Firm. 38% have been assigned an Equal Weight rating which, for purposes of mandatory regulatory disclosures, is classified as a Hold rating; 47% of companies with this rating are investment banking clients of the Firm; 67% of the issuers with this rating have received financial services from the Firm. 15% have been assigned an Underweight rating which, for purposes of mandatory regulatory disclosures, is classified as a Sell rating; 37% of companies with this rating are investment banking clients of the Firm; 68% of the issuers with this rating have received financial services from the Firm. Guide to the Barclays Research Price Target: Each analyst has a single price target on the stocks that they cover. The price target represents that analyst's expectation of where the stock will trade in the next 12 months. Upside/downside scenarios, where provided, represent potential upside/potential downside to each analyst's price target over the same 12-month period. Top Picks: Barclays Equity Research's "Top Picks" represent the single best alpha-generating investment idea within each industry (as defined by the relevant "industry coverage universe"), taken from among the Overweight-rated stocks within that industry. Barclays Equity Research publishes "Top Picks" reports every quarter and analysts may also publish intra-quarter changes to their Top Picks, as necessary. While analysts may highlight other Overweight-rated stocks in their published research in addition to their Top Pick, there can only be one "Top Pick" for each industry. To view the current list of Top Picks, go to the Top Picks page on Barclays Live (https://live.barcap.com/go/keyword/TopPicks). To see a list of companies that comprise a particular industry coverage universe, please go to https://publicresearch.barclays.com. Types of investment recommendations produced by Barclays Equity Research: In addition to any ratings assigned under Barclays' formal rating systems, this publication may contain investment recommendations in the form of trade ideas, thematic screens, scorecards or portfolio recommendations that have been produced by analysts within Equity Research. Any such investment recommendations shall remain open until they are subsequently amended, rebalanced or closed in a future research report. Disclosure of other investment recommendations produced by Barclays Equity Research: Barclays Equity Research may have published other investment recommendations in respect of the same securities/instruments recommended in this research report during the preceding 12 months. To view all investment recommendations published by Barclays Equity Research in the preceding 12 months please refer to https://live.barcap.com/go/research/Recommendations. Legal entities involved in producing Barclays Research: Barclays Bank PLC (Barclays, UK) Barclays Capital Inc. (BCI, US) Barclays Securities Japan Limited (BSJL, Japan) Barclays Bank PLC, Hong Kong branch (Barclays Bank, Hong Kong) Barclays Capital Canada Inc. (BCCI, Canada) Barclays Bank Mexico, S.A. (BBMX, Mexico) Barclays Securities (India) Private Limited (BSIPL, India) Barclays Bank PLC, India branch (Barclays Bank, India) Barclays Bank PLC, Singapore branch (Barclays Bank, Singapore)
+
+22 October 2018
+
+15
+166
+
+Barclays | Lennox International
+
+IMPORTANT DISCLOSURES CONTINUED
+
+Lennox International (LII / LII)
+USD 193.12 (19-Oct-2018)
+
+Stock Rating OVERWEIGHT
+
+Industry View NEUTRAL
+
+Rating and Price Target Chart - USD (as of 19-Oct-2018)
+
+Currency=USD
+
+Publication Date Closing
+
+Rating
+
+Adjusted Price
+
+Price
+
+Target
+
+250
+
+09-Aug-2018
+
+216.97
+
+239.00
+
+225
+
+14-Feb-2018
+
+203.73
+
+Overweight
+
+233.00
+
+06-Jul-2017
+
+183.91 Coverage Dropped
+
+200
+
+14-Dec-2016
+
+160.17
+
+164.00
+
+17-Oct-2016
+
+155.22
+
+146.00
+
+175
+
+18-Jul-2016
+
+149.20
+
+143.00
+
+18-Apr-2016
+
+137.17
+
+137.00
+
+150
+
+19-Jan-2016
+
+116.51
+
+117.00
+
+On 22-Oct-2015, prior to any intra-day change that may have been
+
+125
+
+published, the rating for this security was Equal Weight, and the adjusted
+
+price target was 118.00.
+
+100
+
+Jan- 2016 Jul- 2016 Jan- 2017
+
+Closing Price
+
+Target Price
+
+Jul- 2017 Jan- 2018 Jul- 2018
+
+Rating Change
+
+Drop Coverage
+
+Source: Thomson Reuters, Barclays Research
+Historical stock prices and price targets may have been adjusted for stock splits and dividends.
+
+Source: IDC, Barclays Research
+
+Link to Barclays Live for interactive charting CD: Barclays Bank PLC and/or an affiliate is a market-maker in debt securities issued by Lennox International.
+CE: Barclays Bank PLC and/or an affiliate is a market-maker in equity securities issued by Lennox International.
+J: Barclays Bank PLC and/or an affiliate is a liquidity provider and/or trades regularly in the securities by Lennox International and/or in any related derivatives.
+Valuation Methodology: Our Overweight rating and $230 target price are predicated upon the following methodology: DCF (4% growth, 16% OM, 8% WACC); EV/EBITDA (12.5x EBITDA); P/E (19x EPS); FCF (5.5% yield)
+Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: 75% of LII COGS are comprised of material components and commodities; further inflation could present a headwind for Residential profitability.
+
+22 October 2018
+
+16
+167
+
+DISCLAIMER:
+This publication has been produced by Barclays Research Department in the Investment Bank of Barclays Bank PLC and/or one or more of its affiliates (collectively and each individually, "Barclays"). It has been distributed by one or more Barclays affiliated legal entities listed below. It is provided to our clients for information purposes only, and Barclays makes no express or implied warranties, and expressly disclaims all warranties of merchantability or fitness for a particular purpose or use with respect to any data included in this publication. To the extent that this publication states on the front page that it is intended for institutional investors and is not subject to all of the independence and disclosure standards applicable to debt research reports prepared for retail investors under U.S. FINRA Rule 2242, it is an "institutional debt research report" and distribution to retail investors is strictly prohibited. Barclays also distributes such institutional debt research reports to various issuers, media, regulatory and academic organisations for their own internal informational news gathering, regulatory or academic purposes and not for the purpose of making investment decisions regarding any debt securities. Media organisations are prohibited from re-publishing any opinion or recommendation concerning a debt issuer or debt security contained in any Barclays institutional debt research report. Any such recipients that do not want to continue receiving Barclays institutional debt research reports should contact debtresearch@barclays.com. Barclays will not treat unauthorized recipients of this report as its clients and accepts no liability for use by them of the contents which may not be suitable for their personal use. Prices shown are indicative and Barclays is not offering to buy or sell or soliciting offers to buy or sell any financial instrument.
+Without limiting any of the foregoing and to the extent permitted by law, in no event shall Barclays, nor any affiliate, nor any of their respective officers, directors, partners, or employees have any liability for (a) any special, punitive, indirect, or consequential damages; or (b) any lost profits, lost revenue, loss of anticipated savings or loss of opportunity or other financial loss, even if notified of the possibility of such damages, arising from any use of this publication or its contents.
+Other than disclosures relating to Barclays, the information contained in this publication has been obtained from sources that Barclays Research believes to be reliable, but Barclays does not represent or warrant that it is accurate or complete. Barclays is not responsible for, and makes no warranties whatsoever as to, the information or opinions contained in any written, electronic, audio or video presentations of third parties that are accessible via a direct hyperlink in this publication or via a hyperlink to a third-party web site (`Third-Party Content'). Any such Third-Party Content has not been adopted or endorsed by Barclays, does not represent the views or opinions of Barclays, and is not incorporated by reference into this publication. Third-Party Content is provided for information purposes only and Barclays has not independently verified its accuracy or completeness.
+The views in this publication are solely and exclusively those of the authoring analyst(s) and are subject to change, and Barclays Research has no obligation to update its opinions or the information in this publication. Unless otherwise disclosed herein, the analysts who authored this report have not received any compensation from the subject companies in the past 12 months. If this publication contains recommendations, they are general recommendations that were prepared independently of any other interests, including those of Barclays and/or its affiliates, and/or the subject companies. This publication does not contain personal investment recommendations or investment advice or take into account the individual financial circumstances or investment objectives of the clients who receive it. The securities and other investments discussed herein may not be suitable for all investors. Barclays is not a fiduciary to any recipient of this publication. Investors must independently evaluate the merits and risks of the investments discussed herein, consult any independent advisors they believe necessary, and exercise independent judgment with regard to any investment decision. The value of and income from any investment may fluctuate from day to day as a result of changes in relevant economic markets (including changes in market liquidity). The information herein is not intended to predict actual results, which may differ substantially from those reflected. Past performance is not necessarily indicative of future results.
+This document is being distributed (1) only by or with the approval of an authorised person (Barclays Bank PLC) or (2) to, and is directed at (a) persons in the United Kingdom having professional experience in matters relating to investments and who fall within the definition of "investment professionals" in Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the "Order"); or (b) high net worth companies, unincorporated associations and partnerships and trustees of high value trusts as described in Article 49(2) of the Order; or (c) other persons to whom it may otherwise lawfully be communicated (all such persons being "Relevant Persons"). Any investment or investment activity to which this communication relates is only available to and will only be engaged in with Relevant Persons. Any other persons who receive this communication should not rely on or act upon it. Barclays Bank PLC is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority and is a member of the London Stock Exchange.
+The Investment Bank of Barclays Bank PLC undertakes U.S. securities business in the name of its wholly owned subsidiary Barclays Capital Inc., a FINRA and SIPC member. Barclays Capital Inc., a U.S. registered broker/dealer, is distributing this material in the United States and, in connection therewith accepts responsibility for its contents. Any U.S. person wishing to effect a transaction in any security discussed herein should do so only by contacting a representative of Barclays Capital Inc. in the U.S. at 745 Seventh Avenue, New York, New York 10019.
+Non-U.S. persons should contact and execute transactions through a Barclays Bank PLC branch or affiliate in their home jurisdiction unless local regulations permit otherwise.
+Barclays Bank PLC, Paris Branch (registered in France under Paris RCS number 381 066 281) is regulated by the Autorité des marchés financiers and the Autorité de contrôle prudentiel. Registered office 34/36 Avenue de Friedland 75008 Paris.
+This material is distributed in Canada by Barclays Capital Canada Inc., a registered investment dealer, a Dealer Member of IIROC (www.iiroc.ca), and a Member of the Canadian Investor Protection Fund (CIPF).
+All Barclays research reports are distributed to institutional investors in Japan by Barclays Securities Japan Limited. Barclays Securities Japan Limited is a jointstock company incorporated in Japan with registered office of 6-10-1 Roppongi, Minato-ku, Tokyo 106-6131, Japan. It is a subsidiary of Barclays Bank PLC and a registered financial instruments firm regulated by the Financial Services Agency of Japan. Registered Number: Kanto Zaimukyokucho (kinsho) No. 143.
+Barclays Bank PLC, Hong Kong Branch is distributing this material in Hong Kong as an authorised institution regulated by the Hong Kong Monetary Authority. Registered Office: 41/F, Cheung Kong Center, 2 Queen's Road Central, Hong Kong.
+All Indian securities-related research and other equity research produced by Barclays' Investment Bank are distributed in India by Barclays Securities (India) Private Limited (BSIPL). BSIPL is a company incorporated under the Companies Act, 1956 having CIN U67120MH2006PTC161063. BSIPL is registered and regulated by the Securities and Exchange Board of India (SEBI) as a Research Analyst: INH000001519; Portfolio Manager INP000002585; Stock Broker/Trading and Clearing Member: National Stock Exchange of India Limited (NSE) Capital Market INB231292732, NSE Futures & Options INF231292732, NSE Currency derivatives INE231450334, Bombay Stock Exchange Limited (BSE) Capital Market INB011292738, BSE Futures & Options INF011292738; Depository Participant (DP) with the National Securities & Depositories Limited (NSDL): DP ID: IN-DP-NSDL-299-2008; Investment Adviser: INA000000391. The registered office of BSIPL is at 208, Ceejay House, Shivsagar Estate, Dr. A. Besant Road, Worli, Mumbai ­ 400 018, India. Telephone No:
+168
+
++91 2267196000. Fax number: +91 22 67196100. Any other reports produced by Barclays' Investment Bank are distributed in India by Barclays Bank PLC, India Branch, an associate of BSIPL in India that is registered with Reserve Bank of India (RBI) as a Banking Company under the provisions of The Banking Regulation Act, 1949 (Regn No BOM43) and registered with SEBI as Merchant Banker (Regn No INM000002129) and also as Banker to the Issue (Regn No INBI00000950). Barclays Investments and Loans (India) Limited, registered with RBI as Non Banking Financial Company (Regn No RBI CoR-07-00258), and Barclays Wealth Trustees (India) Private Limited, registered with Registrar of Companies (CIN U93000MH2008PTC188438), are associates of BSIPL in India that are not authorised to distribute any reports produced by Barclays' Investment Bank. Barclays Bank PLC Frankfurt Branch distributes this material in Germany under the supervision of Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin). This material is distributed in Mexico by Barclays Bank Mexico, S.A. Nothing herein should be considered investment advice as defined in the Israeli Regulation of Investment Advisory, Investment Marketing and Portfolio Management Law, 1995 ("Advisory Law"). This document is being made to eligible clients (as defined under the Advisory Law) only. Barclays Israeli branch previously held an investment marketing license with the Israel Securities Authority but it cancelled such license on 30/11/2014 as it solely provides its services to eligible clients pursuant to available exemptions under the Advisory Law, therefore a license with the Israel Securities Authority is not required. Accordingly, Barclays does not maintain an insurance coverage pursuant to the Advisory Law. Barclays Bank PLC in the Dubai International Financial Centre (Registered No. 0060) is regulated by the Dubai Financial Services Authority (DFSA). Principal place of business in the Dubai International Financial Centre: The Gate Village, Building 4, Level 4, PO Box 506504, Dubai, United Arab Emirates. Barclays Bank PLC-DIFC Branch, may only undertake the financial services activities that fall within the scope of its existing DFSA licence. Related financial products or services are only available to Professional Clients, as defined by the Dubai Financial Services Authority. Barclays Bank PLC in the UAE is regulated by the Central Bank of the UAE and is licensed to conduct business activities as a branch of a commercial bank incorporated outside the UAE in Dubai (Licence No.: 13/1844/2008, Registered Office: Building No. 6, Burj Dubai Business Hub, Sheikh Zayed Road, Dubai City) and Abu Dhabi (Licence No.: 13/952/2008, Registered Office: Al Jazira Towers, Hamdan Street, PO Box 2734, Abu Dhabi). Barclays Bank PLC in the Qatar Financial Centre (Registered No. 00018) is authorised by the Qatar Financial Centre Regulatory Authority (QFCRA). Barclays Bank PLC-QFC Branch may only undertake the regulated activities that fall within the scope of its existing QFCRA licence. Principal place of business in Qatar: Qatar Financial Centre, Office 1002, 10th Floor, QFC Tower, Diplomatic Area, West Bay, PO Box 15891, Doha, Qatar. Related financial products or services are only available to Business Customers as defined by the Qatar Financial Centre Regulatory Authority. This material is distributed in the UAE (including the Dubai International Financial Centre) and Qatar by Barclays Bank PLC. This material is not intended for investors who are not Qualified Investors according to the laws of the Russian Federation as it might contain information about or description of the features of financial instruments not admitted for public offering and/or circulation in the Russian Federation and thus not eligible for non-Qualified Investors. If you are not a Qualified Investor according to the laws of the Russian Federation, please dispose of any copy of this material in your possession. This material is distributed in Singapore by the Singapore branch of Barclays Bank PLC, a bank licensed in Singapore by the Monetary Authority of Singapore. For matters in connection with this report, recipients in Singapore may contact the Singapore branch of Barclays Bank PLC, whose registered address is 10 Marina Boulevard, #23-01 Marina Bay Financial Centre Tower 2, Singapore 018983. This material is distributed to persons in Australia by either Barclays Bank PLC, Barclays Capital Inc., Barclays Capital Securities Limited or Barclays Capital Asia Limited. None of Barclays Bank PLC, nor any of the other referenced Barclays group entities, hold an Australian financial services licence and instead they each rely on an exemption from the requirement to hold such a licence. This material is intended to only be distributed to "wholesale clients" as defined by the Australian Corporations Act 2001. IRS Circular 230 Prepared Materials Disclaimer: Barclays does not provide tax advice and nothing contained herein should be construed to be tax advice. Please be advised that any discussion of U.S. tax matters contained herein (including any attachments) (i) is not intended or written to be used, and cannot be used, by you for the purpose of avoiding U.S. tax-related penalties; and (ii) was written to support the promotion or marketing of the transactions or other matters addressed herein. Accordingly, you should seek advice based on your particular circumstances from an independent tax advisor. © Copyright Barclays Bank PLC (2018). All rights reserved. No part of this publication may be reproduced or redistributed in any manner without the prior written permission of Barclays. Barclays Bank PLC is registered in England No. 1026167. Registered office 1 Churchill Place, London, E14 5HP. Additional information regarding this publication will be furnished upon request.
+169
+
+BARCRES-63852b76
+
+170
+
+

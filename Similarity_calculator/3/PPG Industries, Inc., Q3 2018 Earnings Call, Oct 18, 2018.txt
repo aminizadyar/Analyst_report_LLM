@@ -1,0 +1,1022 @@
+
+PPG Industries, Inc. NYSE:PPG
+FQ3 2018 Earnings Call Transcripts
+Thursday, October 18, 2018 6:00 PM GMT
+S&P Global Market Intelligence Estimates
+ -FQ3 2018--FQ4 2018--FY 2018--FY 2019- CONSENSUSACTUALSURPRISECONSENSUSCONSENSUSCONSENSUSEPS Normalized 1.461.45(0.68 %)1.155.886.64Revenue  (mm)3811.643817.000.143645.0815351.6215842.84Currency: USD
+Consensus as of  Oct-18-2018 2:51 PM GMT
+
+
+  - EPS NORMALIZED  -  CONSENSUSACTUALSURPRISEFQ4 20171.181.190.85 %FQ1 20181.401.39(0.71 %)FQ2 20181.881.901.06 %FQ3 20181.461.45(0.68 %)
+
+Table of Contents
+ Call Participants........................................................................................................................................................3Presentation........................................................................................................................................................4Question and Answer........................................................................................................................................................8
+Call Participants 
+EXECUTIVES 
+ 
+ 
+John  Bruno 
+Director of Investor Relations 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+ 
+ANALYSTS 
+ 
+ 
+Arun Shankar Viswanathan 
+RBC Capital Markets, Research Division 
+ 
+ 
+Christopher Mark Evans 
+Goldman Sachs Group Inc., Research Division 
+ 
+ 
+Christopher S. Parkinson 
+Crédit Suisse AG, Research Division 
+ 
+ 
+David L. Begleiter 
+Deutsche Bank AG, Research Division 
+ 
+ 
+Dmitry Silversteyn 
+ 
+ 
+Donald David Carson 
+Susquehanna Financial Group, LLLP, Research Division 
+ 
+ 
+Frank Mitsch 
+ 
+ 
+Ghansham Panjabi 
+Robert W. Baird & Co. Incorporated, Research Division 
+ 
+ 
+James Michael Sheehan 
+SunTrust Robinson Humphrey, Inc., Research Division 
+ 
+ 
+Jeffrey John Zekauskas 
+JP Morgan Chase & Co, Research Division 
+ 
+ 
+John Ezekiel E. Roberts 
+UBS Investment Bank, Research Division 
+ 
+ 
+John Patrick McNulty 
+BMO Capital Markets Equity Research 
+ 
+ 
+Kevin William Hocevar 
+Northcoast Research Partners, LLC 
+ 
+ 
+Kevin William McCarthy 
+Vertical Research Partners, LLC 
+ 
+ 
+Laurence Alexander 
+Jefferies LLC, Research Division 
+ 
+ 
+Michael James Leithead 
+Barclays Bank PLC, Research Division 
+ 
+ 
+Michael Joseph Harrison 
+Seaport Global Securities LLC, Research Division 
+ 
+ 
+Michael Joseph Sison 
+KeyBanc Capital Markets Inc., Research Division 
+ 
+ 
+Prashant N. Juvekar 
+Citigroup Inc, Research Division 
+ 
+ 
+Steve Byrne 
+BofA Merrill Lynch, Research Division 
+ 
+ 
+Vincent Stephen Andrews 
+Morgan Stanley, Research Division 
+
+Presentation 
+ 
+ 
+Operator 
+ 
+Good afternoon, and welcome to the PPG Industries Third Quarter 2018 Earnings Conference Call. My name is Denise, and I will be your conference specialist today. [Operator Instructions] Please note, this event is being recorded. At this time, I would like to turn the conference over to John Bruno, Director of Investor Relations. Please go ahead, sir. 
+ 
+ 
+John  Bruno 
+Director of Investor Relations 
+ 
+Thank you, Denise, and good afternoon, everyone. Once again, this is John Bruno, Director of Investor Relations. We appreciate your continued interest in PPG and welcome you to our third quarter 2018 financial results conference call. Joining me on the call from PPG are Michael McGarry, Chairman and Chief Executive Officer; and Vince Morales, Senior Vice President and Chief Financial Officer. 
+ 
+ 
+Our comments relate to the financial information released on Thursday, October 18, 2018. I will remind everyone that we have posted detailed commentary and accompanying presentation slides on the Investor Center of our website, ppg.com. The slides are also available on the webcast site for this call and provide additional support to the opening comments Michael will make shortly. Following Michael's perspective on the company's results for the quarter, we will move to a Q&A session. 
+ 
+ 
+Both the prepared commentary and discussion during this call may contain forward-looking statements, reflecting the company's current view of future events and their potential effect on PPG's operating and financial performance. These statements involve uncertainties and risks, which may cause actual results to differ. The company is under no obligation to provide subsequent updates to these forward-looking statements. 
+ 
+ 
+This presentation also contains certain non-GAAP financial measures. The company has provided in the appendix of the presentation materials, which are available on our website, reconciliations of these non-GAAP financial measures to the most directly comparable GAAP financial measures. For additional information, please refer to PPG's filings with the SEC. 
+ 
+ 
+Before introducing Michael, I would like to remind everyone that on October 8, PPG issued an update on third quarter financial results and guidance on fourth quarter earnings. Today, we are confirming the fourth quarter guidance we provided on October 8. Now let me introduce PPG Chairman and CEO, Michael McGarry. 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Thank you, John, and good afternoon, everyone. Today, we reported third quarter 2018 financial results. 
+ 
+ 
+For the third quarter, our net sales were approximately $3.8 billion and our adjusted earnings per diluted share from continuing operations were $1.45. As we detailed in our pre-announcement, we experienced increased raw material and logistics cost inflation in the quarter, with the third quarter representing the highest level of cost inflation since the trend began 2 years ago. 
+ 
+ 
+We did not meet our elevated expectations for year-over-year performance. However, we made significant progress on increasing selling prices, have continued to aggressively manage our cost and have continued with capital deployment. 
+ 
+ 
+For the third quarter, our sales in local currencies increased by more than 3%. Supporting the higher local currency sales were selling price increases of more than 2% in the third quarter, marking the sixth consecutive quarter of improvement over the prior sequential quarter. Our sales volumes were flat in aggregate but up about 2%, excluding the previously communicated customer assortment changes in our U.S. architectural coatings business. 
+ 
+ 
+Foreign currency translation turned to a headwind compared to third quarter 2017, and the U.S. dollar strengthened during the quarter against several key currencies. Sales were unfavorably impacted by about $80 million from currency translation and pretax income unfavorably impacted by about $15 million. 
+ 
+ 
+Looking at some of the business trends in the quarter. In the Performance Coatings segment, aerospace coatings delivered another excellent quarter with more than 10% volume growth, led by above industry performance in the U.S. and Asia Pacific. Architectural coatings EMEA organic sales increased a low single digits in the quarter, driven by higher selling prices. While overall sales volumes in architectural coatings Americas and Asia Pacific decreased, we did continue to achieve high single-digit percentage organic sales growth in the U.S. and Canadian company-owned stores. 
+ 
+ 
+In addition, we continue to be pleased with the progress achieved to expand PPG's offering at The Home Depot, and we are proud to be named Supplier Partner of the Year at The Home Depot for the launch of the OLYMPIC Paint and TIMELESS brands. 
+ 
+ 
+Volumes grew at our Mexican PPG-Comex business, including the benefit of opening an additional 40 stores during the quarter. Protective and marine coatings volumes increased with continued strong protective coating sales in Asia. The marine business had modestly higher new-build buys, which came off of a very low base. 
+ 
+ 
+Automotive refinish coatings' organic sales decreased by low single-digit percentage year-over-year, trending lower as the quarter progressed. Volumes were impacted by lower demand in the U.S. and Europe, stemming from a change in customer order patterns as several customers have high inventory levels due to lower end-use market demand. 
+ 
+ 
+Collision claims have fallen by 1% this year, and the amount of vehicles being totaled instead of being repairs has increased by 1%, which -- both factors are negatively impacting overall demand. Our automotive refinish team continues to deliver outstanding products and solutions to customers and has converted a net of 3,000 global body shops to PPG so far in 2018. 
+ 
+ 
+Our Industrial Coatings reporting segment delivered solid mid-single-digit sales volume growth and progressed selling price initiatives during the quarter. Volumes in packaging coatings were up mid-single-digit percentage as the adoption to our INNOVEL interior can coatings products continued. Selling prices in this business were also achieved. We anticipate growth to moderate as we have progressed deeper into the new technology conversion cycle and due to PPG's strong growth in prior quarters. 
+ 
+ 
+Automotive OEM coatings global sales volumes were flat compared to slightly negative global industry automotive builds. This business outperformed the market in the U.S. with recent market share gains. Sales volumes in China decreased a high single-digit percentage, in line with lower industry production in China during the quarter as lower consumer spending on autos drove sharply lower retail sales. 
+ 
+ 
+From a regional perspective, volume growth continue to be the highest in the emerging regions. Sales growth in Asia Pacific region was driven by growth in our aerospace, auto refinish and protective coatings businesses. 
+ 
+ 
+Sales in China grew but at a lower rate in the second quarter and softened as the third quarter progressed. Sales in India and Southeast Asia grew at high single-digit percentage. Earnings in Asia Pacific have been below 2017 levels as the region has been impacted by some of the highest levels of raw material and logistics cost inflation that we have experienced. 
+ 
+ 
+Sales grew at mid-single-digit percentage in Latin America, supported by continuing outperformance by businesses in the Industrial Coatings segment and solid auto refinish and architectural coatings sales volumes growth. 
+ 
+ 
+Sales volumes were flat in Europe. Volume growth in the Industrial Coatings segment was offset by lower sales in automotive refinish and architectural coatings EMEA. We anticipate modest volume growth in the fourth quarter on a year-over-year basis and lower sequentially due to normal seasonal patterns. 
+ 
+ 
+Sales volumes were lower in the U.S. and Canada in the third quarter as strong sales in the Industrial Coatings segment were more than offset by lower volumes in both the automotive refinish and architectural coatings business. 
+ 
+ 
+From an earnings perspective, our third quarter adjusted earnings per diluted share was $1.45, which was lower than the prior year. For the year-to-date through September 2018, adjusted earnings per diluted share are $4.75, which is higher than prior year 2017 despite the cost pressures we have faced. 
+ 
+ 
+Our earnings were impacted by elevated raw material inflation that rose by mid- to high single-digit percentage. Logistics cost increases, which includes the effect from higher cost and availability of transportation, inflated nearly 20% compared to the third quarter 2017. 
+ 
+ 
+In the third quarter, we continue to make progress on our selling price initiatives. Price increased by more than 2% on a year-over-year basis as both of our reporting segments realized higher selling prices. We have secured further price increases for the fourth quarter and will continue to prioritize collaborating with our customers on further selling pricing initiatives. 
+ 
+ 
+In addition to selling price initiatives, we are making good progress implementing our restructuring programs. Our 2 active programs delivered about $20 million of cost savings in the third quarter. As part of our newer restructuring program, we've already completed the closure of 2 factories and several distribution warehouses and are on the process of closing another factory and a couple other warehouses in the U.S. We expect additional savings of more than $20 million in the fourth quarter. 
+ 
+ 
+In addition, earnings per share benefited from our ongoing cash deployment actions. Through the end of September, we have now repurchased about $1.3 billion of PPG's stock in 2018. In the quarter, average diluted shares outstanding were 6% lower versus the third quarter 2017. Our adjusted effective tax rate was about 21% in the third quarter, lower than the 24% rate from the third quarter 2017. The reduction is related to recognizing favorable discrete tax items in the third quarter and the tax reform legislation that was implemented at the start of 2018. We are still anticipating a full year tax rate between 23% and 24%. 
+ 
+ 
+As we look ahead, we expect to see greater volatility in global industrial demand primarily in emerging regions. We anticipate that the year-over-year rate of raw material inflation will moderate due to the spike in inflation rates in the prior year quarter, and logistics cost inflation is expected to remain elevated. 
+ 
+ 
+The new tariffs are starting to add some modest costs to our raw materials. We expect currency translation to have an unfavorable impact to our sales in the fourth quarter. Based on current rates, the unfavorable impact is expected to be between $50 million and $60 million in the fourth quarter. Specific to our businesses, overall net sales are expected to be lower sequentially due to normal seasonal patterns. 
+ 
+ 
+In the U.S., we expect the economic activity to continue at a similar pace as we have seen in the third quarter of 2018 and that automotive OEM builds will be similar to the fourth quarter of 2017. Automotive refinish sales volumes will continue to be impacted by customer inventory destocking. 
+ 
+ 
+In Latin America, we anticipate similar economic expansion as we have experienced in the third quarter of 2018. Growth rates in Asia are expected to be less than they were in the third quarter with heightened volatility in China. Economic growth in Europe is expected to continue into the fourth quarter at a similar rate that we saw in the third quarter. Favorable end-use market trends are expected to continue, driven by growth in industrial production, partially offset by subdued architectural and automotive refinish coatings demand. 
+ 
+ 
+We will continue to invest in growth initiatives, including targeting certain growth spending in the fourth quarter with plans to spend an additional $5 million. We ended the third quarter with about $1.2 billion of cash and short-term investments, which continues to provide us with financial flexibility. We plan to deploy a minimum of $1 billion of cash in the fourth quarter on acquisitions and share repurchases as part of our previously communicated target to deploy a minimum of $3.5 billion in 2017 and 2018 combined. 
+ 
+ 
+The acquisition pipeline in the industry remains active. We just announced the agreement to acquire SEM Products, an automotive refinish products manufacturer with a history of attractive margins, and we'll continue to participate in other opportunities in our industry's consolidation. In addition, we plan to continue to repurchase shares in the fourth quarter. 
+ 
+ 
+Finally, we remain well positioned in all coatings end-use markets and across all major geographic regions. Our excellent positioning, along with our technology advanced products, provides us with ample opportunities to continue to grow and deliver shareholder value. 
+This concludes our prepared remarks. Once again, we appreciate your interest in PPG and now, Denise, would you please open the line for Q&A? 
+
+ 
+
+Question and Answer 
+ 
+ 
+Operator 
+ 
+[Operator Instructions] Your first question will come from Ghansham Panjabi of Robert W. Baird. 
+ 
+ 
+Ghansham Panjabi 
+Robert W. Baird & Co. Incorporated, Research Division 
+ 
+Maybe just starting off on auto refinish, Michael. You called out decreased collision demand in the U.S. and Europe as one of the factors impacting this business. But from your heat map, it looks like you're also below the industry for the third quarter. I guess, first off, why is that? Was it customer mix that impacted the third quarter or was it due to the time line of your price increases or anything else? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+No, that -- if you look at the heat map, Ghansham, that really reflects our sales out through our distributors. It does not reflect their sales out to their body shops. So in reality, if you looked at the sellout versus the sell-in, we're still doing quite well, that's why I referenced the fact that we gained 3,000 net body shops. So the difference was, if you remember 2017 and the first half of 2018, we had very strong refinish sales, and many of our refinish distributors anticipated that continued market growth. And as you've seen, we've had very few natural disasters. And we didn't get the tornadoes and the hails and all that kind of a stuff this year, you also didn't see the accident rate, miles driven, it's only up 0.3%. So that's moderated as well. So I think, overall, what you're looking at the heat map is the sell-in and sellout is still quite good. 
+ 
+ 
+Ghansham Panjabi 
+Robert W. Baird & Co. Incorporated, Research Division 
+ 
+Okay. And then just for my second question on selling prices, which were up 2.3% during the third quarter, was that in line with where you thought you would be heading into the third quarter? And if not, what sort of held that number back? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+No, Ghansham. I would say it was in line with expectations. We had sales price increases in all of our businesses and improvement in all our businesses, which even includes automotive, although I'm sure somebody's going to ask later about automotive. So I would say that still more increases are underway. 
+ 
+ 
+Operator 
+ 
+The next question will be from John Roberts of UBS. 
+ 
+ 
+John Ezekiel E. Roberts 
+UBS Investment Bank, Research Division 
+ 
+Michael, you mentioned raws were up to mid- to high single-digit percent year-over-year in the third quarter. What should we expect for the fourth quarter? So the comps get a little easier as you mentioned. And then if raw stayed flat at their current level or oil prices stayed flat at their current level and they get pass-through, what would you expect for 2019 over 2018? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Well, let's focus on your fourth quarter comment first. I think we've said low to mid-single digits, so kind of parse where that might number might be. As far as 2019, as you know, it's very early to start to call 2019. We still don't know what China's going to do as far as environmental enforcement like they did last year. We think they're going to be a little bit more nuanced in how they handle that. Last year, they were pretty much favored by the same marching orders. I think this year, they're probably going to -- for those high performers, they're going to give them more leeway; for the low performers, they'll probably be more aggressive in enforcing the environmental regulations. So I think that's still to be determined. So I would definitely say though, '19 is going to have less inflation than '18, but I think it's too early to give you a number. 
+ 
+ 
+John Ezekiel E. Roberts 
+UBS Investment Bank, Research Division 
+ 
+And then secondly, could you range the size of the deals that you might have in your pipeline, is there just a number of small things that you're working on? Or do you have anything large that we should think about? 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+This is Vince. Again, we typically wouldn't give details around that. What I think we've said continuously throughout the year and as you're seeing today with our acquisition of SEM, it is a very active pipeline. Some of these transactions, we talked to the potential sellers for years, if not decades. So it's active, small to midsize deals. 
+ 
+ 
+Operator 
+ 
+The next question will be from Dave Begleiter of Deutsche Bank. 
+ 
+ 
+David L. Begleiter 
+Deutsche Bank AG, Research Division 
+ 
+Michael, when would you expect your pricing to fully catch up with raw materials? It would be Q1, Q2 or somewhere in-between perhaps? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+I would say the gap is closing. It really depends upon the rate of inflation in the first quarter. But the real thing that we're telling our customers is, don't forget that we probably got off the starting blocks 3 or 4 months later than normal because of some unusual factors in the industry. And so we're going to have to continue to push increases all through 2019. 
+ 
+ 
+David L. Begleiter 
+Deutsche Bank AG, Research Division 
+ 
+Very good. And just so we finish, would you expect this inventory adjustment to be done in Q4 or could it leak into Q1, perhaps? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Well, the hard part about answering that question is winter, how much snow we're going to get, what types of weather events. I would say we're optimistic that the fourth quarter will be the end of that. But it's -- I would say, it's -- I'm more confident on that than anything. But I would still put a little bit of a pencil mark that there's some unknowns out there. 
+ 
+ 
+Operator 
+ 
+The next question will be from Robert Koort of Goldman Sachs. 
+ 
+ 
+Christopher Mark Evans 
+Goldman Sachs Group Inc., Research Division 
+ 
+This is Chris Evans on for Bob. Earlier, you cited about $20 million of restructuring savings in the quarter. Can you put this in the context for maybe some of the stranded cost you may have incurred as a result of North American product realignments? And also, can you give a little more clarity on the cadence of the Home Depot load-in and how profitability might be impacted in 2019 net of the losses at Lowe's? 
+ 
+ 
+John  Bruno 
+Director of Investor Relations 
+ 
+Chris, this is John. I'll take a stab at your question about restructuring savings costs. I will look at it this way. We're looking to be margin neutral on that business, that former business next year in '19. So we're working to take out cost and grow in other areas of that business. So we're looking to be margin neutral in '19. 
+ 
+ 
+Christopher Mark Evans 
+Goldman Sachs Group Inc., Research Division 
+ 
+Okay. And then you recently put out an auto OEM price increase announcement. Does this represent any change in your behavior with customers in this end market? Or are you increasing the scale of the price announcements given how inflation is trending? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Well, definitely, the scale is larger, but what we have to remember is that we're further behind on price increases in automotive than any other business. And we know it and our customers know it, and that's the most important thing. So we definitely are looking to get more traction on that. And the same comment goes for China as well. The hardest place to get prices is, as we know, is automotive and the next hardest is the region. So this is an area that we're highly focused on. And the good news is, we saw some early signs of traction in the third quarter, and we expect to get more traction in the fourth quarter. 
+ 
+ 
+Operator 
+ 
+The next question will be from Kevin McCarthy of Vertical Research Partners. 
+ 
+ 
+Kevin William McCarthy 
+Vertical Research Partners, LLC 
+ 
+Michael, you made a comment that you experienced softer sales in China as the quarter progressed. Can you elaborate on the product lines where you witnessed that? And how would you characterize the order books for those lines here in October? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Well, the most pronounced one was automotive, right? So China retail sales were down 5% in July, they're down 6% in August, they were down nearly 12% in September, and the early indication so far, the read in October is slightly better but not anything to write home about. So -- and that impacts not just our automotive business, but also a little bit of our industrial business because, as you know, they're painting parts and they're painting bumpers and things like that. So that is by far the one that was impacted. When you look at the rest of our China business, protective was good, marine bouncing off a very low bottom but that was better, refinish had a good one, packaging did pretty well. And so I would tell you, overall, it's really confined right now to automotive. But the thing that I worry about, and I tried to signal this on -- going into the third quarter before was the consumer confidence in China, right? With the tariffs, consumer confidence has dropped. And when consumer confidence drops, then you start to see these big-ticket items slow down. And so I won't be surprised if China tries to add some additional, I wouldn't call it stimulus, but additional emphasis on how they can support the automotive industry because it is like a very, very important industry to them. So we'll wait and see what happens. They haven't done anything yet, but it is a key industry for them. 
+ 
+ 
+Kevin William McCarthy 
+Vertical Research Partners, LLC 
+ 
+And then second question with regard to the U.S. architectural market in the DIY channel. I just wonder if you could comment on your inventory levels there and your current view of customer takeaway trends. 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Well, I would tell you, our DIY is lower than obviously our stores. The do-it-for-me has continued to outpace DIY. When we look at our customers' inventory in the DIY space, I would say they're not out of line. And the good news is, they're enthusiastic about the products that we have and so we should expect to see that continue to grow in that 2% to 3% to 4% range as -- but certainly below the store growth. 
+ 
+ 
+Operator 
+ 
+The next question will be from Michael Sison of KeyBanc Capital Markets. 
+ 
+ 
+Michael Joseph Sison 
+KeyBanc Capital Markets Inc., Research Division 
+ 
+For the fourth quarter, can you give us a little bit of help on where you think profitability will end up for the total company? Will you make some progress year-over-year in terms of margins and maybe a little bit of color on each segment? 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+This is a Vince. Just -- we said this before. We're still targeting an aggregate to get to close to margin parity in total for the company. We're working very aggressively on discretionary costs. We've accelerated some restructuring actions that we had originally planned for 2019 to 2018. So that's what we're still working toward. We do expect to see improvement in both segments from a year-over-year basis and compared to the third quarter, but we're not going to earmark what each of those are. I will remind you, Mike, we did have a spike last year in raw materials, precipitated by the Chinese environmental enforcement.  That spike was really pronounced in our Industrial Coatings segment. So we should see -- we were up 400 basis points in margins in Q3 in Industrial Coatings. We should see that gap close considerably in Q4 relative to what happened last year. 
+ 
+ 
+Michael Joseph Sison 
+KeyBanc Capital Markets Inc., Research Division 
+ 
+Got it. And then just from a macro standpoint, when you think about Industrial Coatings operating margins, you're probably going to end up somewhere around 13% or something in that range, plus or minus a little bit and then you guys peaked at '18. So when you think about the delta, how much of that do you think you can get back over time, how much of that's raw materials? And what's the potential profitability for that segment longer term? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Yes. So Michael, this is Michael. I would tell you, we're going to get all that back. We're -- this is an area that has a high focus for the company. We won't get it all back immediately. We have to be successful in our price increases, we have to be successful in managing our costs, eliminating complexity and things like that. But at the end of the day, our team is very confident that over time, we will get back to those peak levels. 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+And if I can just add, Mike. These are tremendously value-add products for our customers. They bring a lot of value to the appearance of their products. We're very important, instrumental in their manufacturing process, and those value attributes are something they value and we'll get paid for. 
+ 
+ 
+Operator 
+ 
+The next question will be from Frank Mitsch of Fermium Research. 
+ 
+ 
+Frank Mitsch 
+ 
+Michael, a lot of discussion on the impact of raw materials. You also highlighted the impact of higher logistics costs last quarter and certainly this quarter and expectations for it to plague Q4. I was wondering if you can provide in order of magnitude of what the negative delta is there. And is there anything short of trying to get pricing, et cetera, to offset that, that you can do there to improve the situation? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Yes. So Frank, I think we've been clear, it's north of 20%. This is availability of trucks as well as the fuel and everything else that goes along with this. So we do use tools that combine loads from one place to another. And so we're actively trying to manage that. But at the end of the day, this is not just a U.S. issue, which a lot of people think. This is a global issue. The amount of truck drivers around the world is decreasing and we see this same trend, whether it's in China or Europe or the U.S. So I don't think this is going to go away and we continue to work on. I mean, if you think about a lot of our businesses, we ship full truckloads. So it's not like it's LTL kind of stuff now. For our smaller customers, it is. But for our big ones, it's not, so... 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+Yes. This is part of our normal pricing discussions, Frank, with our customers. When we talk about commodity inflation, we also talk about logistics inflation. 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+And they have the same thing, so they clearly are aware of it. 
+ 
+ 
+Frank Mitsch 
+ 
+All right, terrific. That's very helpful. And then another topic regarding PPG that's been in the news of late is that -- is Trian's involvement in the equity. Is there anything you can share with the investment community in terms of the relationship that you have there, friendly, hostile, what have you, what sort of suggestions they've been offering? Is there anything that you could add some color to? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Well, Frank, as you can imagine, we engage with all our investors throughout the year and we always value their feedback. We find them to be helpful and -- but we also have to be respectful of those individual exchanges, right? And so right now, we're not going to share any details about any of our investors, and I hope you can understand that. 
+ 
+ 
+Operator 
+ 
+The next question will be from Christopher Parkinson of Crédit Suisse. 
+ 
+ 
+Christopher S. Parkinson 
+Crédit Suisse AG, Research Division 
+ 
+Of all the moving parts in 3Q such as pricing cadence, raw material inflation, the volume trends, can you just compare and contrast what you believe that dialogue in these same topics just in terms of what you think is the most material will be 2 quarters out? Just what, if any, do you think the major differences will be from your perspective going forward? 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+This -- I'll -- this is Vince. I'll start and Michael will chime in here. But if you think 2 or 3 quarters out, again, we are getting momentum in pricing. I think that's important. We're getting it, as Michael and John Bruno mentioned, across most of our regions and all of our businesses. So 2 quarters out, we expect that to be further down the path in terms of pricing. We do think, in 2019, we'll see commodities trade on supply-demand and only supply-demand, and that's important for us. We do -- on the other side, we still are uncertain about how the macro will look especially around the tariffs. So those will be the kind of the moving parts. 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Yes. Chris, I would also add that oil is the one thing that heads on our watch out list. So I don't think we're going to be talking about TiO2 down the road, but we will be talking about solvents and various things that are impacted by oil. 
+ 
+ 
+Christopher S. Parkinson 
+Crédit Suisse AG, Research Division 
+ 
+That's helpful. And you had a bunch of various cost-cutting efforts over the past several years in addition to just continuous improvement initiatives. Given where current volume trends are and where you think they'll be over the next few years or so, what else, if anything, can you do from the cost side? Is there any change of thinking here? Or just how we should be thinking about that over the next 12 to 24 months? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Yes. I think we have a continuous improvement culture at PPG. We have very active Lean Six Sigma initiatives. We measure ourselves on a performance basis versus prior. And so we'd say we want to get better every day versus the day before. And so our teams are expected, as part of the planning process, to bring forward ideas on how they can improve. So the -- whether that's the velocity through the plant, whether that's reducing the complexity of the SKUs or the raw materials or the formulas, those are all opportunities. Certainly, we're looking at our distribution logistics on how we can improve that. So I would tell you that we still have a list of ideas that we're working through. 
+ 
+ 
+Operator 
+ 
+The next question will be from John McNulty of BMO. 
+ 
+ 
+John Patrick McNulty 
+BMO Capital Markets Equity Research 
+ 
+On the raw material front, the height that you saw year-over-year, I guess, I'm trying to understand how much of it was from the actual raw material basket that you're exposed to versus product that was maybe coming through inventory through your international businesses, because I know a lot of those use FIFO. So I guess, how much of it was inventory work in itself through -- that might have gone up earlier in the year? It just seems like it's a high rate for the third quarter based on kind of some of the trends that we track. 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+This is Vince. Very minimal of the latter, much more of the former. We did see oil move up, which -- for solvents higher than it has been in quite some time. We hadn't anniversary-ed some of the other increases. We mentioned epoxy resins many times on the call in the last several quarters. We anniversary-ed the spike in epoxy resins in Q4. We still saw inflation in other cost buckets, and then that was coupled with the logistics cost inflation that's been moving up all year. So we'll anniversary some of this in the succeeding quarters, which will make the year-over-year comps easier, but it's still our -- was our highest of the inflationary cycle. 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+I think, John, if you look at it, third quarter last year, oil averaged about $48, this quarter averaged about $70. Xylene was up 30%. Propylene, depending upon which region you were in, was up anywhere from 23% to 45%. So I think there's enough of that detail out there that might help you understand the costs over -- quarter-over-quarter or year-over-year impact was. 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+I think, just to tell you -- just add one more thing, John, and I know a lot of folks look at things sequentially and we do agree sequentially, things are flattening, but again, on a year-over-year basis, which is our comparative picture here. We still had a very stern inflation. 
+ 
+ 
+John Patrick McNulty 
+BMO Capital Markets Equity Research 
+ 
+Got it, fair enough. And then I guess, just as a follow-up, on the U.S. auto platform, the high single-digit growth seems to really kind of stand out as an area of some really above-market type growth. I guess, is there a way to think about it in terms of number of contracts that you've won or something like that? It sounds like you did displace some players how there. So I guess, I'm just trying to figure out how much of it may be real, if there was a little bit of pre-buyers, how to think about that? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+No, it's definitely not pre-buying. It's -- some of it's mixed. So if you think about the platforms that we are targeting, we're -- obviously, there's a big shift to the SUVs and things like that. So we've seen this trend coming for some period of time, so we try to be targeted on the right platforms. So that's part of it. Plus we've done pretty well in our parts businesses, so we're -- what we're painting there. So I think those are the 2 pieces. 
+ 
+ 
+Operator 
+ 
+The next question will be from P.J. Juvekar of Citi. 
+ 
+ 
+Prashant N. Juvekar 
+Citigroup Inc, Research Division 
+ 
+Michael, Vince, it seems like company-owned store general is doing well for you and for others in the industry, that store volumes have grown consistently at a better rate than big boxes. So why not get more aggressive in buying store chains? I think there are still quite a few left in North America. 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Yes, P.J. As you know, the best recipe for that is a willing seller. We have -- we're a willing buyer. We've tried, but we haven't always been successful. And we'll continue to look at those opportunities where it makes sense. But we do see this trend continuing to -- do-it-for-me is a trend that is not a short-term trend. 
+ 
+ 
+Prashant N. Juvekar 
+Citigroup Inc, Research Division 
+ 
+And a question for Vince. Vince, the cash deployment goal of $1 billion in fourth quarter on M&A and buybacks, that seems quite large. I saw your -- today the acquisition of SEM Products, but that seems small. So is it fair to say that the cash use is more geared towards a larger buyback in 4Q? 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+Well, again, I think as we said earlier in the call, P.J., we do have some several other acquisition potential targets that we hope come to us if the price is right. And hopefully, we can get those done in the near term, and that would be the governor of the share repo because of our ability to extract synergies from those acquisitions. Absent that, then the flywheel would certainly be share repurchase. 
+ 
+ 
+Prashant N. Juvekar 
+Citigroup Inc, Research Division 
+ 
+Yes. Well, share repurchase still seemed quite large compared to the first 3 quarters. Is that fair? 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+Yes. Again, we've made a cash commitment out there. We're working up our leverage, as you know, our balance sheet leverage, and we think it's -- our equity is not a bad purchase. 
+ 
+ 
+Operator 
+ 
+The next question will be from Vincent Andrews of Morgan Stanley. 
+ 
+ 
+Vincent Stephen Andrews 
+Morgan Stanley, Research Division 
+ 
+I'm just trying to reconcile the refinish issue that you discussed a bit already. And then, I think there also was a comment on aerospace that maybe volumes will be a little bit softer in 4Q from an inventory management perspective. So what I'm just trying to understand is that it's clear that you guys have a lot of price efforts out there, and that that's going to continue, as you said, into next year. So what's -- shouldn't there be -- should the incentive be the other way for the customers to buy more rather than less? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Well, most of our customers, when they buy it, they put it on. They're -- except for refinish. If you think about a can coating line, I mean, they're buying and they're applying it. If you think about an automotive guy, I mean, we deliver hours before they need it. Aerospace, okay, maybe they do have a little bit of inventory, but by and large, not a material kind of thing. So most of our customers are more just-in-time than you think. Refinish is the one major difference. So I think our customers are not going to pre-buy, if you will, in this space. 
+ 
+ 
+Vincent Stephen Andrews 
+Morgan Stanley, Research Division 
+ 
+Okay. And just as a follow-up, in -- a lot of conversation in the investment community about rising interest rates and mortgage rates and the slowing of existing home sales. So it doesn't sound like you're seeing any meaningful slowdown either in the paint stores or in sort of your underlying DIY trends. How are you thinking about those dynamics kind of in the near to medium term? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Well, I think you have to look at it on a regional basis. If you look in the U.S., those trends are going to continue. In Europe, they haven't ever really recovered from the 2008, 2009 time frame. I am encouraged a little bit that Europe is starting to see some construction moving in there. And as you know, we usually are painting several quarters after the construction period. So a little bit more, maybe some partial green shoots over there. Mexico, doing exceptionally well. And I don't think we have a lot of concern any other place besides Europe. And Canada's a little slower than the U.S. obviously. But other than that, I'd say we're pretty happy. 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+And Vincent, I'll just come back to the U.S. If you look at trends, again, repair and remodel continue to be strong. Commercial construction, mixed by U.S. region but generally solid. New home, as everybody knows, is still growing but at a very modest clip. That would be the one that's probably more sensitive to what you're talking about. 
+ 
+ 
+Operator 
+ 
+The next question will be from Don Carson of Susquehanna Financial Group. 
+ 
+ 
+Donald David Carson 
+Susquehanna Financial Group, LLLP, Research Division 
+ 
+Just a follow-up on your company stores. You talked about high single-digit year-over-year growth. How much of that was price, how much was volume? And is company store still an area where you're seeking further price initiatives? You need a third company store price increase to restore margins to where they were? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+No, Don, I don't want to get into the split. I would say that volume was better than price. But I would tell you, we announced an October 1 price increase in our stores, and we will have to push that through the channel and then we'll make an independent decision at some future point in time on whether or not we need any further increases in that channel. 
+ 
+ 
+Donald David Carson 
+Susquehanna Financial Group, LLLP, Research Division 
+ 
+And what was the magnitude of that price increase? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+I would say it was in the 5% to 7% range. 
+ 
+ 
+Operator 
+ 
+The next question will be from Duffy Fischer of Barclays. 
+ 
+ 
+Michael James Leithead 
+Barclays Bank PLC, Research Division 
+ 
+It's actually Mike Leithead on for Duffy this afternoon. Can you just talk about what you're seeing in the protective and marine markets? Obviously, it was a headwind for some time, but it looks like the heat map is pretty green now for the second or third quarter in a row. So maybe just a little color on how that business is trending for you. 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Yes. So the best thing to look at in that space is Clarkson's. Clarkson, I said that it's going to be flat in 2018 versus 2019 -- or '17. And then they have projected a 20% increase in new-builds in 2019. I always caution people that we're painting 12 to 24 months depending upon the size of the ship after they're starting. But that's a good sign. The other ones, if you look at the capital projects for a number of our oil guys, their capital budgets have been increased, so that's a positive. You see Colombia, their oil and gas business is getting better. U.S. onshore is getting better. So maintenance repair for marine has held steady. In fact, I would say it's probably up plus 10% the last quarter. So I would say, as we said in the prior 2 calls, that marine is bouncing off the bottom. We're going to see continued improvement in that. And protective, we should see more investment in that space. So this should be an area of growth going forward. 
+ 
+ 
+Michael James Leithead 
+Barclays Bank PLC, Research Division 
+ 
+Great. And then on capital deployment, you guys have typically talked about acquisitions and repurchases in 2-year increments. I guess, when should we start thinking about a new range of potential deployment targets on M&A and buybacks for 2019 and beyond? 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+We would typically provide more guidance about next year on the January call. 
+ 
+ 
+Operator 
+ 
+The next question will come from Jeff Zekauskas of JPMorgan. 
+ 
+ 
+Jeffrey John Zekauskas 
+JP Morgan Chase & Co, Research Division 
+ 
+In the quarter, your SG&A expense was $867 million. And in the previous quarter, it was $941 million. And if you look at it on average by quarter for 2017, it was $895 million. Now I know you've cut incentive compensation, but can you give some indication of what your normal level of quarterly SG&A is because the third quarter number seems so anomalous and low? 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+Well, Jeff, part of the -- what you're seeing there is some of the restructuring actions we talked about. We talked about $20 million of savings in Q3 alone from the combination of the 2 programs. There's always noise in there around currencies. So if you're looking at it on an absolute basis, currency is going to move it around quarter-to-quarter. And our target right now and where we're running right now, we still have more work to do with our restructuring. So I hope this would be a high watermark given the same level of sales. 
+ 
+ 
+Jeffrey John Zekauskas 
+JP Morgan Chase & Co, Research Division 
+ 
+All right. So then there's pricing. So one of your European competitors announced earnings. And I think its industrial prices were up 7% and maybe its decorative prices were up 5%, which is very different from the levels that you guys have. And when you look at your gross margins through the years, they have degraded, that is they began the year down 240 basis points and now they're down 340. So -- and your absolute level of price year-over-year really hasn't changed much from the second quarter to the third or even from the first quarter to the third. So what's been going wrong for you in price? Why hasn't it gone up faster? And why are your results so different than some of your major competitors? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Okay. Well, first of all, Jeff, what you're referring to, they quote price and mix, so I didn't hear anybody asking the question of, would they separate out price from mix. So I think that's the first thing you probably ought to get an answer to. The second thing is if you compare our overall margins to theirs, you would see that, we still have a substantial higher level of margins than theirs. So I would say it's easier to jump over a lower hurdle than a higher hurdle. And so that will be something else that you might want to look at. And then the other one would, of course, be mixed. So I think those are all -- think about the automotive business that we have and the automotive business they don't have. So I think there's some questions in here that probably need a little bit more deeper understanding and analysis on. 
+ 
+ 
+Operator 
+ 
+The next question will be from Kevin Hocevar of Northcoast Research. 
+ 
+ 
+Kevin William Hocevar 
+Northcoast Research Partners, LLC 
+ 
+You talked about raw material inflation year-over-year, inflation moderating here in the fourth quarter as comps ease a bit. But conversely, on the pricing side, you started to gain a little traction here in the fourth quarter last year, so comps get a little bit more difficult. So you've been able to progress pricing, year-over-year pricing sequentially higher as the year's gone on. So I'm wondering how we should expect that pricing side of the equation to trend going forward. Do you expect that to continue, the year-over-year growth rate to continue to get better or will we start to see that flatten out a bit? 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+Yes, Kevin. I think you're right. We started to get in earnest some pricing [indiscernible] in Q4 of last year. So we do have a harder pricing comp. We do -- we are targeting more pricing across our own portfolio. So our expectation is -- again, we're looking at this as a price-raws gap, and our expectation is to close the gap and we do expect that to occur in Q4. We think the comps again on raw materials are easier, even though the pricing comps  easier, we expect further pricing. we're not going to give out a specific number, but that gap will close and possibly flip in the near future. 
+ 
+ 
+Kevin William Hocevar 
+Northcoast Research Partners, LLC 
+ 
+Okay, great. And then on -- aerospace looked really strong, up -- I think you said low teens in the press release. So I wonder if you could give some color there. Is there share gains that occurred? And just any color you could give there in terms of why the business is doing so well and your expectations going forward. 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Well, first of all, if you look at the Boeing and Airbus builds, they are up year-over-year. Airbus builds are up 20% on the third quarter. Boeing's are up 5%. So you have a strong base from that. Also, we've been very successful in growing new transparency programs. So that's doing pretty well. And then you have the early signs of a military improvement. So that's also doing well. And then finally, I would say, because of our expertise in the aerospace business, many of our customers have asked us to grow in managing their own raw materials. We call it chemical management. And so they've asked us to help them there, which has been share gains. So a number of these things, you had the underlying strong industry trends, share gains as well as new product offerings. 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+And I -- we neglected to answer a question from earlier about the year-over-year aerospace in Q4. We do expect more modest growth rates in Q4 in aerospace -- that's really on the backs of a very strong Q4 last year. So even though the growth will be more modest, it's stacked upon very good growth last year. 
+ 
+ 
+Operator 
+ 
+The next question will come from Arun Viswanathan of RBC Capital Markets. 
+ 
+ 
+Arun Shankar Viswanathan 
+RBC Capital Markets, Research Division 
+ 
+A couple of questions. So I guess, first off, just wanted to go back to the refinish issue. I guess, what are you hearing from your customers? Is this that they just pre-bought a little too much and then they're destocking or is it the result of consolidation? Do you expect this to continue for a couple of quarters? Or how long does this kind of take? 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+Yes, I think Michael covered this earlier, Arun. I'll try to give it a shot here just to give you a different voice. But we had a very strong 2016 and 2017 in the industry in terms of volume growth. We expect it and our customers expect that to continue into 2018. First half of the year wasn't as strong, but people bought on the hopes that strong growth rate would materialize. It hasn't. So our customers are saddled with higher inventory levels. One of them pre-announced earnings a long -- maybe a month ago. And so again, we're seeing throughout the industry a lower growth rate than expected. This is 2-step distribution, so inventory build-up in the channel and we expect that to deplete in a reasonable amount of time. 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Yes. Arun, we see this as transitory. The underlying strength of our refinish business is very good, and we continue to have net market share gains. So I have no concerns about this business long term. 
+ 
+ 
+Arun Shankar Viswanathan 
+RBC Capital Markets, Research Division 
+ 
+Okay. And just as a follow-up on the portfolio itself. You've really kind of gone into several verticals over the last 10 years or so. How do you feel about the portfolio now? I know there's a lot of cross-pollination of technology from auto OEM into other areas. But do you feel like there are any other areas of the current business that maybe you're distracted from or potentially, it's a lot of verticals to manage? Any thoughts on that? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+No. I mean, I think if you look at our businesses, there are a lot of things that cross over, so corrosion is one, color is one, cure is one. Those kinds of synergies are hypercritical to being successful and it facilitates new product growth. When you look at our acquisitions, because we're in all the verticals, we can look at acquisitions in virtually every space. So I think there's a lot of synergistic benefits from that regard. And because we do run on a business unit basis, we have general managers that are hyper-focused, laser-focused on running their own individual businesses from the customer-facing activities. And then we have a different group that manages the noncustomer-facing activities, so think about the ITs and the finance and those kinds of things, so we have the back office. So no, I think we are pleased with where we are and we're very optimistic going forward. 
+ 
+ 
+Arun Shankar Viswanathan 
+RBC Capital Markets, Research Division 
+ 
+And just lastly, if I may, just on China. You referenced obviously a slowdown in retail sales, some concerns around auto as well. Maybe you can  just give us your thoughts on the evolution of China market over the next couple of quarters. Is there hope that, that would rebound and what would it take for that to happen? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Yes. So I'm very optimistic about the China car market. If you look at the number of the cars parked in China is still very, very low compared to most developed countries. It's still an asset that is very important to up-and-coming middle-class person in China to own a car as a status symbol, that hasn't changed. Again, it's a very important industry to the Chinese government, it's a huge employer of people. As you know, employment is really important in China. So we're optimistic that this temporary slowdown we see because of consumer confidence in the tariffs is going to moderate and then it will get back on a growth track. So next year, we're probably looking in that 2% to 3% range for China, and it's the world's largest market. 
+ 
+ 
+Operator 
+ 
+The next question will be from Laurence Alexander of Jefferies. 
+ 
+ 
+Laurence Alexander 
+Jefferies LLC, Research Division 
+ 
+Two quick ones. I guess, first, when you did the pre-announcement, there was a comment about how Q4 margins would be roughly comparable with the segment margins last year in aggregate. Does comparable mean close to or near or was there another meaning intended? And then secondly, just a follow-on to the discussions, the caucus about price versus mix. To get the margins in industrial back up to 18%, the implied message, I guess, that you're trying -- that you're conveying or maybe I misheard is that you plan to get there through price and innovation and value add, not through bottom slicing and sacrificing parts of the volumes. Is that a fair interpretation? 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+Lawrence, I'll take the first one. And again, I think it's clear, in the Q3, the macro environment moved against us, and that's the reason for the pre-announcement. But with respect to Q4, I think your definition and ours are the same in terms of comparable. We certainly expect to be at or around the prior fourth quarter margin for the company in aggregate. 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+And Lawrence, I'll take the other question. You're going to get back to peak margins through a number of factors. It's going to be innovation, it's going to be pricing, it's going to be efficiency and it's going to be share gains because we bring products that our customers value more than their competitive alternatives. So I think it's a little bit of everything, but mostly focused on getting price in through innovation. 
+ 
+ 
+Operator 
+ 
+The next question will be from Mike Harrison of Seaport Global Securities. 
+ 
+ 
+Michael Joseph Harrison 
+Seaport Global Securities LLC, Research Division 
+ 
+Wanted to go back to the architectural Americas and the company-owned stores. Obviously, with good same-store sales growth going on there, can you talk a little bit of about the number of stores that you're planning to add in the U.S. and Canada this year and maybe next year? And then can you also talk about store growth in Latin America as well? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Yes. So store growth is regionally dependent. So in the U.S., we're probably targeting in that 10 to 15 range. Canada would be in that 5 to 7 range. In Mexico, it will be 40 plus. So that's -- and in Europe, it would probably be in the 10 to 15 ranges, typically what we look at. So again, very regionally dependent. 
+ 
+ 
+Michael Joseph Harrison 
+Seaport Global Securities LLC, Research Division 
+ 
+All right. And then wanted to also ask for a few details on the SEM Products acquisition that you guys announced today. Maybe just a ballpark on what the sales contribution and margins and purchase price look like. And then also talk a little bit about the technology that it brings. It sounds like maybe some of those products are used for more flexible coating type applications and refinish. 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Yes. So the technology is around repair of damaged parts. And so it's -- part of the paint is what you do before you paint, and so it's highly synergistic with the paint. It's an asset that we have sought after for a long time. We've been talking to the owners, I can't tell you how long, has superior financial returns. Just to put in perspective, the margins here are better than the Comex margins. We'll give more details on this after it closes. But I would tell you, it's a wonderful asset. It will help continue to grow our business. And because of the way our business goes through distribution and the way theirs goes, we're going to have some additional sale synergies on top of their current base. But I would say some of the numbers that people have out there on it are probably lower than what the reality is. 
+ 
+ 
+Operator 
+ 
+The next question will be from Steve Byrne of Bank of America. 
+ 
+ 
+Steve Byrne 
+BofA Merrill Lynch, Research Division 
+ 
+For 2 of the cost items that you've provided some guidance on, namely ROS and freight and logistics, what fraction of COGS in the third quarter did those 2 buckets represent? 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+I'm afraid logistics for us is mid- to high single-digit percentages of sales, depending on the business unit. And I missed the first one, Steve. What was the first, raw materials... 
+ 
+ 
+Steve Byrne 
+BofA Merrill Lynch, Research Division 
+ 
+The other bucket is just being raw materials then. 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+Yes. Steve, that's still around 75% of cost of goods sold. 
+ 
+ 
+Steve Byrne 
+BofA Merrill Lynch, Research Division 
+ 
+Okay. And then just a follow-on to those, is the primary driver of that inflation in raws, is it in particular chemistries such as epoxies and urethanes over acrylics? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Yes, you have everything. You have epoxies, you have TiO2, you have solvents, you have reactants, you have resins, MDI, TDI, emulsions, those are all impacted -- impacting us. 
+ 
+ 
+Steve Byrne 
+BofA Merrill Lynch, Research Division 
+ 
+And then just what fraction of your distribution is outsourced? And would you have any plans of changing that mix? 
+ 
+ 
+Vincent J. Morales 
+Senior VP & CFO 
+ 
+No, we don't have change -- we're not intending to change our mix of insource versus outsource. 
+ 
+ 
+Operator 
+ 
+The next question will be from Jim Sheehan of SunTrust Robinson Humphrey. 
+ 
+ 
+James Michael Sheehan 
+SunTrust Robinson Humphrey, Inc., Research Division 
+ 
+Are you encountering any difficulties getting raw materials delivered in Europe due to the force majeure in the industry caused by low water levels in the Rhine River? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+No, no. Those impact more the -- one step before us. 
+ 
+ 
+James Michael Sheehan 
+SunTrust Robinson Humphrey, Inc., Research Division 
+ 
+Great. And then on your customer assortment issue, you had a 280 basis points decline in the third quarter and that's only about 180 basis points in the fourth quarter. Is that normal seasonality that you're expecting? And how should that trend in the next few quarters? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Yes, Jim. That's correct. The gap there is seasonality. And in our next call, the fourth quarter call, we'll give more guidance over what to expect in the first half of the year. It will take a few more quarters to anniversary the loss. 
+ 
+ 
+Operator 
+ 
+The next question will be from Dmitry Silversteyn of Buckingham Research. 
+ 
+ 
+Dmitry Silversteyn 
+ 
+Just wanted to follow up on the question on inventory correction in the automotive aftermarket business. What other businesses -- I know you talked about some industrials, and protective and marine and automotive maybe not falling into that category. But outside of paints in North America and I'm assuming in other regions, what other categories of your coatings go through a distribution channel or through a 2-step distribution process where a slowing in the market can lead to a similar pullback in inventories? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Well, very little goes through distribution. Maybe a little bit in powder can go through distribution. Some protective coatings can go through distribution. But other than that, not that much. If you think about -- most of the people we're selling to are OEMs. 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Yes, most of our customers are hand-to-mouth, Dmitry. And as Michael said earlier, hours or days is a large inventory level. 
+ 
+ 
+Dmitry Silversteyn 
+ 
+All right, okay. And then just wanted to double-check, you haven't been talking about the optical or specialty business within your performance materials or performance coatings business. Has that gotten folded into another operation? Or has it just become too small for you to even address it on the call? 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Well, as you know, our specialty coatings materials are a collection of 4 smaller businesses. And they're doing quite well and they're pretty much off the radar screen for a lot of our investors, so we don't spend a lot of time talking about it. But I'm sure John would be happy to take your call on anything particular in that area. 
+ 
+ 
+John  Bruno 
+Director of Investor Relations 
+ 
+And Dmitry, they're in the Industrial Coating segment, to sort of clarify... 
+ 
+ 
+Dmitry Silversteyn 
+ 
+They're in the what, I'm sorry? 
+ 
+ 
+John  Bruno 
+Director of Investor Relations 
+ 
+They're in the Industrial Coating segment. 
+ 
+ 
+Dmitry Silversteyn 
+ 
+In Industrial Coating, yes, yes. Okay, I'm sorry. You're right. And then final question. Your guidance of $1.03 to $1.13 on EPS, I mean, obviously includes a significantly higher tax rate than what you've been putting up in the first 3 quarters. And I'm assuming it also includes basically spending the $1 billion on share repurchase, correct, so a significant step-down on share count as well. 
+ 
+ 
+Michael H. McGarry 
+Chairman & CEO 
+ 
+Yes. If you look at the share repurchase, again, we haven't sized that and it's going to governed by our acquisition capability. But even when you do share repurchases, I'm sure you're aware, Dmitry, from a calculation perspective, you get a partial credit on your share count in the quarter, you do them and it's a modest partial credit. 
+ 
+ 
+Dmitry Silversteyn 
+ 
+Right, right. No, no, I understand that. I'm not sure, I -- unless you've already done them all. It's not going to be the full amount. I just wanted to understand -- if the range was the range because of the uncertainty of the timing of the share repurchases or did the range assume you're going to do basically the full $1 billion and then see where the operating conditions fall? That's all the questions I have. 
+ 
+ 
+Operator 
+ 
+Ladies and gentlemen, this will conclude our question-and-answer session. I would like to hand the conference back to John Bruno for closing remarks. 
+ 
+ 
+John  Bruno 
+Director of Investor Relations 
+ 
+Thank you, Denise. I'd like to thank everybody for their time and interest in PPG. If you have any further questions, please contact our Investor Relations department. This now concludes our third quarter earnings call. 
+ 
+ 
+OperatorThank you, sir. Ladies and gentlemen, the conference has now concluded. Thank you for attending today's presentation. At this time, you may disconnect your lines. 
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved. 
+ 
+ 
+These materials have been prepared solely for information purposes based upon information generally available to the public and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic information received in connection with each analytical process. 
+ 
+ 
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com  (free of charge), and www.ratingsdirect.com  and www.globalcreditportal.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees. 
+© 2020 S&P Global Market Intelligence. 
+
+Contents
+
+
+
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence2
+
+ 
+
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence1
+
+PPG INDUSTRIES, INC.  FQ3 2018 EARNINGS CALL   |    OCT 18, 2018
+
+
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.3spglobal.com/marketintelligence 
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.7spglobal.com/marketintelligence 
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.25spglobal.com/marketintelligence 
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.26spglobal.com/marketintelligence 
+

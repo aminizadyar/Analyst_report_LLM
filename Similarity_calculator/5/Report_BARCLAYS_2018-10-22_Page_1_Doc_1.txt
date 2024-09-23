@@ -1,0 +1,2908 @@
+CORE
+
+IQVIA
+Seeing Positive Leading Indicators for 2019 in a Solid Quarter
+
+Despite the muted stock reaction for IQVIA following earnings, we thought there were several encouraging leading indicators with 3Q18 results that bode well for growth heading into 2019. First, in R&D Solutions, IQVIA delivered a quarterly contracted book-to-bill of 1.69x (and ~1.4x on a TTM basis). Given IQVIA's scale in clinical development, the sheer magnitude of new business awards in the quarter was encouraging. Second, underlying organic growth in the R&D segment improved in the quarter on more difficult comps. After adjusting for the impact of ASC 606, we estimate net organic growth was ~7% (vs headline organic of 3.5%). Third, in the Technology & Analytics Solutions segment, IQVIA's OCE strategy appears to be resonating as it approaches a renewal cycle with biopharma sponsors. For the quarter itself, 6% CER revenue growth translated into 9% cash EBITDA growth and 20% cash EPS growth ­ highlighting the leverage inherent in IQVIA's business model. Folding these factors together, we believe IQVIA is well positioned heading into 2019 to continue delivering on its growth objectives. We reiterate our Overweight rating, and raise our price target to $140 (from $130).
+
+Observations: 1) We believe the highlight of IQVIA's 3Q18 earnings was the company's contracted quarterly book-to-bill of 1.69x, and 1.38x on a TTM basis. 2) Looking at IQVIA's underlying results in R&D Solutions, we estimate organic growth improved to around 7% in 3Q18 under ASC-605. 3) Adjusted revenues of $2.594 billion were 0.8% above our estimate. 4) IQVIA is raising its earnings forecast for 2018 in conjunction with the better 3Q18 results. 5) Cash EBITDA of $561 million came in 2.1% above our expectation of $550 million. 6) COGS decreased by 90bps y/y and core SG&A (excomp) was down 270bps y/y. 7) Cash EPS of $1.42 came in $0.03 above our estimate and the Street at $1.39. 8) Cash flow from operations was positive at $344 million.
+
+IQV: Quarterly and Annual EPS (USD)
+
+2017
+
+2018
+
+2019
+
+FY Dec Actual Old New Cons Old New Cons
+
+Q1
+
+1.01A 1.34A 1.34A 1.34A 1.50E 1.48E 1.49E
+
+Q2
+
+1.09A 1.29A 1.29A 1.29A 1.48E 1.45E 1.48E
+
+Q3
+
+1.19A 1.39E 1.42A 1.39E 1.58E 1.58E 1.60E
+
+Q4
+
+1.40A 1.43E 1.45E 1.48E 1.69E 1.69E 1.71E
+
+Year
+
+4.69A 5.45E 5.50E 5.50E 6.25E 6.20E 6.29E
+
+P/E
+
+27.1
+
+23.1
+
+20.5
+
+Source: Barclays Research. Consensus numbers are from Thomson Reuters received on 22-Oct-2018; 13:35 GMT
+
+Change y/y
+
+2018 2019
+
+33% 18% 19% 4% 17%
+
+10% 12% 11% 17% 13%
+
+Barclays Capital Inc. and/or one of its affiliates does and seeks to do business with companies covered in its research reports. As a result, investors should be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only a single factor in making their investment decision.
+PLEASE SEE ANALYST CERTIFICATION(S) AND IMPORTANT DISCLOSURES BEGINNING ON PAGE 13.
+
+Equity Research
+Healthcare | U.S. Life Science Tools & Diagnostics
+22 October 2018
+
+Stock Rating Industry View Price Target
+
+OVERWEIGHT Unchanged
+NEUTRAL Unchanged
+USD 140.00 raised 8% from USD 130.00
+
+Price (19-Oct-2018) Potential Upside/Downside Tickers
+
+USD 126.89 +10.3% IQV
+
+Market Cap (USD mn) Shares Outstanding (mn) Free Float (%) 52 Wk Avg Daily Volume (mn) 52 Wk Avg Daily Value (USD mn) Dividend Yield (%) Return on Equity TTM (%) Current BVPS (USD)
+Source: Thomson Reuters
+
+25706 202.59
+82.90 1.3
+136.27 N/A 4.20
+36.37
+
+Price Performance 52 Week range
+
+Exchange-NYSE USD 132.24-91.57
+
+Link to Barclays Live for interactive charting
+U.S. Life Science Tools & Diagnostics Jack Meehan, CFA +1 212 526 3909 jack.meehan@barclays.com BCI, US Mitchell Petersen +1 212 526 3367 mitchell.petersen@barclays.com BCI, US Andrew Wald +1 212 526 9436 andrew.wald@barclays.com BCI, US
+14
+
+Barclays | IQVIA
+
+U.S. Life Science Tools & Diagnostics
+IQVIA (IQV)
+
+Industry View: NEUTRAL Stock Rating: OVERWEIGHT
+
+Income statement ($mn) Revenue EBITDA (adj) EBIT (adj) Pre-tax income (adj) Net income (adj) EPS (adj) ($) Diluted shares (mn) DPS ($)
+
+2017A 8,074 2,047 1,700 1,370 1,040 4.69 222.6 0.00
+
+2018E 8,738 2,213 1,843 1,430 1,148
+5.50 208.8
+0.00
+
+2019E 9,185 2,415 2,020 1,577 1,274
+6.20 205.5
+0.00
+
+2020E 9,868 2,684 2,269 1,812 1,456
+7.20 202.4
+0.00
+
+CAGR 6.9% 9.4% 10.1% 9.8% 11.9% 15.3% -3.1% N/A
+
+Margin and return data Gross margin (%) EBITDA (adj) margin (%) EBIT (adj) margin (%) Pre-tax (adj) margin (%) Net (adj) margin (%) ROIC (%) ROA (%) ROE (%)
+
+Average
+
+42.8 35.9 36.1 36.5
+
+37.8
+
+24.0 20.4 21.1 21.9
+
+21.9
+
+21.1 17.9 18.6 19.4
+
+19.2
+
+17.0 13.8 14.5 15.5
+
+15.2
+
+11.6 10.1 10.6 11.4
+
+10.9
+
+5.8
+
+6.5
+
+7.0
+
+7.8
+
+6.8
+
+4.5
+
+5.0
+
+5.3
+
+5.8
+
+5.1
+
+12.2 14.8 15.0 16.2
+
+14.5
+
+Balance sheet and cash flow ($mn)
+
+Tangible fixed assets
+
+N/A
+
+Intangible fixed assets
+
+N/A
+
+Cash and equivalents
+
+959
+
+Total assets
+
+22,742
+
+Short and long-term debt
+
+N/A
+
+Other long-term liabilities
+
+N/A
+
+Total liabilities
+
+14,384
+
+Net debt/(funds)
+
+9,266
+
+Shareholders' equity
+
+8,358
+
+Change in working capital
+
+-292
+
+Cash flow from operations
+
+970
+
+Capital expenditure
+
+-369
+
+Free cash flow
+
+601
+
+N/A N/A 912 22,774 N/A N/A 15,115 9,707 7,659 -143 1,164 -412 753
+
+N/A N/A 1,170 23,649 N/A N/A 15,316 9,449 8,333 -92 1,457 -381 1,076
+
+N/A N/A 1,155 24,336 N/A N/A 15,546 9,464 8,789 -116 1,627 -408 1,218
+
+CAGR N/A N/A 6.4% 2.3% N/A N/A 2.6% 0.7% 1.7% N/A
+18.8% N/A
+26.6%
+
+Price (19-Oct-2018)
+
+USD 126.89
+
+Price Target
+
+USD 140.00
+
+Why Overweight? We believe IQVIA has created a
+
+best in class platform in the CRO industry. We believe
+
+marrying Quintiles CRO platform with IMS' clinical insights will yield market share gains over time, and above-market organic growth. Additionally,
+
+transaction cost synergies give us improved visibility
+
+into earnings growth through 2020.
+
+Upside case
+
+USD 160.00
+
+We believe the IQVIA value proposition could yield market share gains over time, coupled with a long runway for cost synergies. Our upside case of $160 represents 17x our upside 2019 adj. EBITDA of $2.55 billion.
+
+Downside case
+
+USD 80.00
+
+Risks around M&A integration and recent growth trends in the Integrated Engagement Solutions business could weigh on near-term growth. Our downside case of $80 represents 13x our downside 2019 adj. EBITDA of $2.1 billion.
+
+Upside/Downside scenarios
+
+Valuation and leverage metrics P/E (adj) (x) EV/sales (x) EV/EBITDA (adj) (x) EV/EBIT (adj) (x) FCF yield (%) Dividend yield (%) Net debt/EBITDA (adj) (x)
+Selected operating metrics SG&A/sales (%) SG&A growth (%)
+
+Average
+
+27.1 23.1 20.5 17.6
+
+22.1
+
+3.3
+
+3.0
+
+2.9
+
+2.7
+
+2.9
+
+12.8 11.9 10.9
+
+9.8
+
+11.3
+
+15.4 14.2 13.0 11.6
+
+13.6
+
+2.3
+
+2.9
+
+4.1
+
+4.6
+
+3.5
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+4.8
+
+4.6
+
+4.1
+
+3.7
+
+4.3
+
+Average
+
+18.7 15.5 15.1 14.6
+
+16.0
+
+39.8
+
+5.6
+
+2.7
+
+3.8
+
+13.0
+
+Source: Company data, Barclays Research Note: FY End Dec
+
+22 October 2018
+
+2
+15
+
+Barclays | IQVIA
+
+Introduction
+Despite the muted stock reaction for IQVIA following earnings, we thought there were several encouraging leading indicators with 3Q18 results that bode well for growth heading into 2019. First, in R&D Solutions, IQVIA delivered a quarterly contracted bookto-bill of 1.69x (and ~1.4x on a TTM basis). Given IQVIA's scale in clinical development, the sheer magnitude of new business awards in the quarter was encouraging. Second, underlying organic growth in the R&D segment improved in the quarter on more difficult comps. After adjusting for the impact of ASC 606, we estimate net organic growth was ~7% (vs headline organic of 3.5%). Third, in the Technology & Analytics Solutions segment, IQVIA's OCE strategy appears to be resonating as it approaches a renewal cycle with biopharma sponsors. For the quarter itself, 6% CER revenue growth translated into 9% cash EBITDA growth and 20% cash EPS growth ­ highlighting the leverage inherent in IQVIA's business model. Folding these factors together, we believe IQVIA is well positioned heading into 2019 to continue delivering on its growth objectives. We reiterate our Overweight rating, and raise our price target to $140 (from $130).
+Actions
+We raise our price target to $140 (from $130), given increased conviction in the underlying growth trajectory for 2019. Our $140 PT represents 17x 2019 adj. EBITDA of $2.3 billion. Our prior $130 price target represented 16x our 2019 adj. EBITDA forecast of $2.3 billion. IQVIA's recent new business wins have out-paced peers, and we believe the NextGen strategy supports our view on 2019 growth. Specifically, IQVIA delivered a quarterly contracted book-to-bill of 1.69x (TTM of ~1.38x), which we believe improves visibility into R&D Solutions growth into 2019.
+Observations
+1) We believe the highlight of IQVIA's 3Q18 earnings was the company's contracted quarterly book-to-bill of 1.69x, and 1.38x on a TTM basis ­ which screens as higher than the company's peer group. IQVIA continues to show progress on its strategy to develop a "Next Generation CRO," with CEO Ari Bousbib highlighting $2.9 billion of awards (up from $2.3 billion in 2Q18) attributed to the offering. We believe the first incremental new business awards that the company won as part of the NextGen data capabilities are now starting to contribute more meaningfully to growth. Importantly, not only are the company's NextGen data capabilities helping to win business with existing clients, but IQVIA is gaining traction with new customers. In addition, the company is encouraged by wins it has achieved by leveraging the NextGen platform with smaller biopharma customers, a client base where IQVIA has historically been underpenetrated. The company noted that it saw just under 90% growth y/y in gross bookings with emerging biopharma customers, with the NextGen offering playing an important part in this. The company believes its NextGen offering is impacting roughly 50% of the company's RFP volume. Of this NextGen volume, the company is expanding its use of fixed price contracts.
+
+22 October 2018
+
+3
+16
+
+Barclays | IQVIA
+
+FIGURE 1 IQVIA Backlog Analysis ($ Millions)
+
+Assumptions ($ Millions)
+
+2016
+
+1Q17
+
+2Q17
+
+3Q17
+
+4Q17
+
+2017
+
+1Q18
+
+2Q18
+
+3Q18
+
+EST 4Q18
+
+EST 2018
+
+New Business Analysis
+
+R&D Beginning Backlog
+
+$9,066 $9,500 $9,660 $9,990 $10,320 $9,500 $10,540 $10,860 $11,430 $12,100 $10,540
+
+Gross New Authorizations % Y/Y Growth
+R&D Cancellations % Cancellation Rate
+R&D Net Authorizations % Y/Y Growth
+TTM R&D Net Authorizations Adj
+NEW R&D Net Authorizations % Y/Y Growth
+TTM NEW R&D Net Authorizations % Y/Y Growth
+
+4,936.8 2.0% 926.9 2.5%
+$4,009.9 -2.9%
+$3,916.2 0.9%
+$4,300.0 10.1%
+
+1,210.1 22.2% 190.0 2.0%
+$1,020.1 27.5%
+$4,230.0 (150.0)
+$1,020.1 36.0%
+$4,080.0 12.1%
+
+1,358.0 -14.0%
+193.2 2.0% $1,164.8 -16.2% $4,004.8
+$1,164.8 -13.5%
+$4,030.0 -1.4%
+
+1,417.9 24.7% 199.8 2.0%
+$1,218.1 51.2%
+$4,417.3
+$1,218.1 51.2%
+$4,370.0 -0.7%
+
+1,343.5 9.2% 206.4 2.0%
+$1,137.1 12.1%
+$4,540.0
+$1,137.1 12.1%
+$4,540.0 5.6%
+
+5,329.4 8.0% 789.4 2.0%
+$4,540.0 13.2%
+$4,540.0 15.9%
+$4,540.0 5.6%
+
+1,400.4 15.7% 210.8 2.0%
+$1,189.6 16.6%
+$4,709.6
+$1,189.6 16.6%
+$4,720.0 15.7%
+
+1,757.2 29.4% 217.2 2.0%
+$1,540.0 32.2%
+$5,084.8
+$1,540.0 32.2%
+$4,880.0 21.1%
+
+1,913.6 35.0% 228.6 2.0%
+$1,685.0 38.3%
+$5,551.7
+$1,685.0 38.3%
+$5,370.0 22.9%
+
+1,451.0 8.0% 242.0 2.0%
+$1,209.0 6.3%
+$5,623.6
+$1,209.0 6.3%
+$5,623.6 23.9%
+
+6,522.2 22.4% 898.6 2.0%
+$5,623.6 23.9%
+$5,623.6 23.9%
+$5,623.6 23.9%
+
+R&D Recognized Revenue % Growth Y/Y Quarterly Burn Rate TTM Moving Avg Burn Rate
+
+$3,473.0 9.1%
+
+$866.0 3.7% 9.12%
+9.23%
+
+$896.0 1.0% 9.28%
+9.24%
+
+$938.0 7.9% 9.39%
+9.29%
+
+$947.0 7.4% 9.18%
+9.24%
+
+$3,647.0 5.0%
+
+$975.0 12.6% 9.25% 9.27%
+
+$970.0 8.3% 8.93%
+9.19%
+
+$1,000.0 6.6% 8.75%
+9.03%
+
+$935.1 -1.3% 7.73% 8.66%
+
+$3,880.1 -24.0%
+
+FX and Other Adjustments
+
+(103)
+
+6
+
+61
+
+50
+
+30
+
+147
+
+105
+
+0
+
+(15)
+
+0
+
+90
+
+R&D Ending Backlog w/ Reimbursed % Growth Y/Y
+
+$14,840
+
+$15,160 $15,730 $16,400
+
+R&D Ending Backlog ex-Reimbursed % Growth Y/Y
+
+$9,500 4.8%
+
+$9,660 7.3%
+
+$9,990 $10,320 $10,540 $10,540 $10,860 $11,430 $12,100 $12,374 $12,374
+
+5.6%
+
+9.8% 10.9% 10.9% 12.4% 14.4% 17.2% 17.4% 17.4%
+
+R&D Net Book-to-Bill
+
+1.15x
+
+TTM R&D Net Book-to-Bill
+
+1.24x
+
+Source: Company Documents, Barclays Research
+
+1.18x 1.16x
+
+1.30x 1.15x
+
+1.30x 1.22x
+
+1.20x 1.24x
+
+1.24x 1.24x
+
+1.22x 1.26x
+
+1.59x 1.27x
+
+1.69x 1.38x
+
+1.29x 1.45x
+
+1.45x 1.45x
+
+2) Looking at IQVIA's underlying results in R&D Solutions, we estimate organic growth improved to around 7% in 3Q18 under ASC 605 ­ and that headline results understate the company's momentum. Given new business wins of $1.7 billion, and a quarterly bookto-bill of 1.69x, underlying net revenues for the R&D segment were around $1 billion in the quarter. This implies that underlying organic growth for the segment was 7%, vs headline organic growth of 3.5%. As background, under ASC-606, the CROs must include reimbursed pass-through expenses as part of gross revenues (historically they were netted out). In 3Q18, IQVIA faced a difficult y/y comparison on pass-through expenses.
+
+FIGURE 2 R&D Solutions Growth
+
+Assumptions ($ Millions)
+
+2016
+
+1Q17
+
+2Q17
+
+3Q17
+
+4Q17
+
+2017
+
+1Q18
+
+2Q18
+
+3Q18
+
+R&D Solutions
+
+Re-Stated R&D Solutions Revs
+
+$4,787.0 $1,262.7 $1,232.0 $1,341.0 $1,269.3 $5,105.0 $1,365.0 $1,350.0 $1,382.0
+
+% Growth Y/Y
+
+8.9%
+
+8.2%
+
+0.8% 13.7%
+
+4.2%
+
+6.6%
+
+8.1%
+
+9.6%
+
+3.1%
+
+FX Contribution
+
+-0.3%
+
+-1.3%
+
+-1.3%
+
+0.4%
+
+1.6%
+
+-0.1%
+
+2.3%
+
+1.3%
+
+-0.4%
+
+% Y/Y Growth ex-FX
+
+9.5%
+
+4.3%
+
+1.7%
+
+6.9%
+
+5.0%
+
+4.5%
+
+5.8%
+
+8.3%
+
+3.5%
+
+M&A Contribution / Other Adjustments
+
+0.0%
+
+0.4%
+
+1.8%
+
+1.5%
+
+0.9%
+
+1.8%
+
+2.0%
+
+0.0%
+
+Gross Organic Growth
+
+4.3%
+
+1.3%
+
+5.1%
+
+3.5%
+
+3.5%
+
+4.0%
+
+6.3%
+
+3.5%
+
+Reimburseable Costs
+
+1,514.0
+
+411.0
+
+406.0
+
+446.0
+
+416.0 1,679.0
+
+390.0
+
+380.0
+
+382.0
+
+% of Revs
+
+31.6% 32.5% 33.0% 33.3% 32.8% 32.9% 28.6% 28.1% 27.6%
+
+Restatements
+
+(200.0)
+
+(14.3)
+
+(70.0)
+
+(43.0)
+
+(93.7) (221.0)
+
+Net R&D Solutions Revenues
+
+$3,473.0 $866.0 $896.0 $938.0 $947.0 $3,647.0 $975.0 $970.0 $1,000.0
+
+% Growth Y/Y
+
+9.1%
+
+7.3%
+
+1.7% 12.4% 10.1%
+
+5.0% 12.6%
+
+8.3%
+
+6.6%
+
+Net Organic Growth
+
+9.5%
+
+4.3%
+
+1.3%
+
+5.1%
+
+3.5%
+
+3.5%
+
+8.5%
+
+5.0%
+
+7.0%
+
+Source: Company Documents, Barclays Research
+
+22 October 2018
+
+4
+17
+
+Barclays | IQVIA
+
+3) Adjusted revenues of $2.594 billion were 0.8% above our estimate of $2.574 billion, and toward the upper end of the range of management guidance of $2.55-$2.60 billion. Currency neutral growth of 6.3% was 140bps above our estimate. FX was an 110bp headwind to revenue growth, 60bps more adverse than our model. From a segment perspective, results in Technology & Analytics Solutions drove the beat ­ while the remaining segments were relatively in line with expectations.
+ R&D Solutions: Revenue of $1,382 million grew 3.5% y/y in constant currency, a moderation from 8.3% growth in 2Q18 and 5.8% in 1Q18. This was roughly consistent with our forecast for 4% gross organic growth. Management noted that segment growth was substantially all organic. The company did not detail the contribution from reimbursed expenses in the quarter, so we await the call for more details. Reimbursed expenses represented a $57mm headwind to R&D Solutions growth y/y in our model for 3Q18. Total revenue increased 3.1% and included a 40bp headwind from FX. Revenues came in 1.4% below our forecast of $1,401 million.
+ Technology & Analytics Solutions: Revenue of $1,014 million grew 15.0% y/y constant currency, and up 12.9% including a 210bp headwind from FX. This came in 4.1% above our forecast of $974 million, with constant currency growth beating by 600bps (we modelled 9.0%). On the call, the company noted that organic growth was 4% during the quarter, implying an 11% benefit from M&A. Bousbib added that IQVIA is seeing early success with its Orchestrated Clinical Engagement (OCE) offering, winning 15 of its first 20 pitches.
+ Contract Sales & Medical Solutions: Revenue of $198 million was -11.9% at constant currency, improving from -15.1% in 2Q18 and -12.8% in 1Q18. Overall growth declined 12.8% and included a 90bp headwind from FX. Organic growth was largely in line (10bp above) with our forecast of -12.0%, with revenues modestly below our estimate of $199 million due to FX.
+
+FIGURE 3 IQVIA Organic Revenue Growth
+
+$ Millions
+
+Y/Y Growth
+
+$3,500 $3,000 $2,500 $2,000
+
+8%
+
+9%
+
+6%
+
+6% 6% 6% 6% 7% 7% 7% 7% 7% 7% 7% 7%
+
+8% 7%
+
+5% 5%
+
+6%
+
+4%
+
+4%
+
+5%
+
+$1,500 3%
+
+4%
+
+$1,000
+
+1%
+
+3% 2%
+
+$500
+
+1%
+
+$0
+
+0%
+
+Revenues
+
+% CER Growth
+
+Source: Company Documents, Barclays Research
+
+4) IQVIA is raising its earnings forecast for 2018 in conjunction with the better 3Q18 results. Revenue is expected in the range of $10.30-$10.35 billion, up 6.2-6.7% y/y. Despite a greater than previously anticipated foreign exchange headwind for 2018, IQVIA is maintaining its revenue guidance at the midpoint, though is narrowing the range (from $10.25-$10.40 billion). Cash EBITDA is now forecast in the range of $2.195-$2.225 billion, up $10mm at the midpoint from the prior range of $2.170-$2.230 billion and
+
+22 October 2018
+
+5
+18
+
+Barclays | IQVIA
+
+compared to our forecast of $2.2 billion. Similarly, Cash EPS is now forecast in a range of $5.45-$5.55, representing 20-22% growth. This is also up from the prior range of $5.35$5.55, which represented 17-22% growth y/y and compared to our forecast of $5.45. This included a projected 23% adjusted book tax rate, and 17% cash tax. The company noted that it completed $133 million of repurchase in the quarter, and has $889 million of authorization remaining.
+For 4Q18, IQVIA's 2018 guidance implies revenue in the range of $2.57-$2.62 billion, representing growth of 1.9-3.9% y/y. Cash EBITDA is projected in a range of $554-$584 million, up 5.3-11.0% y/y. Cash EPS of $1.40-$1.50 represents 14.6-22.8% growth y/y. Growth rates are based on restated 4Q17 financials.
+
+FIGURE 4 2018 Guidance
+4Q18 Guidance ($MM) Total Revenue
+Y/Y Growth Cash EBITDA
+Y/Y Growth Cash Diluted EPS
+Y/Y Growth
+
+10/22/2018 Low Mid High $2,570 $2,595 $2,620 1.9% 2.9% 3.9% $554 $569 $584 5.3% 8.2% 11.0% $1.40 $1.45 $1.50 14.6% 18.7% 22.8%
+
+Barclays Research
+$2,594 2.9% $572 8.7% $1.45 18.7%
+
+2018 Guidance ($MM) Total Revenue
+Y/Y Growth FX Constant Currency M&A Organic Growth ASC605 Organic
+
+10/22/2018
+
+Barclays
+
+7/24/2018
+
+5/2/2018
+
+2/14/2018
+
+Low Mid High Research Low Mid High Low Mid High Low Mid High
+
+$10,300 $10,325 $10,350 $10,324 $10,250 $10,325 $10,400 $10,050 $10,150 $10,250 $10,000 $10,100 $10,200 6.2% 6.4% 6.7% 6.4% 5.6% 6.4% 7.2% 3.6% 4.6% 5.6% 3.1% 4.1% 5.1% 0.5% 0.5% 0.5% 0.4% 1.0% 1.0% 1.0% 1.5% 1.5% 1.5% 1.0% 1.0% 1.0%
+
+5.7% 5.9% 6.2% 5.9% 4.6% 5.4% 6.2% 2.1% 3.1% 4.1% 2.1% 3.1% 4.1%
+
+3.0% 3.0% 3.0% 3.6% 3.0% 3.0% 3.0% 2.0% 2.0% 2.0% 2.0% 2.0% 2.0%
+
+2.7% 2.9% 3.2% 2.3% 1.6% 2.4% 3.2% 0.1% 1.1% 2.1% 0.1% 1.1% 2.1%
+
+2.2%
+
+Commercial Solutions Y/Y Growth
+R&D Solutions Y/Y Growth
+Integrated Eng. Services Y/Y Growth
+
+$4,082 10.9% $5,423 6.2% $812 -11.2%
+
+$3,958 7.5% $5,246 2.8% $796 -13.0%
+
+$3,995 8.5% $5,284 3.5% $821 -10.3%
+
+$4,032 9.5% $5,322 4.2% $846 -7.5%
+
+Cash EBITDA Y/Y Growth
+
+$2,195 $2,210 $2,225 $2,213 $2,170 $2,200 $2,230 $2,150 $2,185 $2,220 $2,150 $2,185 $2,220 9.2% 10.0% 10.7% 10.1% 8.0% 9.5% 10.9% 7.0% 8.7% 10.4% 7.0% 8.7% 10.4%
+
+Effective Income Tax Rate 23.0% 23.0% 23.0% 24.8% 23.0% 23.0% 23.0% 24.0% 24.0% 24.0% 24.0% 24.0% 24.0%
+
+Cash Diluted EPS Y/Y Growth
+
+$5.45 $5.50 $5.55 $5.50 $5.35 $5.45 $5.55 $5.20 $5.33 $5.45 $5.20 $5.33 $5.45 19.5% 20.6% 21.7% 20.6% 17.3% 19.5% 21.7% 14.1% 16.8% 19.5% 14.1% 16.8% 19.5%
+
+Source: Company Documents, Barclays Research
+
+5) Cash EBITDA of $561 million came in 2.1% above our expectation of $550 million. EBITDA margins of 21.6% came in 20bps above our expectation. Margins expanded 80bps in the quarter, and 50bps on a constant currency basis. The $200 million in expected cost synergies by the end of 2019 are tracking ahead of the company's expectations.
+
+22 October 2018
+
+6
+19
+
+Barclays | IQVIA
+
+FIGURE 5 IQVIA Cash EBITDA and Margins
+
+$ Millions
+
+% EBITDA Margin
+
+$700 $600 $500
+
+26.9%
+
+26.9%
+
+24.5% 23.7% 25.4% 17.8% 17.4% 17.7% 19.1% 18.3% 19.1% 20.1% 20.5%
+
+24.4% 24.7% 25.3%
+
+21.3% 20.7% 21.6% 22.0% 21.9% 21.3% 22.4% 23.2%
+
+30% 25% 20%
+
+$400 $300
+
+15%
+
+$200
+
+10%
+
+$100
+
+5%
+
+$0
+
+0%
+
+Source: Company Documents, Barclays Research
+6) COGS decreased by 90bps y/y and core SG&A (ex-comp) was down 270bps y/y. As a reminder, the merger between IMS Health and Quintiles was completed on October 3, 2016, so IQVIA has now annualized the mix benefits of IMS Health's attractive margin profile. On gross margins, similar to EBITDA, we expect that volume leverage and efficiency initiatives were partially offset by investments and FX headwinds.
+
+FIGURE 6 IQVIA COGS and SG&A (% of Revenue)
+
+70%64.0% 65.1% 65.1% 63.4% 64.3% 63.7% 62.5% 61.7% 63.2% 63.5% 61.9%
+
+64.4% 65.2% 64.6% 62.4% 64.2% 65.0% 64.3% 61.9%
+
+60%
+
+55.3% 58.0% 58.5% 57.7% 55.0%
+
+50%
+
+40%
+
+30%
+
+21.1%
+20%
+
+20.3%
+
+20.0%
+
+20.4%
+
+20.4%
+
+20.0%
+
+20.4%
+
+20.8%
+
+19.6%
+
+19.8%
+
+19.2%
+
+17.7%
+
+17.6%
+
+16.8%
+
+17.0%
+
+18.1%
+
+14.2%
+
+14.1%
+
+13.8%
+
+15.6%
+
+13.9%
+
+13.7%
+
+13.3%
+
+14.9%
+
+10%
+
+0%
+
+COGS
+
+SG&A
+
+Source: Company Documents, Barclays Research
+
+7) Cash EPS of $1.42 came in $0.03 above our estimate and the Street at $1.39. Revenue came in 0.9% above our estimate. The upside in the quarter was driven by top-line leverage and slightly lower expenses, while the share count was relatively in line with our forecast.
+
+22 October 2018
+
+7
+20
+
+Barclays | IQVIA
+
+FIGURE 7 IQVIA Cash EPS and Y/Y Growth
+
+$1.80 $1.60 $1.40 $1.20 $1.00 $0.80 $0.60 $0.40 $0.20 $0.00
+
+Y/Y Growth
+
+$1.69
+
+$1.59
+
+$1.40 $1.34 $1.29 $1.42 $1.45 $1.48 $1.44
+
+$1.12 $1.09
+
+$1.19 $1.09
+
+$1.00 $0.98 $0.96 $1.01
+
+$1.01
+
+$0.86 $0.74 $0.71 $0.70 $0.77 $0.79
+
+50% 45% 40% 35% 30% 25% 20%
+
+15%
+
+10%
+
+5%
+
+0%
+
+Source: Company Documents, Barclays Research
+8) Cash flow from operations was positive at $344 million (at 1.31x adjusted net income, with working capital a $31mm tailwind). Capex of $123 million represented 4.7% of revenues, up 110bps y/y. Management repurchased $133 million worth of shares in the quarter, all on the open market. On February 15, 2018 IQVIA increased its post-merger authorization to $5.0 billion, with $889 million of share repurchase authorization remaining. IQVIA ended the quarter at 4.5x net debt to TTM adj. EBITDA.
+
+FIGURE 8 CFFO Component Trends ($MM)
+
+$ Millions
+
+$1,600
+
+$1,400
+
+$1,200
+
+$1,000
+
+$800
+
+$600
+
+$400
+
+$200
+
+$0
+
+$$7865
+
+$264 $71
+
+$305 $92
+
+$349 $83
+
+$397 $78
+
+$696 $164
+
+$601 $369
+
+$752
+
+$1,077
+
+$412
+
+$381
+
+Source: Company Documents, Barclays Research
+
+CapEx Free Cash Flow
+
+22 October 2018
+
+8
+21
+
+Barclays | IQVIA
+
+IQVIA Model Update
+
+FIGURE 9 IQVIA Income Statement
+
+Income Statement ($ Millions)
+
+2016
+
+2017
+
+1Q18
+
+2Q18
+
+3Q18
+
+EST 4Q18
+
+EST 2018
+
+EST 1Q19
+
+EST 2Q19
+
+EST 3Q19
+
+EST 4Q19
+
+EST 2019
+
+EST 2020
+
+EST 2021
+
+Gross Service Revenue % Growth Y/Y
+Reimbursable Expense Net Service Revenue
+% Growth Y/Y % Growth Q/Q % Constant Currency Growth % Organic Growth
+
+$5,419.5 25.3%
+5.4%
+
+$9,702.0 $2,564.0 $2,569.0 $2,597.0 $2,593.8 $10,323.8 $2,676.2 $2,699.8 $2,742.2 $2,769.9 $10,888.1 $11,670.6 $12,514.0
+
+8.6%
+
+9.1%
+
+5.3%
+
+2.9%
+
+6.4%
+
+4.4%
+
+5.1%
+
+5.6%
+
+6.8%
+
+5.5%
+
+7.2%
+
+7.2%
+
+$1,679.0 $399.3 $394.0 $393.0 $400.0 $1,586.3 $424.3 $429.0 $426.0 $423.7 $1,703.0 $1,803.0 $1,903.0
+
+$8,074.0 $2,164.7 $2,175.0 $2,204.0 $2,193.8 $8,737.5 $2,251.9 $2,270.8 $2,316.2 $2,346.2 $9,185.1 $9,867.6 $10,611.0
+
+49.0% 12.9% 10.4%
+
+9.1%
+
+1.3%
+
+8.2%
+
+4.0%
+
+4.4%
+
+5.1%
+
+6.9%
+
+5.1%
+
+7.4%
+
+7.5%
+
+-0.1%
+
+0.5%
+
+1.3%
+
+-0.5%
+
+2.7%
+
+0.8%
+
+2.0%
+
+1.3%
+
+3.5%
+
+5.2%
+
+7.7%
+
+6.3%
+
+4.4%
+
+5.9%
+
+6.0%
+
+6.4%
+
+6.4%
+
+6.5%
+
+6.3%
+
+6.9%
+
+6.9%
+
+3.1%
+
+4.0%
+
+2.2%
+
+3.6%
+
+1.2%
+
+2.7%
+
+4.7%
+
+5.0%
+
+5.5%
+
+5.6%
+
+5.2%
+
+5.7%
+
+5.8%
+
+Gross Cost of Goods Sold COGS % of Revenues inc. Comp/Dep.
+Reimbursable Expense Net Cost of Goods
+COGS % of Revenues inc. Comp/Dep.
+
+3,256.0 60.1%
+
+6,287.0 64.8% 1,679.0 4,622.0 57.2%
+
+1,652.0 64.4%
+399.3 1,252.7 57.9%
+
+1,674.0 65.2%
+394.0 1,280.0 58.9%
+
+1,678.0 64.6%
+393.0 1,285.0 58.3%
+
+1,617.2 62.4%
+400.0 1,217.2 55.5%
+
+6,621.2 64.1% 1,586.3 5,035.0 57.6%
+
+1,717.3 64.2%
+424.3 1,293.1 57.4%
+
+1,755.2 65.0%
+429.0 1,326.2 58.4%
+
+1,766.0 64.4%
+426.0 1,340.0 57.9%
+
+1,715.0 61.9%
+423.7 1,291.2 55.0%
+
+6,953.4 63.9% 1,703.0 5,250.4 57.2%
+
+7,414.0 63.5% 1,803.0 5,611.0 56.9%
+
+7,915.6 63.3% 1,903.0 6,012.6 56.7%
+
+Gross Profit % Gross Margin inc. Comp/Dep
+
+$2,163.5 $3,452.0
+
+39.9%
+
+42.8%
+
+$912.0 35.6%
+
+$895.0 34.8%
+
+$919.0 35.4%
+
+$976.5 $3,702.5
+
+37.6%
+
+35.9%
+
+$958.9 35.8%
+
+$944.6 35.0%
+
+$976.2 $1,054.9 $3,934.6 $4,256.6 $4,598.4
+
+35.6% 38.1%
+
+36.1%
+
+36.5%
+
+36.7%
+
+SG&A Expenses (inc. Dep) SG&A % of revenues Y/Y Growth
+Stock-based Compensation Expense % Stock Comp of Revenues
+Total SG&A % Total SG&A of Revenues % Y/Y Growth
+
+1,022.4 18.9% 15.8%
+58.4 1.1% 1080.8 19.9% 17.4%
+
+1,405.0 17.4% 37.4% 106.0
+1.3% 1511.0 18.7% 39.8%
+
+365.0 14.2%
+8.0% 21.0 0.8% 386.0 15.1% 6.0%
+
+362.0 14.1%
+9.4% 26.0 1.0% 388.0 15.1% 8.4%
+
+358.0 13.8%
+4.4% 31.0 1.2% 389.0 15.0% 4.6%
+
+404.8 15.6%
+3.0% 28.5 1.1% 433.3 16.7% 3.9%
+
+1,489.8 14.4%
+6.0% 106.5 1.0% 1596.3 15.5% 5.6%
+
+372.3 13.9%
+2.0% 29.4 1.1% 401.7 15.0% 4.1%
+
+369.2 13.7%
+2.0% 29.7 1.1% 398.9 14.8% 2.8%
+
+365.2 13.3%
+2.0% 30.2 1.1% 395.3 14.4% 1.6%
+
+412.9 14.9%
+2.0% 30.5 1.1% 443.4 16.0% 2.3%
+
+1,519.6 14.0%
+2.0% 119.8 1.1% 1639.4 15.1% 2.7%
+
+1,572.8 13.5%
+3.5% 128.4 1.1% 1701.1 14.6% 3.8%
+
+1,627.8 13.0%
+3.5% 137.7 1.1% 1765.5 14.1% 3.8%
+
+Adj. EBITDA % EBITDA Margin % Y/Y Growth
+Cash EBITDA % Cash EBITDA Margin % Y/Y Growth
+
+$1,181.1 21.8% 46.2%
+$1,956.0 25.1% 131.4%
+
+$1,941.0 24.0% 64.3%
+$2,047.0 25.4% 4.7%
+
+$526.0 20.5% 19.3% $547.0 21.3%
+8.5%
+
+$507.0 19.7% 10.5% $533.0 20.7% 14.1%
+
+$530.0 20.4%
+9.7% $561.0
+21.6% 9.4%
+
+$543.2 20.9% -2.6% $571.8 22.0%
+8.7%
+
+$2,106.2 20.4% 8.5%
+$2,212.8 21.4% 10.1%
+
+$557.1 20.8%
+5.9% $586.6
+21.9% 7.2%
+
+$545.7 20.2%
+7.6% $575.4
+21.3% 8.0%
+
+$580.9 21.2%
+9.6% $611.0
+22.3% 8.9%
+
+$611.6 22.1% 12.6% $642.0 23.2% 12.3%
+
+$2,295.3 21.1% 9.0%
+$2,415.1 22.2% 9.1%
+
+$2,555.4 21.9% 11.3%
+$2,683.8 23.0% 11.1%
+
+$2,832.9 22.6% 10.9%
+$2,970.6 23.7% 10.7%
+
+Depreciation & Amortization % Revenues
+
+157.4 2.9%
+
+241.0 3.0%
+
+64.0 2.5%
+
+65.0 2.5%
+
+67.0 2.6%
+
+67.0 2.6%
+
+263.0 2.5%
+
+68.1 2.5%
+
+68.4 2.5%
+
+69.0 2.5%
+
+69.4 2.5%
+
+275.0 2.5%
+
+286.0 2.5%
+
+297.8 2.4%
+
+Adj. EBIT % Adj. EBIT Margin % Y/Y Growth
+
+$1,023.7 18.9% 50.6%
+
+$1,700.0 21.1% 66.1%
+
+$462.0 18.0% 19.7%
+
+$442.0 17.2% 11.3%
+
+$463.0 17.8% 10.2%
+
+$476.3 18.4% -4.2%
+
+$1,843.3 17.9% 8.4%
+
+$489.0 18.3% 5.9%
+
+$477.3 17.7% 8.0%
+
+$511.8 18.7% 10.5%
+
+$542.2 19.6% 13.8%
+
+$2,020.3 18.6% 9.6%
+
+$2,269.5 19.4% 12.3%
+
+$2,535.2 20.3% 11.7%
+
+Interest Income % of Revenues % Annualized of BS Investments
+Interest Expense % of Revenues % Annualized of BS Debt Obligations
+Other Items, Net % of Revenues
+Other Expense, Net % of Revenues
+
+(3.2) 0.06% 0.26% 143.9
+2.7% 3.02%
+6.4 0.12% $147.1 2.7%
+
+(7.0) 0.09% 0.73% 346.0
+4.3% 3.71%
+(9.0) -0.11% $330.0
+4.1%
+
+(2.0) 0.1% 0.83% 96.0 3.7% 3.68%
+4.0 0.2% $98.0 3.8%
+
+(1.0) 0.0% 0.46% 107.0 4.2% 3.99%
+1.0 0.0% $107.0 4.2%
+
+(2.0) 0.1% 0.97% 105.0 4.0% 3.96% (3.0) (0.1%) $100.0 3.9%
+
+(1.7) 0.1% 0.80% 106.2 4.1% 4.00%
+4.0 0.2% $108.5 4.2%
+
+(6.7) 0.06% 0.74% 414.2
+4.0% 3.91%
+6.0 0.06% $413.5 4.0%
+
+(2.1) 0.1% 0.90% 110.2 4.1% 4.15%
+3.0 0.1% $111.1 4.2%
+
+(2.2) 0.1% 0.90% 110.2 4.1% 4.15%
+3.0 0.1% $111.0 4.1%
+
+(2.0) 0.1% 0.90% 110.2 4.0% 4.15%
+3.0 0.1% $111.2 4.1%
+
+(2.7) 0.1% 0.90% 110.2 4.0% 4.15%
+3.0 0.1% $110.5 4.0%
+
+(8.9) 0.08% 0.84% 440.7
+4.0% 4.15%
+12.0 0.11% $443.8 4.1%
+
+(11.0) 0.09% 0.95% 456.6
+3.9% 4.30%
+12.0 0.10% $457.7 3.9%
+
+(11.4) 0.09% 1.02% 467.2
+3.7% 4.40%
+12.0 0.10% $467.9 3.7%
+
+Pre-Tax Income % Pre-Tax Margin
+
+$876.6 $1,370.0
+
+16.2%
+
+17.0%
+
+$364.0 14.2%
+
+$335.0 13.0%
+
+$363.0 14.0%
+
+$367.7 14.2%
+
+$1,429.7 13.8%
+
+$377.9 14.1%
+
+$366.3 13.6%
+
+$400.7 14.6%
+
+$431.6 15.6%
+
+$1,576.5 14.5%
+
+$1,811.8 15.5%
+
+$2,067.3 16.5%
+
+Income Taxes % Tax Rate
+
+276.2 31.5%
+
+406.0 29.6%
+
+93.0 25.5%
+
+82.0 24.5%
+
+91.0 25.1%
+
+88.3 24.0%
+
+354.3 24.8%
+
+92.6 24.5%
+
+89.7 24.5%
+
+98.2 24.5%
+
+105.8 24.5%
+
+386.2 24.5%
+
+443.9 24.5%
+
+506.5 24.5%
+
+Income before earnings of unconsolidated Earnings from unconsolidated affiliates
+Net income Noncontrolling Interest/Minority Interests
+Adjusted Net Income Y/Y Growth Net Margin
+Cash Net Income % Cash Net Margin % Y/Y Growth
+
+600.4 (4.0)
+596.5 (13.1) $583.4 39.3% 10.8% $641.7 11.8% 40.5%
+
+964.0 (19.0) 945.0 (11.0) $934.0 60.1% 11.6% $1,040.0 12.9% 62.1%
+
+271.0 (4.0)
+267.0 (3.0)
+$264.0 24.5% 10.3% $285.0 11.1% 19.7%
+
+253.0 (7.0)
+246.0 (2.0)
+$244.0 13.5%
+9.5% $270.0
+10.5% 11.6%
+
+272.0 (7.0)
+265.0 (2.0)
+$263.0 13.9% 10.1% $294.0 11.3% 13.1%
+
+279.5 (7.0)
+272.5 (2.0)
+$270.5 -2.0% 10.4%
+$299.0 11.5% -0.3%
+
+1075.5 (25.0)
+1050.5 (9.0)
+$1,041.5 11.5% 10.1%
+$1,148.0 11.1% 10.4%
+
+285.3 (7.0)
+278.3 (2.0)
+$276.3 4.7%
+10.3% $305.8
+11.4% 7.3%
+
+276.5 (7.0)
+269.5 (2.0)
+$267.5 9.6% 9.9%
+$297.2 11.0% 10.1%
+
+302.5 (7.0)
+295.5 (2.0)
+$293.5 11.6% 10.7% $323.7 11.8% 10.1%
+
+325.9 (7.0)
+318.9 (2.0)
+$316.9 17.2% 11.4% $347.4 12.5% 16.2%
+
+1190.3 (28.0)
+1162.3 (8.0)
+$1,154.3 10.8% 10.6%
+$1,274.0 11.7% 11.0%
+
+1367.9 (30.0)
+1337.9 (10.0)
+$1,327.9 15.0% 11.4%
+$1,456.3 12.5% 14.3%
+
+1560.8 (38.0)
+1522.8 (12.0)
+$1,510.8 13.8% 12.1%
+$1,648.5 13.2% 13.2%
+
+Basic Shares Diluted Shares
+
+149.2 152.0
+
+217.8 222.6
+
+207.5 212.0
+
+205.7 209.9
+
+202.3 206.8
+
+202.0 206.5
+
+204.4 208.8
+
+201.4 205.9
+
+200.9 205.4
+
+200.8 205.3
+
+200.8 205.3
+
+201.0 205.5
+
+197.9 202.4
+
+193.1 197.6
+
+Adj. Basic EPS Adj. Diluted EPS
+Y/Y Growth Cash EPS
+% Y/Y Growth
+
+$3.91 $3.84 15.1% $4.19 15.1%
+
+$4.29 $4.20 9.3% $4.69 12.0%
+
+$1.27 $1.25 38.0% $1.34 19.7%
+
+$1.19 $1.16 20.2% $1.29 25.1%
+
+$1.30 $1.27 20.6% $1.42 19.7%
+
+$1.34 $1.31 1.6% $1.45 18.7%
+
+$5.10 $4.99 18.9% $5.50 20.6%
+
+$1.37 $1.34 7.7% $1.48 10.4%
+
+$1.33 $1.30 12.1% $1.45 12.5%
+
+$1.46 $1.43 12.4% $1.58 10.9%
+
+$1.58 $1.54 17.9% $1.69 16.9%
+
+$5.74 $5.62 12.6% $6.20 12.7%
+
+$6.71 $6.56 16.8% $7.20 16.1%
+
+$7.82 $7.65 16.6% $8.35 16.0%
+
+GAAP Net Income Y/Y Growth
+
+$113.6 $1,289.0 -70.7% 1034.7%
+
+$69.0 27.8%
+
+$61.0 -18.7%
+
+$60.0 -28.6%
+
+$270.5 -74.9%
+
+$460.5 -64.3%
+
+$276.3 300.5%
+
+$267.5 338.6%
+
+$293.5 389.2%
+
+$316.9 17.2%
+
+$1,154.3 150.7%
+
+$1,327.9 15.0%
+
+$1,510.8 13.8%
+
+GAAP EPS Basic Diluted Y/Y Growth
+
+$0.76 $0.75 -75.8%
+
+$5.92 $5.79 674.9%
+
+Source: Company Documents, Barclays Research
+
+$0.33 $0.33 41.6%
+
+$0.30 $0.29 -13.9%
+
+$0.30 $0.29 -24.4%
+
+$1.34 $1.31 -73.9%
+
+$2.25 $2.21 -61.9%
+
+$1.37 $1.34 312.2%
+
+$1.33 $1.30 348.3%
+
+$1.46 $1.43 392.7%
+
+$1.58 $1.54 17.9%
+
+$5.74 $5.62 154.7%
+
+$6.71 $6.56 16.8%
+
+$7.82 $7.65 16.6%
+
+22 October 2018
+
+9
+22
+
+Barclays | IQVIA
+
+FIGURE 10 IQVIA Statement of Cash Flows
+
+Cash Flow Statement ($ Millions)
+
+2016
+
+2017
+
+1Q18
+
+2Q18
+
+3Q18
+
+EST 4Q18
+
+EST 2018
+
+EST 1Q19
+
+EST 2Q19
+
+EST 3Q19
+
+EST 4Q19
+
+EST 2019
+
+EST 2020
+
+EST 2021
+
+Operating activities: Net income
+
+130.0
+
+1328.0
+
+73.0
+
+68.0
+
+67.0
+
+270.5
+
+478.5
+
+276.3 267.5 293.5 316.9
+
+1154.3
+
+1327.9
+
+1510.8
+
+Adjustments: Depreciation & Amortization Amortization of Debt Issuance Amortization of OID Amortization Other Stock Based Compensation Gain on PPE Disposal Change from unconsolidated affiliates Gain on investments, net Provision for deferred income taxes Excess income tax benefits on stock
+Changes in Working Capital Other Operating Asset/Liab Changes Change in AR, unbilled and unearned income
+Total change from assets and liabilities
+
+289.0 30.0 0.0 3.0 80.0 27.0 8.0 (13.0) 135.0 (41.0)
+222.0 (10.0) $212.0
+
+1011.0 9.0 3.0 0.0
+106.0 39.0 (10.0) (8.0) (1216.0) 0.0
+
+282.0 3.0 0.0 0.0 21.0 0.0 (6.0) 0.0 (26.0) 0.0
+
+282.0 2.0 0.0 0.0 26.0 0.0 (5.0) (3.0) (88.0) 0.0
+
+(46.0) (246.0) ($292.0)
+
+(178.0) 13.0 ($165.0)
+
+64.0 (35.0) $29.0
+
+283.0
+
+67.0
+
+3.0
+
+31.0
+
+28.5
+
+0.0
+
+(2.0)
+
+0.0
+
+(69.0)
+
+0.0
+
+228.0 (197.0) $31.0
+
+183.4 (221.9) ($38.5)
+
+914.0 8.0 0.0 0.0
+106.5 0.0 (13.0) (3.0)
+(183.0) 0.0
+297.4 (440.9) ($143.5)
+
+68.1
+
+68.4
+
+69.0
+
+69.4
+
+29.4
+
+29.7
+
+30.2
+
+30.5
+
+(220.7) 200.9 ($19.8)
+
+(32.5) (105.2) ($137.7)
+
+180.5 13.1 $193.6
+
+210.8 (339.0) ($128.1)
+
+275.0 0.0 0.0 0.0
+119.8 0.0 0.0 0.0 0.0 0.0
+138.1 (230.1) ($92.0)
+
+286.0 0.0 0.0 0.0
+128.4 0.0 0.0 0.0 0.0 0.0
+159.0 (274.6) ($115.6)
+
+297.8 0.0 0.0 0.0
+137.7 0.0 0.0 0.0 0.0 0.0
+173.1 (322.8) ($149.8)
+
+Cash Flow From Operations (CFFO) % Growth Y/Y % of Adj Net Income
+
+$860.0 80.8% 147.4%
+
+$970.0 12.8% 103.9%
+
+$182.0 225.0% 68.9%
+
+$311.0 26.9% 127.5%
+
+$344.0 -21.1% 130.8%
+
+$327.5 40.5% 121.1%
+
+$1,164.5 20.0% 111.8%
+
+$354.1 94.5% 128.1%
+
+$228.0 -26.7% 85.2%
+
+$586.3 70.4% 199.8%
+
+$288.7 -11.8% 91.1%
+
+$1,457.1 25.1% 126.2%
+
+$1,626.7 11.6% 122.5%
+
+$1,796.5 10.4% 118.9%
+
+Investing activities Purchases of PPE % of revenues % Growth Y/Y Proceeds from disposition of PPE Proceeds from investments Investments in unconsolidated affiliates Other Cash paid for acquisitions, net of cash
+Net cash used in investing activities
+
+($164.0) 3.0%
+109.2%
+
+($369.0) 3.8%
+125.0%
+
+($88.0) 3.4% 12.8%
+
+($110.0) 4.3% 10.0%
+
+($123.0) 4.7% 38.2%
+
+($90.8) 3.5% -11.0%
+
+($411.8) 4.0% 11.6%
+
+($93.7) 3.5% 6.4%
+
+($94.5) 3.5% -14.1%
+
+($96.0) 3.5% -22.0%
+
+($96.9) 3.5% 6.8%
+
+($381.1) 3.5% -7.5%
+
+1.0 (17.0) 24.0 $1,887.0 $1,731.0
+
+14.0 15.0 4.0 ($854.0) ($1,190.0)
+
+(1.0) 4.0 (15.0) ($20.0) ($120.0)
+
+1.0 (9.0) (5.0) ($207.0) ($330.0)
+
+(26.0) (19.0) 14.0 ($28.0) ($182.0)
+
+($51.9) ($142.7)
+
+(26.0) (24.0) (6.0) ($306.9) ($774.7)
+
+($53.5) ($54.0) ($54.8) ($55.4) ($147.2) ($148.5) ($150.8) ($152.3)
+
+0.0 0.0 0.0 ($217.8) ($598.8)
+
+($408.5) 3.5% 7.2%
+0.0 0.0 0.0 ($233.4) ($641.9)
+
+($438.0) 3.5% 7.2%
+0.0 0.0 0.0 ($250.3) ($688.3)
+
+Financing activities: Proceeds from IPO Proceeds from debt issuance Repayment of debt and capital leases Issuance of common stock Repurchase of common stock Dividends Paid Dividends Paid Per Share Payout Ratio Revolver Issuance (Repayment) Excess income tax benefits Other
+Net cash from financing activities
+
+0.0 466.0 (1,958.0) 97.0 ($1,097.0) $0.0 $0.00 0.0% 172.0 41.0 (5.0) ($2,284.0)
+
+0.0 5,242.0 (2,935.0)
+91.0 ($2,620.0)
+$0.0 $0.00 0.0% 154.0
+0.0 (4.0) ($72.0)
+
+0.0 (26.0)
+($95.0) $0.0 $0.00 0.0% 105.0
+(25.0) ($41.0)
+
+1,611.0 (656.0)
+
+(3.0) (25.0)
+
+($573.0) $0.0 $0.00 0.0% (424.0)
+
+($133.0) $0.0 $0.00 0.0% (50.0)
+
+($100.0) $0.0 $0.00 0.0%
+
+(10.0)
+
+10.0
+
+0.0
+
+($52.0) ($201.0) ($100.0)
+
+0.0 1,608.0 (707.0)
+0.0 ($901.0)
+$0.0 $0.00 0.0% (369.0)
+0.0 (25.0) ($394.0)
+
+($150.0) $0.0 $0.00 0.0%
+
+($150.0) $0.0 $0.00 0.0%
+
+($150.0) $0.0 $0.00 0.0%
+
+($150.0) $0.0 $0.00 0.0%
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+($150.0) ($150.0) ($150.0) ($150.0)
+
+0.0 0.0 0.0 0.0 ($600.0) $0.0 $0.00 0.0% 0.0 0.0 0.0 ($600.0)
+
+0.0 0.0 0.0 0.0 ($1,000.0) $0.0 $0.00 0.0% 0.0 0.0 0.0 ($1,000.0)
+
+0.0 0.0 0.0 0.0 ($1,200.0) $0.0 $0.00 0.0% 0.0 0.0 0.0 ($1,200.0)
+
+Effect of exchange rates on cash
+
+(86.0)
+
+53.0
+
+(20.0) (10.0) (13.0)
+
+0.0
+
+(43.0)
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+Change in cash and equivalents
+
+221.0
+
+(239.0)
+
+1.0
+
+(81.0)
+
+(52.0)
+
+84.8
+
+(47.2)
+
+56.9
+
+(70.5) 285.5
+
+(13.7)
+
+258.2
+
+(15.2)
+
+(91.8)
+
+Cash and equivalents at beginning of period
+
+977.2
+
+1198.2
+
+959.0
+
+960.0
+
+879.0
+
+827.0
+
+959.0
+
+911.8
+
+968.7
+
+898.2 1183.7
+
+911.8
+
+1170.0
+
+1154.8
+
+Cash and equivalents at end of period
+
+$1,198
+
+$959
+
+$960
+
+$879
+
+$827
+
+$912
+
+$912
+
+$969
+
+$898 $1,184 $1,170 $1,170
+
+$1,155
+
+$1,063
+
+Free Cash Flow
+
+$696.0
+
+% Growth Y/Y % of Adj. Net Income
+
+75.2% 119.3%
+
+Source: Company Documents, Barclays Research
+
+$601.0 -13.6% 64.3%
+
+$94.0 -527.3% 35.6%
+
+$201.0 38.6% 82.4%
+
+$221.0 -36.3% 84.0%
+
+$236.7 80.7% 87.5%
+
+$752.7 25.2% 72.3%
+
+$260.4 177.0% 94.2%
+
+$133.5 -33.6% 49.9%
+
+$490.4 121.9% 167.1%
+
+$191.7 -19.0% 60.5%
+
+$1,076.0 43.0% 93.2%
+
+$1,218.2 13.2% 91.7%
+
+$1,358.5 11.5% 89.9%
+
+22 October 2018
+
+10
+23
+
+Barclays | IQVIA
+
+FIGURE 11 IQVIA Balance Sheet
+Balance Sheet ($ Millions)
+
+2016
+
+2017
+
+1Q18
+
+12/31/2016 12/31/2017 3/31/2018
+
+2Q18 6/30/2018
+
+EST
+
+EST
+
+EST
+
+EST
+
+EST
+
+3Q18
+
+4Q18
+
+2018
+
+2019
+
+2020
+
+2021
+
+9/30/2018 12/31/2018 12/31/2018 12/31/2019 12/31/2020 12/31/2021
+
+Assets Current Assets Cash and cash equivalents Restricted cash Accounts receivable & unbilled services Prepaid expenses Deferred income taxes Income taxes receivable Other current assets & receivables
+Total Current Assets
+
+1,198.0 0.0
+1,707.0 123.0 0.0 34.0 275.0
+$3,337.0
+
+959.0 0.0
+1,993.0 146.0 0.0 47.0 305.0
+$3,450.0
+
+960.0
+2,250.0 148.0
+45.0 321.0 $3,724.0
+
+879.0
+2,172.0 158.0
+52.0 326.0 $3,587.0
+
+827.0
+2,298.0 154.0
+52.0 365.0 $3,696.0
+
+911.8 0.0
+2,413.7 154.0 0.0 51.8 365.0
+$3,896.3
+
+911.8 0.0
+2,413.7 154.0 0.0 51.8 365.0
+$3,896.3
+
+1,170.0 0.0
+2,703.4 154.0 0.0 55.4 365.0
+$4,447.8
+
+1,154.8 0.0
+3,044.8 154.0 0.0 59.4 365.0
+$4,778.0
+
+1,063.0 0.0
+3,439.6 154.0 0.0 63.9 365.0
+$5,085.5
+
+Property, plant, and equipment Deferred Income Taxes Investments Goodwill Other Identifiable Intangibles, net Deposits and Other Assets Total Assets
+
+406.0
+
+440.0
+
+432.0
+
+415.0
+
+417.0
+
+471.5
+
+471.5
+
+700.1
+
+945.2 1,208.0
+
+89.0
+
+98.0
+
+113.0
+
+108.0
+
+96.0
+
+96.0
+
+96.0
+
+96.0
+
+96.0
+
+96.0
+
+82.0
+
+78.0
+
+101.0
+
+110.0
+
+134.0
+
+134.0
+
+134.0
+
+134.0
+
+134.0
+
+134.0
+
+10,727.0 11,850.0 12,041.0 11,844.0 11,794.0 11,845.9 11,845.9 12,063.6 12,297.0 12,547.3
+
+6,390.0 6,591.0 6,580.0 6,297.0 6,103.0 6,072.4 6,072.4 5,949.8 5,827.2 5,704.7
+
+177.0
+
+235.0
+
+244.0
+
+265.0
+
+258.0
+
+258.0
+
+258.0
+
+258.0
+
+258.0
+
+258.0
+
+$21,208.0 $22,742.0 $23,235.0 $22,626.0 $22,498.0 $22,774.0 $22,774.0 $23,649.3 $24,335.5 $25,033.5
+
+Liabilities and Equity Accounts payable and accrued expenses Unearned income Income taxes payable Current portion of LT debt Other current liabilities Revolver
+Total Current Liabilities Non-Current Liabilities
+Long-term debt and obligations Deferred Tax Liabilities Other Liabilities Total Liabilities
+
+1,743.0 774.0 76.0 92.0 20.0 0.0
+$2,705.0
+
+1,986.0 733.0 72.0 103.0 10.0 0.0
+$2,904.0
+
+2,045.0 934.0 106.0 104.0 10.0
+$3,199.0
+
+1,997.0 940.0 121.0 101.0 7.0
+$3,166.0
+
+2,162.0 984.0 117.0 101.0 16.0
+$3,380.0
+
+2,345.2 877.8 117.0 101.0 16.0 0.0
+$3,457.0
+
+2,345.2 877.8 117.0 101.0 16.0 0.0
+$3,457.0
+
+2,486.9 937.4 117.0 101.0 16.0 0.0
+$3,658.3
+
+2,649.9 1,004.2
+117.0 101.0
+16.0 0.0
+$3,888.2
+
+2,827.4 1,076.3
+117.0 101.0
+16.0 0.0
+$4,137.7
+
+7,108.0 2,133.0
+402.0 $12,348.0
+
+10,122.0 918.0 440.0
+$14,384.0
+
+10,342.0 828.0 413.0
+$14,782.0
+
+10,627.0 813.0 406.0
+$15,012.0
+
+10,518.0 734.0 406.0
+$15,038.0
+
+10,518.0 734.0 406.0
+$15,115.0
+
+10,518.0 734.0 406.0
+$15,115.0
+
+10,518.0 734.0 406.0
+$15,316.3
+
+10,518.0 734.0 406.0
+$15,546.2
+
+10,518.0 734.0 406.0
+$15,795.7
+
+Shareholders' Equity Minority Interest
+Total Shareholders' Equity
+
+$8,633.0 227.0
+$8,860.0
+
+$8,109.0 249.0
+$8,358.0
+
+$8,196.0 257.0
+$8,453.0
+
+$7,364.0 250.0
+$7,614.0
+
+$7,215.0 245.0
+$7,460.0
+
+$7,414.0 245.0
+$7,659.0
+
+$7,414.0 245.0
+$7,659.0
+
+$8,088.0 245.0
+$8,333.0
+
+$8,544.3 245.0
+$8,789.3
+
+$8,992.8 245.0
+$9,237.8
+
+Total Liabilities and Shareholders' Equit$y21,208.0 $22,742.0 $23,235.0 $22,626.0 $22,498.0 $22,774.0 $22,774.0 $23,649.3 $24,335.5 $25,033.5 Source: Company Documents, Barclays Research
+
+22 October 2018
+
+11
+24
+
+Barclays | IQVIA
+
+First Look
+
+FIGURE 12 IQVIA First Look
+IQVIA - 3Q18
+($ in M's except EPS) Income Statement Revenues Constant Currency Growth
+
+Reported 3Q18 $2,597 6.3%
+
+Barclays Research
+
+3Q18E +/-
+
+%
+
+$2,574 $23
+
+0.9%
+
+4.9% 1.38%
+
+3Q17 $2,466 4.3%
+
+Prior Year +/-
+$131 1.97%
+
+% Y/Y 5.3%
+
+Prior Quarter
+
+2Q18
+
++/- % Q/Q
+
+$2,569 $28
+
+1.1%
+
+7.7% -1.43%
+
+Gross Profit Margin
+
+35.4% 35.4% -0.03%
+
+42.3% -6.94%
+
+34.8% 0.55%
+
+SG&A inc. Dep % of Revenues
+Stock-Based Comp % of Revenues
+
+$358 13.8% $31.0 1.2%
+
+$362 14.1% $28 1.1%
+
+($4) -0.27%
+$3 0.09%
+
+-1.1% 9.5%
+
+$343 17.0% $29 1.4%
+
+$15 -3.20%
+$2 -0.24%
+
+4.4% 6.9%
+
+$362 14.1% $26 1.0%
+
+($4) -0.31%
+$5
+
+-1.1% 19.2%
+
+Cash EBITDA % EBITDA Margin
+Adj. EBIT % EBIT Margin
+Interest Expense % of BS Obligations
+Adj. Pre-Tax Income % Pre-Tax Margin
+
+$561 21.6% $463 17.8% $105 4.0% $363 14.0%
+
+$550 21.4% $456 17.7% $105 3.9% $349 13.6%
+
+$11 0.25%
+$7 0.10%
+$0 0.06% $14 0.41%
+
+2.0% 1.5% 0.4% 3.9%
+
+$512 25.3% $420 20.8% $93 3.8% $331 16.4%
+
+$49 -3.74%
+$43 -2.96%
+$12 0.14% $32 -2.41%
+
+9.6% 10.2% 12.9% 9.7%
+
+$533 20.7% $442 17.2% $107 4.0% $335 13.0%
+
+$28 0.85% $21 0.62%
+($2) -0.03%
+$28 0.94%
+
+5.3% 4.8% -1.9% 8.4%
+
+Taxes % Tax Rate
+Diluted Shares
+
+$91 25.1% 206.8
+
+$84 24.0% 207.0
+
+$7 1.07%
+-0.2
+
+8.6% -0.1%
+
+$93 28.1% 219.0
+
+($2) -3.03%
+-12.2
+
+-2.2% -5.6%
+
+$82 24.5% 209.9
+
+$9 0.59%
+-3.1
+
+11.0% -1.5%
+
+Cash Net Income % Cash Net Margin
+Cash EPS
+
+$294 11.3% $1.42
+
+Source: Company Documents, Barclays Research
+
+$287 11.1% $1.39
+
+$7 0.18% $0.04
+
+2.5% 2.6%
+
+$260 12.9% $1.19
+
+$34 -1.55% $0.23
+
+13.1% 19.7%
+
+$270 10.5% $1.29
+
+$24 0.81% $0.14
+
+8.9% 10.5%
+
+22 October 2018
+
+12
+25
+
+Barclays | IQVIA
+ANALYST(S) CERTIFICATION(S): I, Jack Meehan, CFA, hereby certify (1) that the views expressed in this research report accurately reflect my personal views about any or all of the subject securities or issuers referred to in this research report and (2) no part of my compensation was, is or will be directly or indirectly related to the specific recommendations or views expressed in this research report.
+
+IMPORTANT DISCLOSURES CONTINUED
+Barclays Research is produced by the Investment Bank of Barclays Bank PLC and its affiliates (collectively and each individually, "Barclays"). All authors contributing to this research report are Research Analysts unless otherwise indicated. The publication date at the top of the report reflects the local time where the report was produced and may differ from the release date provided in GMT.
+Availability of Disclosures:
+Where any companies are the subject of this research report, for current important disclosures regarding those companies please refer to https://publicresearch.barclays.com or alternatively send a written request to: Barclays Research Compliance, 745 Seventh Avenue, 13th Floor, New York, NY 10019 or call +1-212-526-1072.
+The analysts responsible for preparing this research report have received compensation based upon various factors including the firm's total revenues, a portion of which is generated by investment banking activities, the profitability and revenues of the Markets business and the potential interest of the firm's investing clients in research with respect to the asset class covered by the analyst.
+Analysts regularly conduct site visits to view the material operations of covered companies, but Barclays policy prohibits them from accepting payment or reimbursement by any covered company of their travel expenses for such visits.
+Barclays Research Department produces various types of research including, but not limited to, fundamental analysis, equity-linked analysis, quantitative analysis, and trade ideas. Recommendations contained in one type of Barclays Research may differ from those contained in other types of Barclays Research, whether as a result of differing time horizons, methodologies, or otherwise.
+In order to access Barclays Statement regarding Research Dissemination Policies and Procedures, please refer to https://publicresearch.barcap.com/S/RD.htm. In order to access Barclays Research Conflict Management Policy Statement, please refer to: https://publicresearch.barcap.com/S/CM.htm.
+Primary Stocks (Ticker, Date, Price)
+IQVIA (IQV, 19-Oct-2018, USD 126.89), Overweight/Neutral, CE/D/J/K/L/M/N
+Prices are sourced from Thomson Reuters as of the last available closing price in the relevant trading market, unless another time and source is indicated.
+Disclosure Legend:
+A: Barclays Bank PLC and/or an affiliate has been lead manager or co-lead manager of a publicly disclosed offer of securities of the issuer in the previous 12 months.
+B: An employee or non-executive director of Barclays Bank PLC and/or an affiliate is a director of this issuer.
+CD: Barclays Bank PLC and/or an affiliate is a market-maker in debt securities issued by this issuer.
+CE: Barclays Bank PLC and/or an affiliate is a market-maker in equity securities issued by this issuer.
+D: Barclays Bank PLC and/or an affiliate has received compensation for investment banking services from this issuer in the past 12 months.
+E: Barclays Bank PLC and/or an affiliate expects to receive or intends to seek compensation for investment banking services from this issuer within the next 3 months.
+FA: Barclays Bank PLC and/or an affiliate beneficially owns 1% or more of a class of equity securities of this issuer, as calculated in accordance with US regulations.
+FB: Barclays Bank PLC and/or an affiliate beneficially owns a long position of more than 0.5% of a class of equity securities of this issuer, as calculated in accordance with EU regulations.
+FC: Barclays Bank PLC and/or an affiliate beneficially owns a short position of more than 0.5% of a class of equity securities of this issuer, as calculated in accordance with EU regulations.
+GD: One of the analysts on the fundamental credit coverage team (or a member of his or her household) has a financial interest in the debt or equity securities of this issuer.
+GE: One of the analysts on the fundamental equity coverage team (or a member of his or her household) has a financial interest in the debt or equity securities of this issuer.
+H: This issuer beneficially owns more than 5% of any class of common equity securities of Barclays PLC.
+I: Barclays Bank PLC and/or an affiliate is party to an agreement with this issuer for the provision of financial services to Barclays Bank PLC and/or an affiliate.
+J: Barclays Bank PLC and/or an affiliate is a liquidity provider and/or trades regularly in the securities of this issuer and/or in any related derivatives.
+K: Barclays Bank PLC and/or an affiliate has received non-investment banking related compensation (including compensation for brokerage services, if applicable) from this issuer within the past 12 months.
+
+22 October 2018
+
+13
+26
+
+Barclays | IQVIA
+
+IMPORTANT DISCLOSURES CONTINUED
+
+L: This issuer is, or during the past 12 months has been, an investment banking client of Barclays Bank PLC and/or an affiliate.
+
+M: This issuer is, or during the past 12 months has been, a non-investment banking client (securities related services) of Barclays Bank PLC and/or an affiliate.
+N: This issuer is, or during the past 12 months has been, a non-investment banking client (non-securities related services) of Barclays Bank PLC and/or an affiliate.
+
+O: Not in use.
+P: A partner, director or officer of Barclays Capital Canada Inc. has, during the preceding 12 months, provided services to the subject company for remuneration, other than normal course investment advisory or trade execution services.
+
+Q: Barclays Bank PLC and/or an affiliate is a Corporate Broker to this issuer.
+
+R: Barclays Capital Canada Inc. and/or an affiliate has received compensation for investment banking services from this issuer in the past 12 months.
+
+S: This issuer is a Corporate Broker to Barclays PLC.
+
+T: Barclays Bank PLC and/or an affiliate is providing equity advisory services to this issuer. U: The equity securities of this Canadian issuer include subordinate voting restricted shares. V: The equity securities of this Canadian issuer include non-voting restricted shares.
+
+Risk Disclosure(s)
+
+Master limited partnerships (MLPs) are pass-through entities structured as publicly listed partnerships. For tax purposes, distributions to MLP unit holders may be treated as a return of principal. Investors should consult their own tax advisors before investing in MLP units.
+
+Guide to the Barclays Fundamental Equity Research Rating System:
+
+Our coverage analysts use a relative rating system in which they rate stocks as Overweight, Equal Weight or Underweight (see definitions below) relative to other companies covered by the analyst or a team of analysts that are deemed to be in the same industry (the "industry coverage universe").
+
+In addition to the stock rating, we provide industry views which rate the outlook for the industry coverage universe as Positive, Neutral or Negative (see definitions below). A rating system using terms such as buy, hold and sell is not the equivalent of our rating system. Investors should carefully read the entire research report including the definitions of all ratings and not infer its contents from ratings alone.
+
+Stock Rating
+
+Overweight - The stock is expected to outperform the unweighted expected total return of the industry coverage universe over a 12-month investment horizon.
+
+Equal Weight - The stock is expected to perform in line with the unweighted expected total return of the industry coverage universe over a 12month investment horizon.
+Underweight - The stock is expected to underperform the unweighted expected total return of the industry coverage universe over a 12-month investment horizon.
+
+Rating Suspended - The rating and target price have been suspended temporarily due to market events that made coverage impracticable or to comply with applicable regulations and/or firm policies in certain circumstances including where the Investment Bank of Barclays Bank PLC is acting in an advisory capacity in a merger or strategic transaction involving the company.
+
+Industry View
+
+Positive - industry coverage universe fundamentals/valuations are improving. Neutral - industry coverage universe fundamentals/valuations are steady, neither improving nor deteriorating.
+
+Negative - industry coverage universe fundamentals/valuations are deteriorating.
+
+Below is the list of companies that constitute the "industry coverage universe":
+
+U.S. Life Science Tools & Diagnostics Agilent Technologies (A) Charles River Laboratories (CRL)
+
+Bio-Rad Laboratories (BIO) Genomic Health Inc. (GHDX)
+
+Bruker Corp (BRKR) Hologic Inc. (HOLX)
+
+ICON plc (ICLR) Laboratory Corp. of America Hldgs. (LH) PerkinElmer Inc. (PKI)
+
+Illumina Inc. (ILMN) Mettler Toledo (MTD) PRA Health Sciences (PRAH)
+
+IQVIA (IQV) Myriad Genetics Inc. (MYGN) QIAGEN N.V. (QGEN)
+
+Quest Diagnostics (DGX)
+
+Quidel Corp. (QDEL)
+
+Syneos Health, Inc. (SYNH)
+
+Thermo Fisher Scientific, Inc. (TMO)
+
+Waters Corp. (WAT)
+
+Distribution of Ratings: Barclays Equity Research has 1542 companies under coverage. 44% have been assigned an Overweight rating which, for purposes of mandatory regulatory disclosures, is classified as a Buy rating; 58% of
+
+22 October 2018
+
+14
+
+27
+
+Barclays | IQVIA
+IMPORTANT DISCLOSURES CONTINUED
+companies with this rating are investment banking clients of the Firm; 75% of the issuers with this rating have received financial services from the Firm. 38% have been assigned an Equal Weight rating which, for purposes of mandatory regulatory disclosures, is classified as a Hold rating; 47% of companies with this rating are investment banking clients of the Firm; 67% of the issuers with this rating have received financial services from the Firm. 15% have been assigned an Underweight rating which, for purposes of mandatory regulatory disclosures, is classified as a Sell rating; 37% of companies with this rating are investment banking clients of the Firm; 68% of the issuers with this rating have received financial services from the Firm. Guide to the Barclays Research Price Target: Each analyst has a single price target on the stocks that they cover. The price target represents that analyst's expectation of where the stock will trade in the next 12 months. Upside/downside scenarios, where provided, represent potential upside/potential downside to each analyst's price target over the same 12-month period. Top Picks: Barclays Equity Research's "Top Picks" represent the single best alpha-generating investment idea within each industry (as defined by the relevant "industry coverage universe"), taken from among the Overweight-rated stocks within that industry. Barclays Equity Research publishes "Top Picks" reports every quarter and analysts may also publish intra-quarter changes to their Top Picks, as necessary. While analysts may highlight other Overweight-rated stocks in their published research in addition to their Top Pick, there can only be one "Top Pick" for each industry. To view the current list of Top Picks, go to the Top Picks page on Barclays Live (https://live.barcap.com/go/keyword/TopPicks). To see a list of companies that comprise a particular industry coverage universe, please go to https://publicresearch.barclays.com. Types of investment recommendations produced by Barclays Equity Research: In addition to any ratings assigned under Barclays' formal rating systems, this publication may contain investment recommendations in the form of trade ideas, thematic screens, scorecards or portfolio recommendations that have been produced by analysts within Equity Research. Any such investment recommendations shall remain open until they are subsequently amended, rebalanced or closed in a future research report. Disclosure of other investment recommendations produced by Barclays Equity Research: Barclays Equity Research may have published other investment recommendations in respect of the same securities/instruments recommended in this research report during the preceding 12 months. To view all investment recommendations published by Barclays Equity Research in the preceding 12 months please refer to https://live.barcap.com/go/research/Recommendations. Legal entities involved in producing Barclays Research: Barclays Bank PLC (Barclays, UK) Barclays Capital Inc. (BCI, US) Barclays Securities Japan Limited (BSJL, Japan) Barclays Bank PLC, Hong Kong branch (Barclays Bank, Hong Kong) Barclays Capital Canada Inc. (BCCI, Canada) Barclays Bank Mexico, S.A. (BBMX, Mexico) Barclays Securities (India) Private Limited (BSIPL, India) Barclays Bank PLC, India branch (Barclays Bank, India) Barclays Bank PLC, Singapore branch (Barclays Bank, Singapore)
+
+22 October 2018
+
+15
+28
+
+Barclays | IQVIA
+
+IMPORTANT DISCLOSURES CONTINUED
+IQVIA (IQV / IQV)
+USD 126.89 (19-Oct-2018) Rating and Price Target Chart - USD (as of 19-Oct-2018)
+150
+125
+100
+75
+50
+
+Stock Rating OVERWEIGHT
+
+Industry View NEUTRAL
+
+Currency=USD
+
+Publication Date Closing Price
+
+24-Jul-2018
+
+118.38
+
+Rating
+
+Adjusted Price Target
+130.00
+
+27-Oct-2017 04-Aug-2017 17-Jul-2017
+
+107.66 90.42 90.08
+
+120.00 100.00
+98.00
+
+30-Nov-2016
+
+76.83
+
+Overweight
+
+90.00
+
+03-May-2016
+
+67.46 Rating Suspended
+
+On 22-Oct-2015, prior to any intra-day change that may have been published, the rating for this security was Overweight, and the adjusted price target was 88.00.
+
+Source: Thomson Reuters, Barclays Research
+
+Historical stock prices and price targets may have been adjusted for stock splits and dividends.
+
+Jan- 2016 Jul- 2016 Jan- 2017 Jul- 2017 Jan- 2018 Jul- 2018
+
+Closing Price
+
+Target Price
+
+Rating Change
+
+Source: IDC, Barclays Research
+
+Link to Barclays Live for interactive charting CE: Barclays Bank PLC and/or an affiliate is a market-maker in equity securities issued by IQVIA.
+D: Barclays Bank PLC and/or an affiliate has received compensation for investment banking services from IQVIA in the past 12 months.
+J: Barclays Bank PLC and/or an affiliate is a liquidity provider and/or trades regularly in the securities by IQVIA and/or in any related derivatives.
+K: Barclays Bank PLC and/or an affiliate has received non-investment banking related compensation (including compensation for brokerage services, if applicable) from IQVIA within the past 12 months.
+L: IQVIA is, or during the past 12 months has been, an investment banking client of Barclays Bank PLC and/or an affiliate.
+M: IQVIA is, or during the past 12 months has been, a non-investment banking client (securities related services) of Barclays Bank PLC and/or an affiliate.
+N: IQVIA is, or during the past 12 months has been, a non-investment banking client (non-securities related services) of Barclays Bank PLC and/or an affiliate.
+Valuation Methodology: Our Price Target of $140 represents 17x our adj. CY2019 EBITDA estimate of $2.3 billion.
+Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: There are risks around talent retention from merging the two organizations. IQVIA's Integrated Engagement Solutions segment has weighed on growth trends, though the longer-term outlook continues to be promising. FX tailwinds have masked that underlying margin leverage at legacy Quintiles has been weak over the past two years.
+
+22 October 2018
+
+16
+29
+
+DISCLAIMER:
+This publication has been produced by Barclays Research Department in the Investment Bank of Barclays Bank PLC and/or one or more of its affiliates (collectively and each individually, "Barclays"). It has been distributed by one or more Barclays affiliated legal entities listed below. It is provided to our clients for information purposes only, and Barclays makes no express or implied warranties, and expressly disclaims all warranties of merchantability or fitness for a particular purpose or use with respect to any data included in this publication. To the extent that this publication states on the front page that it is intended for institutional investors and is not subject to all of the independence and disclosure standards applicable to debt research reports prepared for retail investors under U.S. FINRA Rule 2242, it is an "institutional debt research report" and distribution to retail investors is strictly prohibited. Barclays also distributes such institutional debt research reports to various issuers, media, regulatory and academic organisations for their own internal informational news gathering, regulatory or academic purposes and not for the purpose of making investment decisions regarding any debt securities. Media organisations are prohibited from re-publishing any opinion or recommendation concerning a debt issuer or debt security contained in any Barclays institutional debt research report. Any such recipients that do not want to continue receiving Barclays institutional debt research reports should contact debtresearch@barclays.com. Barclays will not treat unauthorized recipients of this report as its clients and accepts no liability for use by them of the contents which may not be suitable for their personal use. Prices shown are indicative and Barclays is not offering to buy or sell or soliciting offers to buy or sell any financial instrument.
+Without limiting any of the foregoing and to the extent permitted by law, in no event shall Barclays, nor any affiliate, nor any of their respective officers, directors, partners, or employees have any liability for (a) any special, punitive, indirect, or consequential damages; or (b) any lost profits, lost revenue, loss of anticipated savings or loss of opportunity or other financial loss, even if notified of the possibility of such damages, arising from any use of this publication or its contents.
+Other than disclosures relating to Barclays, the information contained in this publication has been obtained from sources that Barclays Research believes to be reliable, but Barclays does not represent or warrant that it is accurate or complete. Barclays is not responsible for, and makes no warranties whatsoever as to, the information or opinions contained in any written, electronic, audio or video presentations of third parties that are accessible via a direct hyperlink in this publication or via a hyperlink to a third-party web site (`Third-Party Content'). Any such Third-Party Content has not been adopted or endorsed by Barclays, does not represent the views or opinions of Barclays, and is not incorporated by reference into this publication. Third-Party Content is provided for information purposes only and Barclays has not independently verified its accuracy or completeness.
+The views in this publication are solely and exclusively those of the authoring analyst(s) and are subject to change, and Barclays Research has no obligation to update its opinions or the information in this publication. Unless otherwise disclosed herein, the analysts who authored this report have not received any compensation from the subject companies in the past 12 months. If this publication contains recommendations, they are general recommendations that were prepared independently of any other interests, including those of Barclays and/or its affiliates, and/or the subject companies. This publication does not contain personal investment recommendations or investment advice or take into account the individual financial circumstances or investment objectives of the clients who receive it. The securities and other investments discussed herein may not be suitable for all investors. Barclays is not a fiduciary to any recipient of this publication. Investors must independently evaluate the merits and risks of the investments discussed herein, consult any independent advisors they believe necessary, and exercise independent judgment with regard to any investment decision. The value of and income from any investment may fluctuate from day to day as a result of changes in relevant economic markets (including changes in market liquidity). The information herein is not intended to predict actual results, which may differ substantially from those reflected. Past performance is not necessarily indicative of future results.
+This document is being distributed (1) only by or with the approval of an authorised person (Barclays Bank PLC) or (2) to, and is directed at (a) persons in the United Kingdom having professional experience in matters relating to investments and who fall within the definition of "investment professionals" in Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the "Order"); or (b) high net worth companies, unincorporated associations and partnerships and trustees of high value trusts as described in Article 49(2) of the Order; or (c) other persons to whom it may otherwise lawfully be communicated (all such persons being "Relevant Persons"). Any investment or investment activity to which this communication relates is only available to and will only be engaged in with Relevant Persons. Any other persons who receive this communication should not rely on or act upon it. Barclays Bank PLC is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority and is a member of the London Stock Exchange.
+The Investment Bank of Barclays Bank PLC undertakes U.S. securities business in the name of its wholly owned subsidiary Barclays Capital Inc., a FINRA and SIPC member. Barclays Capital Inc., a U.S. registered broker/dealer, is distributing this material in the United States and, in connection therewith accepts responsibility for its contents. Any U.S. person wishing to effect a transaction in any security discussed herein should do so only by contacting a representative of Barclays Capital Inc. in the U.S. at 745 Seventh Avenue, New York, New York 10019.
+Non-U.S. persons should contact and execute transactions through a Barclays Bank PLC branch or affiliate in their home jurisdiction unless local regulations permit otherwise.
+Barclays Bank PLC, Paris Branch (registered in France under Paris RCS number 381 066 281) is regulated by the Autorité des marchés financiers and the Autorité de contrôle prudentiel. Registered office 34/36 Avenue de Friedland 75008 Paris.
+This material is distributed in Canada by Barclays Capital Canada Inc., a registered investment dealer, a Dealer Member of IIROC (www.iiroc.ca), and a Member of the Canadian Investor Protection Fund (CIPF).
+All Barclays research reports are distributed to institutional investors in Japan by Barclays Securities Japan Limited. Barclays Securities Japan Limited is a jointstock company incorporated in Japan with registered office of 6-10-1 Roppongi, Minato-ku, Tokyo 106-6131, Japan. It is a subsidiary of Barclays Bank PLC and a registered financial instruments firm regulated by the Financial Services Agency of Japan. Registered Number: Kanto Zaimukyokucho (kinsho) No. 143.
+Barclays Bank PLC, Hong Kong Branch is distributing this material in Hong Kong as an authorised institution regulated by the Hong Kong Monetary Authority. Registered Office: 41/F, Cheung Kong Center, 2 Queen's Road Central, Hong Kong.
+All Indian securities-related research and other equity research produced by Barclays' Investment Bank are distributed in India by Barclays Securities (India) Private Limited (BSIPL). BSIPL is a company incorporated under the Companies Act, 1956 having CIN U67120MH2006PTC161063. BSIPL is registered and regulated by the Securities and Exchange Board of India (SEBI) as a Research Analyst: INH000001519; Portfolio Manager INP000002585; Stock Broker/Trading and Clearing Member: National Stock Exchange of India Limited (NSE) Capital Market INB231292732, NSE Futures & Options INF231292732, NSE Currency derivatives INE231450334, Bombay Stock Exchange Limited (BSE) Capital Market INB011292738, BSE Futures & Options INF011292738; Depository Participant (DP) with the National Securities & Depositories Limited (NSDL): DP ID: IN-DP-NSDL-299-2008; Investment Adviser: INA000000391. The registered office of BSIPL is at 208, Ceejay House, Shivsagar Estate, Dr. A. Besant Road, Worli, Mumbai ­ 400 018, India. Telephone No:
+30
+
++91 2267196000. Fax number: +91 22 67196100. Any other reports produced by Barclays' Investment Bank are distributed in India by Barclays Bank PLC, India Branch, an associate of BSIPL in India that is registered with Reserve Bank of India (RBI) as a Banking Company under the provisions of The Banking Regulation Act, 1949 (Regn No BOM43) and registered with SEBI as Merchant Banker (Regn No INM000002129) and also as Banker to the Issue (Regn No INBI00000950). Barclays Investments and Loans (India) Limited, registered with RBI as Non Banking Financial Company (Regn No RBI CoR-07-00258), and Barclays Wealth Trustees (India) Private Limited, registered with Registrar of Companies (CIN U93000MH2008PTC188438), are associates of BSIPL in India that are not authorised to distribute any reports produced by Barclays' Investment Bank. Barclays Bank PLC Frankfurt Branch distributes this material in Germany under the supervision of Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin). This material is distributed in Mexico by Barclays Bank Mexico, S.A. Nothing herein should be considered investment advice as defined in the Israeli Regulation of Investment Advisory, Investment Marketing and Portfolio Management Law, 1995 ("Advisory Law"). This document is being made to eligible clients (as defined under the Advisory Law) only. Barclays Israeli branch previously held an investment marketing license with the Israel Securities Authority but it cancelled such license on 30/11/2014 as it solely provides its services to eligible clients pursuant to available exemptions under the Advisory Law, therefore a license with the Israel Securities Authority is not required. Accordingly, Barclays does not maintain an insurance coverage pursuant to the Advisory Law. Barclays Bank PLC in the Dubai International Financial Centre (Registered No. 0060) is regulated by the Dubai Financial Services Authority (DFSA). Principal place of business in the Dubai International Financial Centre: The Gate Village, Building 4, Level 4, PO Box 506504, Dubai, United Arab Emirates. Barclays Bank PLC-DIFC Branch, may only undertake the financial services activities that fall within the scope of its existing DFSA licence. Related financial products or services are only available to Professional Clients, as defined by the Dubai Financial Services Authority. Barclays Bank PLC in the UAE is regulated by the Central Bank of the UAE and is licensed to conduct business activities as a branch of a commercial bank incorporated outside the UAE in Dubai (Licence No.: 13/1844/2008, Registered Office: Building No. 6, Burj Dubai Business Hub, Sheikh Zayed Road, Dubai City) and Abu Dhabi (Licence No.: 13/952/2008, Registered Office: Al Jazira Towers, Hamdan Street, PO Box 2734, Abu Dhabi). Barclays Bank PLC in the Qatar Financial Centre (Registered No. 00018) is authorised by the Qatar Financial Centre Regulatory Authority (QFCRA). Barclays Bank PLC-QFC Branch may only undertake the regulated activities that fall within the scope of its existing QFCRA licence. Principal place of business in Qatar: Qatar Financial Centre, Office 1002, 10th Floor, QFC Tower, Diplomatic Area, West Bay, PO Box 15891, Doha, Qatar. Related financial products or services are only available to Business Customers as defined by the Qatar Financial Centre Regulatory Authority. This material is distributed in the UAE (including the Dubai International Financial Centre) and Qatar by Barclays Bank PLC. This material is not intended for investors who are not Qualified Investors according to the laws of the Russian Federation as it might contain information about or description of the features of financial instruments not admitted for public offering and/or circulation in the Russian Federation and thus not eligible for non-Qualified Investors. If you are not a Qualified Investor according to the laws of the Russian Federation, please dispose of any copy of this material in your possession. This material is distributed in Singapore by the Singapore branch of Barclays Bank PLC, a bank licensed in Singapore by the Monetary Authority of Singapore. For matters in connection with this report, recipients in Singapore may contact the Singapore branch of Barclays Bank PLC, whose registered address is 10 Marina Boulevard, #23-01 Marina Bay Financial Centre Tower 2, Singapore 018983. This material is distributed to persons in Australia by either Barclays Bank PLC, Barclays Capital Inc., Barclays Capital Securities Limited or Barclays Capital Asia Limited. None of Barclays Bank PLC, nor any of the other referenced Barclays group entities, hold an Australian financial services licence and instead they each rely on an exemption from the requirement to hold such a licence. This material is intended to only be distributed to "wholesale clients" as defined by the Australian Corporations Act 2001. IRS Circular 230 Prepared Materials Disclaimer: Barclays does not provide tax advice and nothing contained herein should be construed to be tax advice. Please be advised that any discussion of U.S. tax matters contained herein (including any attachments) (i) is not intended or written to be used, and cannot be used, by you for the purpose of avoiding U.S. tax-related penalties; and (ii) was written to support the promotion or marketing of the transactions or other matters addressed herein. Accordingly, you should seek advice based on your particular circumstances from an independent tax advisor. © Copyright Barclays Bank PLC (2018). All rights reserved. No part of this publication may be reproduced or redistributed in any manner without the prior written permission of Barclays. Barclays Bank PLC is registered in England No. 1026167. Registered office 1 Churchill Place, London, E14 5HP. Additional information regarding this publication will be furnished upon request.
+31
+
+32
+BARCRES-63852b76
+
+

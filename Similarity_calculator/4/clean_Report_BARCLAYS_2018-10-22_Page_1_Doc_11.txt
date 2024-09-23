@@ -1,0 +1,104 @@
+EBIT growth at trough; Industry consolidation may be near at hand
+Following Q3 earnings, we lower our EPS estimates, and our Price Target falls to $230 from $239. Tornado issues aside, we thought there were some points of encouragement for LII, particularly amidst what is an increasingly challenging demand backdrop for many Multi-Industry companies (per our report `Q3 Learnings from Earnings Part 1; October 22, 2018'). We note that the share price has now reached a point which it has `bounced off' on 4 other occasions this year, which may suggest a favorable entry point.
+Top-line shortfall should reverse: LII sounded upbeat on the demand backdrop, noting that it had clearly lost share (due to the tornado) amidst a strong Resi market, and there were still several years left in the Replacement cycle in the US, while Commercial HVAC should re-accelerate in Q4. In Refrigeration, the market remains challenging, but LII seems to be out-growing its nearest competitor. We are watchful for signs that the housing weakness spills over into broader US construction / Buildings demand, but so far there is not much evidence of this.
+Margin set-up is encouraging: Our view for some time now (HVAC Markets stand out amidst a rising industrial tide; August 9, 2018) has been that the HVAC OEMs should enjoy a margin tailwind in 2019 as price / cost becomes more favorable, and what we heard suggests that industry competitive discipline is supporting ongoing price increases, and the rising tariffs should not be an insurmountable headwind.
+Consolidation prospects: Mr Bluedorn spent some time discussing HVAC consolidation on the earnings call; what we heard was consistent with what we have laid out in various reports since March (`LII ­ Winner amidst future consolidation; April 23, 2018' and `IR ­ CEO Meeting Takeaways; June 11, 2018'). We show inside updated LII-York Resi and LII-Carrier scenarios. We continue to think anti-trust is not a big hurdle to M&A among the Big 4 US OEMs, and await news from UTX and JCI regarding their portfolio reviews. We think LII is likely to be a net winner from consolidation.
+Source: Barclays Research. Consensus numbers are from Thomson Reuters received on 22-Oct-2018; 13:35 GMT
+Barclays Capital Inc. and/or one of its affiliates does and seeks to do business with companies covered in its research reports. As a result, investors should be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only a single factor in making their investment decision.
+PLEASE SEE ANALYST CERTIFICATION(S) AND IMPORTANT DISCLOSURES BEGINNING ON PAGE 13.
+Market Cap (USD mn) Shares Outstanding (mn) Free Float (%) 52 Wk Avg Daily Volume (mn) 52 Wk Avg Daily Value (USD mn) Dividend Yield (%) Return on Equity TTM (%) Current BVPS (USD)
+U.S. Multi-Industry Julian Mitchell +1 212 526 1661 julian.mitchell@barclays.com BCI, US
+Income statement ($mn) Revenue EBITDA EBIT Pre-tax income Net income (adj) EPS (adj) ($) Diluted shares (mn) DPS ($)
+Margin and return data EBITDA margin (%) EBIT margin (%) Pre-tax margin (%) Net margin (%) ROIC (%) ROA (%) ROE (%)
+Balance sheet and cash flow ($mn) Cash and equivalents Total assets Goodwill Short and long-term debt Net debt/(funds) Total liabilities Shareholders' equity Tangible book value Inventories Working capital Cash flow from operations Capital expenditure Free cash flow
+Residential replacement cycle, we see upside to consensus estimates, and are encouraged by management's desire to review the portfolio
+Continued commodity cost inflation, slowing Commercial demand, and a lackluster Refrigeration
+Valuation and leverage metrics P/E (adj) (x) EV/EBITDA (x) EV/sales (x) FCF yield (%) P/BV (x) Dividend yield (%) Net debt/EBITDA (x) Net debt/capital (%)
+Selected operating metrics FCF/NI (x) R&D/sales (%) Capex/sales (%) Organic growth (%) Inventory turns (x) Tax rate (%) Incremental margins (%)
+LII EPS Bridge Start EPS (2017) Organic volume Organic pricing FX Raw mat'l (Gross) Sourcing Tariffs Distribution/SG&A costs Freight Costs Marshalltown Tornado Productivity Interest Corporate Other Tax Share count End EPS 2018 Change in EPS y-o-y
+5% core volume (exc-Tornado headwind) ~$80m pricing tailwind; $5m headwind from mix in 1H
+$ (0.33) $10m headwind from Distribution, $10m headwind from SG&A investment
+LII EPS Bridge Start EPS (2018) Organic volume Organic pricing FX Distribution/SG&A costs
+Incremental Headwinds in 2019 Insurance Proceeds to offset 2018 Total Tornado Impact Productivity Interest Corporate Other Tax Share count End EPS 2019 Change in EPS y-o-y
+We estimate that when excluding the Tornado impact, LII grew organic sales ~6% in Q3, a slight deceleration from Q2. In Commercial, we expect growth to rebound in Q4, following a subdued Q3 performance (National Account lumpiness in North America, and Customer digestion of commercial unitary price increases associated with F Gas regulation in Europe).
+FIGURE 3 Exc-Tornado impacts, LII Resi organic sales growth was similar in Q318 to Q218...
+Lennox (Resi) UTX (Carrier Resi) IR (Resi) Daikin (Americas AC)* JCI (Resi HVAC Equip. / Buildings)** EMR (C&RS - Climate Tech) RBC (Climate Solutions)
+Lennox (Commercial) Daikin (Global AC)* JCI (HVAC & Refrig Product / Buildings)** IR (Global Comm'l HVAC) UTX (Global Comm'l HVAC)
+Source: Company Data, Barclays Research, *Daikin numbers are non-organic, **JCI Resi HVAC Equipment data only starts in Q3 17 before that it is total Buildings
+Source: Company Data, Barclays Research, *Daikin numbers are non-organic, **JCI HVAC & Refrig Product data only starts in Q3 17 before that it is total Buildings
+FIGURE 5 LII seems to be out-growing its main local peer in Refrigeration
+The combination of solid volume demand, higher prices, and levelling out in input costs, should lead to a sharp recovery in HVAC profits over the next two years. We note that following the last period when profits were suppressed by inflation pressure (2011-2012), there then followed a very sharp rebound (2013). Consensus assumes no such profit acceleration in 2019, which we believe may prove conservative.
+FIGURE 6 HVAC OEM profit growth should re-accelerate; consensus estimates for 2019+ may prove conservative if EBIT growth follows historical patterns
+Source: Company Data, Barclays Research, Companies / segments included in HVAC: IR, LII, UTX (CC&S), Note: Our estimates are higher than consensus (from Thomson Reuters Datastream) and estimates used above are our own
+FIGURE 7 Gross margins remained pressured, but headwinds would be abating...
+Source: Barclays Research, Company Data; Note Profit growth in 2H19 is supported by insurance reimbursements related Iowa Tornado headwinds
+The combination of higher prices (from the carry-over of measures enacted in 2018) and lower input costs, could be a very powerful driver of higher gross margins for the HVAC industry in 2019.
+Source: Company Data, Barclays Research, Bloomberg Analytics, Prices as of 10/18/2018
+LII has kept its total cost guidance (including both commodity costs and freight expenses) at $70m, while taking up the estimated pricing tailwind.
+FIGURE 11 US Multi Industry Price / Cost (exc. Tariff) Guidance
+2018 Original Guided Head / Tailwind ($m Q1 18 Guided Head / Tailwind ($m /
+2018 New (Q2) Guided Head / Tailwind ($m / Op margin bps)
+*PH is a June FY; outlooks from Q2 18 are for their FY 19
+2018 New (Q2) Guided Head / Tailwind ($m / Op margin bps)
+Steel, Copper, Aluminum Steel, Copper, Cast Iron, Aluminum, Brass Iron, Steel, Copper, Nickel, Aluminum, Brass, Lead Total COGS: Aluminum (3%), Steel (6%), Copper (2%)
+Total COGS: Steel (9%), Copper (8%), Aluminum (4%) Oil-derivative inputs (petroleum materials, metals, wood pulp)
+Steel, Brass, Copper, Aluminum, Nickel, Rubber Steel, Aluminum, Brass, Copper, Bronze Steel, Aluminum
+Steel, Zinc, Copper, Brass, Aluminum, Resins Steel, Copper, Aluminum, Titanium, Nickel
+In 2018, LII anticipates a $5m headwind from net tariff costs (Lists 1-3). When incorporating the potential impact of list 4, the annualized net tariff cost headwind increases by a little over 2X to ~$10m+ in 2019.
+FIGURE 12 US Multi Industry Tariff Impact Guidance, Updated for Q3 companies that have reported thus far
+ALLE CFX DHR DOV EMR ETN FLOW FTV GDI GE GTES
+'$1-2m of max pressure' ~$0.04 EPS Small part of $55m commodity headwind
+IR JCI KMT LII MMM nVent PH PNR RBC ROK ROP RXN SWK UTX
+Minimal FY 18 impact, significant 2019 prior to mitigations; 'tens of millions of
+LII provided considerable commentary on HVAC consolidation on the earnings call, which was broadly consistent with what we have written about throughout the year. For background, please see our initial report (`HVAC / F&S Consolidation; March 14, 2018') and our follow up in August (`HVAC Markets stand out amidst a rising industrial tide; August 9, 2018'). In the event that consolidation does occur but LII is not one of the involved parties, we think that it will likely win organic market share, particularly as some of its biggest rivals will be involved in a multi-year restructuring; if it is involved, we think most putative transactions are likely to be highly accretive and generate considerable synergies.
+As Mr. Bluedorn pointed out (consistent with the point we made in March), the main catalyst for HVAC consolidation to occur now is that two of the larger global players, JCI and UTX, are both undertaking strategic portfolio reviews. We expect to hear the outcome of the JCI review by early November, and we expect to hear from UTX by mid-November, based on the timelines previously laid out by their management teams.
+The rationales that LII cited for consolidation were consistent with what we had highlighted in our report following meetings with the Ingersoll CEO Mike Lamach (`IR ­ CEO Meeting Takeaways; June 11, 2018'), including:
+ The need for continuous investment to drive up efficiency in HVAC products, to meet tighter environment standards;
+ The growing importance of having strong controls offerings alongside traditional equipment;
+ The increasing role of digital / information management / data analytics offerings;
+ Traditional supplier / COGS savings from factory footprint and supplier consolidation;
+We continue to think that anti-trust considerations are not a huge barrier to consolidation (something which Mr. Bluedorn also seems to be believe), and nor are differing distribution models (Mr. Bluedorn on this point noted that "in an industry like this, when you consolidate...there will be some period of time leaving distribution alone....I don't think you want to sort of go from one model to another model quickly").
+We show below the positioning of the major players in the HVAC industry. Our understanding is that LII would prefer to stay focused on unitary HVAC, rather than move into the Applied world, in any meaningful way.
+Comm'l Building / HVAC Controls Commercial Applied HVAC Commercial Unitary HVAC Resi Unitary / Light Comm'l HVAC Transport Refrigeration VRF HVAC Technology
+Source: Barclays Research. Midea, Gree, Daikin, and Nortek, are not covered. Schneider Electric and Siemens are covered by European Capital Goods analyst, James Stettler.
+We show below where we see the biggest anti-trust risks facing HVAC consolidation among the Big 4 US players ­ transport refrigeration is the major such area, in our view (where LII does not participate).
+In response to a question on the call regarding consolidation, LII's CEO noted "the York business can certainly combine with us."
+FIGURE 15 LII ­ York Residential / Light Commercial Transaction (for Illustrative Purposes Only)
+LII - York Transaction Overview Purchase EV Purchase EV/EBITDA Purchase EV/Sales
+Cash on Balance Sheet (2018) Cash kept on Balance Sheet (2018) Debt Raised
+Core LII Debt Deal Debt Raise Pro Forma Debt Pro Forma Net Debt
+Source: Barclays Research; Units in $m or % unless otherwise indicated
+In response to a question on the call regarding consolidation with Carrier, the LII CEO noted "my guess is they could combine with us." As we highlighted in a recent report, `UTX ­ Press reports that UTX is exploring sale of Chubb F&S; September 24, 2018', UTX seems to be in the midst of divesting the non-HVAC parts of its CC&S division, which may render what is left of CC&S as easier to merge with a partner, or else list it separately as a standalone HVAC entity (similar to LII).
+FIGURE 16 LII ­ Carrier RMT ­ Value to LII Shareholders; Illustrative Capital Structure of the RMT
+LII Debt LII EBITDA Elims / Corporate Total EBITDA Net Debt Net Debt/EBITDA
+Allocate Debt to UTX CC&S CC&S Carrier - Core EBITDA Additional Stand-up Costs Total EBITDA Net Debt Net Debt/EBITDA
+LII 'Buildings NewCo' Following RMT with UTX CC&S LII EBITDA CC&S Carrier - Core EBITDA CC&S Carrier Minorities Elims / Corporate (LII) Additional Stand-up Costs (UTX Carrier, given existing LII Treasury/Corporate functions)
+Source: Barclays Research, Company Data, Units are in $m, unless % or a multiple
+FIGURE 17 LII ­ Carrier RMT ­ Value to LII Shareholders
+Note: Synergies net of cash costs to derive assumed ~$0m in 2019, given 2019 close.
+LII Shareholders own: 32% of NewCo EBITDA 32% of NewCo Debt Total MV MV / share
+Source: Barclays Research, Company Data, Units are in $m, unless % or a multiple
+Source: Barclays Research estimates, Company Data; All Units in $m or % unless otherwise indicated
+PP&E Goodwill/ Intangibles Other LT assets Total LT assets Total assets
+Source: Barclays Research estimates, Company Data; All Units in $m or % unless otherwise indicated
+Cash flow Net income D&A Change in working capital Other cash flow from operations Cash flow from operations
+Source: Barclays Research estimates, Company Data; All Units in $m or % unless otherwise indicated
+Divisional Revenue Residential Heating & Cooling Commercial Heating & Cooling Refrigeration Total Segment Revenues
+YoY Revenue Change Residential Heating & Cooling Commercial Heating & Cooling Refrigeration Total Change
+Operating Profit Residential Heating & Cooling Commercial Heating & Cooling Refrigeration Corporate Total Segment Operating Profit
+Operating Margin Residential Heating & Cooling Commercial Heating & Cooling Refrigeration Total Segment Operating Margin
+Source: Barclays Research estimates, Company Data; All Units in $m or % unless otherwise indicated
+Revenue Split by Geography Asia Pacific 4% Euro p e 8%
+Revenue Split by End Market New Co n s tru c ti o n 27%
+2017 Sales (mn) % of total Operating Profit % of total Operating Margin (%)
+packaged heating and cooling systems, indoor air quality equipment, comfort control products,
+Lennox, Dave Lennox Signature, Armstrong Air, Ducane, Aire-Flo, Air-Ease, Concord, Magic-Pak, ADP: Advanced
+applied systems, controls, installation and service of commercial heating and cooling equipment Lennox, Allied Commercial, Magic-Pak, Raider,
+UTX, Ingersoll-Rand, Paloma Industries, Johnson Controls, Daikin Industries, Nortek 80.0% 20.0% 80.0% 20.0%
+UTX, Ingersoll-Rand, Paloma Industries, Johnson Controls, Daikin Industries, Nortek, AAON 75.0% 25.0% 90.0% 10.0%
+Source: Barclays Research, Company Data; All Units in $m or % unless otherwise indicated
+Condensing units, unit coolers, fluid coolers, air cooled condensers, air handlers, process chillers,
+controls, compressorized racks, supermarket Heatcraft Worldwide Refrigeration, Bohn, Larkin, Climate Control, Chandler Refrigeration, Kysor/Warren,
+Hussmann, Rheem Manufacturing, EMR, UTX, GEA, Alfa Laval; Guntner GmbH, Panasonic, Hill-Phoenix (DOV)
+Valuation: Our Overweight rating and $230 target price are predicated upon the following methodology: DCF (4% growth, 16% OM, 8% WACC); EV/EBITDA (12.5x 2020 EBITDA); P/E (19x 2020 EPS); FCF (5.5% yield). Our prior target price was predicated upon the following methodology: DCF (4% growth, 16% OM, 8% WACC); EV/EBITDA (15x 2019 EBITDA); P/E (23x 2019 EPS); FCF (4.5% yield).
+

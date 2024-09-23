@@ -1,0 +1,659 @@
+North America Equity Research
+25 September 2009
+
+KB Home
+Post-Call: While Aug. Sales Pace Slowed for KBH, We Still Believe Industry Demand Still Slowly Reemerging
+
+Overweight
+KBH, KBH US Price: $18.54 Price Target: $25.50
+
+Following its 3Q09 (August-end) conference call, we provide the following key takeaways (pre-call bullets in the body of this note):
+· Sales pace slows in August due to upcoming expiration of tax credit, however, we believe overall demand remains relatively stable, as per LEN's statement on Monday. While KBH noted that sales pace in August slowed due to the expiration of the $8K tax credit, as well as due to normal seasonality, in our view, we continue to expect positive YOY order growth in 4Q, at 8%, which reflects our view that the housing market should continue to improve on a YOY basis and continue to stabilize on a sequential basis. We note our 8% order growth estimate is based on community count down 39% YOY to 160 and an absorption pace of 8.8 orders per community, up 80% YOY. Also, importantly, we also point to LEN's recent comments, in which it stated that August trends improved and that September was consistent with August. As a result, we continue to believe the overall industry should experience positive YOY order growth in 4Q, which should in turn be a positive catalyst for the sector.
+· 3Q gross margins better than reported, given 130 bps hit from higher warranty reserve; moreover, KBH guides for 4Q gross margin expansion. Specifically, excluding a $6 mil. increase in its warranty liability related to Chinese drywall issues that affected 140 homes primarily in FL, KBH's gross margins in 3Q (excharges) would have been 15.9%, well above our 13.0%E. Regarding 4Q, while KBH did not give specific detail, it does expect both sequential and YOY expansion, albeit from 3Q's 14.6% (ex-impairments, but pre-warranty reserve). As a result, we estimate 4Q margin expansion of only 90 bps seq. to 15.5%, given still challenging market conditions, however, we believe upside potential does exist to our estimate.
+· Land spend increases, albeit still expected to be down YOY. Specifically, KBH purchased lots across all regions, with land spend in 3Q totaling roughly $90 mil. For the year, KBH expects total land spend of $360 mil., down from last year's $500+ mil. Importantly, KBH noted that it is beginning to see more land deals that make economic sense, and continues to target finished lots with rolling options. Regarding its re-entry into Wash. DC, we believe this will be more of a gradual effort as KBH's team in the area has only begun to be assembled.
+· JV debt continues to fall. KBH ended 3Q with $172 mil. invested in 16 JVs, roughly in line with 2Q's $171 mil. invested, but in 19 JVs; the JVs had $562 mil. of total debt, vs. 2Q's $740 mil., and $1.0 bil. in assets vs. 2Q's $1.1 bil.
+
+Homebuilding and Building Products Michael Rehaut, CFAAC
+(1-212) 622-6696 michael.rehaut@jpmorgan.com
+Ray Huang, CFA
+(1-212) 622-0547 ray.huang@jpmchase.com
+J.P. Morgan Securities Inc.
+
+Price Performance
+
+20
+
+16 $
+12
+
+8 Sep-08
+
+Dec-08
+
+Mar-09
+
+Jun-09
+
+Sep-09
+
+YTD 1m 3m 12m
+
+Abs
+
+36.1% 5.9% 35.9% -8.8%
+
+KB Home (KBH;KBH US)
+
+2008A
+
+2009E
+
+(Old)
+
+EPS Reported ($) Q1 (Feb) Q2 (May)
+
+(3.47) (3.30)
+
+(0.75)A (1.03)A
+
+Q3 (Aug) Q4 (Nov)
+
+(1.87) (3.96)
+
+(0.66)A (0.71)A
+
+FY
+
+(8.00)
+
+(3.15)A
+
+Source: Company data, Reuters, J.P. Morgan estimates.
+
+2009E
+(New)
+(0.75)A (1.03)A (0.87)A (0.42)A (3.07)A
+
+2010E
+(Old)
+(1.84)
+
+2010E
+(New)
+(1.20)
+
+Company Data
+Price ($) Date Of Price 52-week Range ($) Mkt Cap ($ mn) Fiscal Year End Shares O/S (mn) Price Target ($) Price Target End Date
+
+18.54 24 Sep 09 21.73 - 6.90
+1,415.14 Nov 76
+25.50 31 Dec 10
+
+See page 7 for analyst certification and important disclosures.
+J.P. Morgan does and seeks to do business with companies covered in its research reports. As a result, investors should be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only a single factor in making their investment decision.
+18
+
+Michael Rehaut, CFA (1-212) 622-6696 michael.rehaut@jpmorgan.com
+
+North America Equity Research 25 September 2009
+
+· Maintain Overweight rating and $25.50 Dec. 2010 Price Target. Trading at 0.97x P/B (ex-adjusted FAS 109 charges), a 9% discount to its larger-cap peers' 1.07x, we believe KBH's valuation is attractive given its impressive value-engineering efforts via its Open Series community program, our above-average 2H09 order growth outlook relative to its peers, and solid cash position. Thus we rate the stock Overweight. Regarding our price target analysis, we apply a 1.66x P/B multiple to our 2010-end book value estimate of $16.75 (ex-adjusted FAS 109) to reach a December 2010 price target of $25.50. Our 1.66x P/B multiple is based on a 10% premium to KBH's historical 10-year P/B multiple, which we believe is appropriate at this point in the cycle, given our outlook for housing to continue to recover over the next 24 months.
+
+2
+19
+
+Michael Rehaut, CFA (1-212) 622-6696 michael.rehaut@jpmorgan.com
+
+North America Equity Research 25 September 2009
+
+Table 1: KBH 3Q09 Results
+
+Revenue Homebuilding Land & Other Financial Services
+Total Revenue
+
+3Q08A
+$668.3 10.8 2.5 681.6
+
+Homebuilding Segment: Revenue Cost of Sales Gross Profit Gross Profit Margins SG&A SGA/ % of HB Rev. Goodwill Impairment HB EBIT EBIT Margins
+Other EBIT: Commercial & Land Financial Services EBIT Total EBIT
+Interest Income Interest Expense Equity in Unconsolidated JVs Total Pretax Income
+Income Taxes Tax Rate Net Income EPS Shares Outstanding
+
+$668.3 (642.5)
+25.8 3.9% (133.2) 19.9% $0.0 (107.4) (16.1%)
+(0.4) 6.0
+(101.8) 6.7
+(10.4) (46.2) (151.7)
+7.0 4.6% (144.7) ($1.87) 77.6
+
+Unit Volume: New Orders Closings Avg. Closing Price
+
+1,329 2,788 $240
+
+Source: Company reports, J.P. Morgan estimates.
+
+3Q09E
+$388.5 2.0 2.0
+392.5
+$388.5 (382.4)
+6.1 1.6% (69.9) 18.0% 0.0% (63.8) (16.4%)
+(3.0) 5.0
+(61.8) 2.0
+(12.0) (10.0) (81.8)
+31.5 38.5% (50.3) ($0.66)
+76.3
+1,595 1,850 $210
+
+3Q09A
+$454.2 2.1 2.1
+458.5
+$454.2 (404.0)
+50.2 11.1% (83.9) 18.5%
+0.0 (33.7) (7.4%)
+(8.4) 5.6
+(36.5) 1.1
+(15.4) (26.3) (77.0)
+11.0 14.3% (66.0) ($0.87)
+76.3
+2,158 2,240 $203
+
+% YOY Growth
+(32.0%) (80.3%) (15.7%) (32.7%)
+(32.0%)
+94.4% 719bp
+-147bp
+866bp
+1,807.9% (6.1%) (64.2%) (83.1%)
+(43.0%) (49.2%)
+57.1%
+(54.4%) (53.6%)
+62.4% (19.7%) (15.4%)
+
+Deviation from Estimate
+9.8% 1.3% 4.1% 9.7%
+9.8%
+170.7% 948bp
+47bp
+901bp
+1,229.2% 10.4%
+(24.9%) (13.0%)
+35.3% (3.1%) (292.9%)
+10.9% 11.0%
+42.4% 14.0% (3.0%)
+
+Pre-Conference Call Bullets
+3Q Orders Well Above Our Estimate, Gross Margins Solidly Ahead; Reiterate OW Rating KBH reported 3Q (Aug-end) results featuring orders up 62%, well above our 20%E, as well as impairment charges of $48 mil., or a 4.5% hit to equity, below our $57 mil. estimate (or a 5.3% hit to equity). Importantly, while 3Q's year-ago order comp was easy, at -66% YOY, we point out that KBH's absorption pace at roughly 15 orders per community (assuming flattish community count growth), places the company 74% above the 8.6 3Q average from 2006 to 2008, and only modestly below the range of 18 to 22 from 2001 to 2005. As such, we believe this indicates that demand has begun to slowly re-emerge, as well as the builders starting to gain traction from their value-engineering efforts. Moreover, core operating margins (excharges), while still negative, improved to -3.9% from last quarter's -6.4%, and were above our -5.0%E, driven by better than expected gross margins. Accordingly, we reiterate our Overweight rating on KBH amid our positive sector stance.
+
+· Orders rise strongly, well above our estimate, and in sharp contrast to last quarter's solid decline. Specifically, orders rose 62% YOY, well above our 20%E and were in sharp contrast to last quarter's 31% YOY decline. Regionally, the rise was led by the Southeast, up 124% YOY, following last quarter's 62%
+
+3
+20
+
+Michael Rehaut, CFA (1-212) 622-6696 michael.rehaut@jpmorgan.com
+
+North America Equity Research 25 September 2009
+decline, while the West and Central rose 64% and 60% following last quarter's 5% decline and 9% rise, respectively. Additionally, the Southwest rose 26% following last quarter's 53% decline. While order ASPs of $182K fell 28% YOY and 14% seq., we note that given the relatively low level of impairment charges this quarter, we do not believe this was driven by material price deterioration, but rather mix shift and value- engineering efforts as its Open Series communities continue to become a greater percentage of its overall business. Lastly, while its can rate rose modestly to 27% from last quarter's 20%, we note it was down solidly from last year's 51%. Moreover, we do not believe this rise in can rate to be a material concern, given can rates typically rise 5-10% in 3Q for the industry.
+· Impairment charges below our estimate. KBH reported land charges of $48 mil., including $25 mil. of land impairments and $23 mil. of JV charges, representing a 4.5% hit to equity (after-tax), below our $57 mil. estimate, or 5.3% of equity. Given 3Q's strong rise in orders, we believe KBH's charges should continue to moderate over the next few quarters as its absorption and order rates continue to improve.
+· Core margins remain negative, but continue to improve solidly, and were better than our estimate. While core margins of -3.9% remained negative, we note they were better than our -5.0%E, as well as 2Q's -6.4% and 3Q08's -10.3%. Specifically, gross margins (ex-charges) of 14.6%, ahead of our 13.0%E, rose 190 bps seq. and 500 bps YOY, while its SG&A ratio of 18.5%, slightly higher than our 18.0%E, fell 60 bps seq. and 140 bps YOY.
+· Lastly, while cash position down slightly, it remains solid, in our view. KBH ended 3Q with $1.06 bil. of cash, down only slightly from 2Q's $1.10 bil., while its net debt-to-cap rose to 55.2%, up 790 bps seq. and 1,000 bps YOY. While cash was down slightly, we believe this was partially driven by the company beginning to reinvest in its business and point to it re-entering the Wash. DC market, which likely required startup capital in the quarter.
+
+4
+21
+
+Michael Rehaut, CFA (1-212) 622-6696 michael.rehaut@jpmorgan.com
+
+North America Equity Research 25 September 2009
+Valuation, Rating, and Price Target Analysis
+Trading at 0.97x P/B (ex-adjusted FAS 109 charges), a 9% discount to its larger-cap peers' 1.07x, we believe KBH's valuation is attractive given its impressive valueengineering efforts via its Open Series community program, our above-average 2H09 order growth outlook relative to its peers, and solid cash position. Thus we rate the stock Overweight.
+Regarding our price target analysis, we apply a 1.66x P/B multiple to our 2010-end book value estimate of $16.75 (ex-adjusted FAS 109) to reach a December 2010 price target of $25.50. Our 1.66x P/B multiple is based on a 10% premium to KBH's historical 10-year P/B multiple, which we believe is appropriate at this point in the cycle, given our outlook for housing to continue to recover over the next 24 months.
+Investment Risks
+We believe the following factors present risks to our Overweight rating and price target on KBH, and could spur underperformance relative to the group: 1) weaker than expected order growth; 2) greater than expected impairment charges; and 3) lower than expected margin and sales benefits from its Open Series communities.
+
+5
+22
+
+Michael Rehaut, CFA (1-212) 622-6696 michael.rehaut@jpmorgan.com
+
+North America Equity Research 25 September 2009
+
+KB Home: Summary of Financials
+
+Income Statement - Annual
+
+FY07A FY08A FY09E FY10E Income Statement - Quarterly
+
+Revenues Cost of products sold Gross profit
+
+6,417 3,034 1,779 1,628 Revenues (6,563) (3,149) (1,619) (1,450) Cost of products sold
+(352) (209) 144 159 Gross profit
+
+SG&A Operating income D&A
+
+(825) (501) (314) (258) SG&A
+
+(1,284) (778) (170) (98) Operating income
+
+-
+
+-
+
+-
+
+- D&A
+
+EBITDA
+
+-
+
+-
+
+-
+
+- EBITDA
+
+Net interest income / (expense) Total other income / (expense) Pretax income
+
+16
+
+22 (44) (40) Net interest income / (expense)
+
+-
+
+-
+
+-
+
+- Other income / (expense)
+
+(1,461) (968) (273) (149) Pretax income
+
+Income taxes Net income - GAAP Net income - recurring
+
+46
+
+(8)
+
+38
+
+(929) (976) (235)
+
+-
+
+-
+
+-
+
+57 Income taxes (92) Net income - GAAP
+- Net income - recurring
+
+Diluted shares outstanding
+
+77
+
+78
+
+77
+
+76 Diluted shares outstanding
+
+EPS - GAAP EPS - recurring
+
+(12.04) (8.00) (3.07) (1.20) EPS - GAAP (11.65) (8.00) (1.89) (1.20) EPS - recurring
+
+Balance Sheet and Cash Flow Data
+
+FY07A FY08A FY09E FY10E Ratio Analysis
+
+Cash and cash equivalents Accounts receivable Inventories Other current assets Current assets Other non-current assets Total assets
+Total debt Total liabilities Shareholders' equity BV/share
+
+1,325 296
+3,312 -
+5,706
+2,162 3,855 1,851 23.98
+
+1,251 358
+2,107 -
+4,044
+1,942 3,214
+831 10.72
+
+1,077 215
+1,685 -
+3,170
+1,813 2,593
+577 7.53
+
+1,042 196
+1,517 -
+2,930
+1,813 2,464
+466 6.11
+
+Sales growth Organic sales growth EBITDA growth EPS growth (recurring) BV/share growth
+Gross margin SG&A ratio EBIT margin EBITDA margin Tax rate Net margin
+
+Net income (reported) D&A Change in working capital Other Cash flow from operations
+Capex Free cash flow Free cash flow / share
+Cash flow from investing activities Cash flow from financing activities Dividends
+
+(929) (976) (235) (92) Net debt / EBITDA
+
+-
+
+-
+
+-
+
+- Net debt / Capital
+
+1,622 809 348 159 Interest coverage ratio
+
+-
+
+-
+
+-
+
+-
+
+1,047 341
+
+87 (16) Inventory turnover
+
+Working capital turnover
+
+1
+
+7
+
+0
+
+0
+
+1,048 348
+
+87 (16) Return on assets (ROA)
+
+13.57 4.49 1.14 (0.21) Return on equity (ROE)
+
+Return on capital (ROC)
+
+643 (168)
+
+0
+
+0
+
+(1,150) (376) (152) (20)
+
+-
+
+-
+
+-
+
+-
+
+Source: Company reports and J.P. Morgan estimates. Note: $ in millions (except per-share data). Fiscal year ends Nov
+
+1Q09A 2Q09A 3Q09A 4Q09E
+
+307 384 458 629
+
+(289) (373) (404) (552)
+
+15
+
+7
+
+50
+
+72
+
+(61) (73) (84) (97)
+
+(46) (65) (34) (25)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(5) (10) (14) (14)
+
+-
+
+-
+
+-
+
+-
+
+(60) (84) (77) (52)
+
+2
+
+5
+
+11
+
+20
+
+(58) (78) (66) (32)
+
+-
+
+-
+
+-
+
+-
+
+77
+
+76
+
+76
+
+76
+
+(0.75) (1.03) (0.87) (0.42) (0.46) (0.61) (0.40) (0.42)
+
+FY07A FY08A FY09E FY10E
+
+(41.7%) -
+(300.1%) -
+
+(52.7%) -
+(31.3%) -
+
+(41.4%) -
+(76.4%) -
+
+(8.5%) -
+(36.5%) -
+
+(5.7%) (12.9%) (20.0%)
+(3.1%) (14.5%)
+
+(7.1%) (16.5%) (25.6%)
+0.8% (32.2%)
+
+8.1% (17.7%) (9.6%)
+(39.0%) (11.9%)
+
+9.8% (15.8%) (6.0%)
+(39.0%) (11.9%)
+
+31.1%
+1.7
+
+45.4%
+0.0
+
+25.7%
+0.6
+
+25.7%
+1.1
+
+1.4
+
+1.2
+
+0.9
+
+0.9
+
+-
+
+-
+
+-
+
+-
+
+(17.1%) (16.9%) (2.8%) 0.4% (59.3%) (72.8%) (33.4%) (17.6%) (25.1%) (24.5%) (3.4%) 0.3%
+
+6
+23
+
+Michael Rehaut, CFA (1-212) 622-6696 michael.rehaut@jpmorgan.com
+
+North America Equity Research 25 September 2009
+
+Analyst Certification: The research analyst(s) denoted by an "AC" on the cover of this report certifies (or, where multiple research analysts are primarily responsible for this report, the research analyst denoted by an "AC" on the cover or within the document individually certifies, with respect to each security or issuer that the research analyst covers in this research) that: (1) all of the views expressed in this report accurately reflect his or her personal views about any and all of the subject securities or issuers; and (2) no part of any of the research analyst's compensation was, is, or will be directly or indirectly related to the specific recommendations or views expressed by the research analyst(s) in this report.
+Important Disclosures
+· Client of the Firm: KB Home is or was in the past 12 months a client of JPMSI; during the past 12 months, JPMSI provided to the company investment banking services, non-investment banking securities-related service and non-securities-related services.
+· Investment Banking (past 12 months): JPMSI or its affiliates received in the past 12 months compensation for investment banking services from KB Home.
+· Investment Banking (next 3 months): JPMSI or its affiliates expect to receive, or intend to seek, compensation for investment banking services in the next three months from KB Home.
+· Non-Investment Banking Compensation: JPMSI has received compensation in the past 12 months for products or services other than investment banking from KB Home. An affiliate of JPMSI has received compensation in the past 12 months for products or services other than investment banking from KB Home.
+
+KB Home (KBH) Price Chart
+
+95
+76 N
+57 Price($)
+38
+
+N $10
+
+OW $25.5
+
+Date
+
+Rating Share Price Price Target
+
+($)
+
+($)
+
+13-Nov-06 N
+
+44.78
+
+-
+
+08-Jan-09 N
+
+14.22
+
+10.00
+
+18-Sep-09 OW 19.69
+
+25.50
+
+19
+
+0
+
+Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec Mar Jun
+
+06
+
+06
+
+07
+
+07
+
+07
+
+07
+
+08
+
+08
+
+08
+
+08
+
+09
+
+09
+
+Source: Reuters and J.P. Morgan; price data adjusted for stock splits and dividends. This chart shows J.P. Morgan's continuing coverage of this stock; the current analyst may or may not have covered it over the entire period. J.P. Morgan ratings: OW = Overweight, N = Neutral, UW = Underweight.
+
+Sep 09
+
+Explanation of Equity Research Ratings and Analyst(s) Coverage Universe: J.P. Morgan uses the following rating system: Overweight [Over the next six to twelve months, we expect this stock will outperform the average total return of the stocks in the analyst's (or the analyst's team's) coverage universe.] Neutral [Over the next six to twelve months, we expect this stock will perform in line with the average total return of the stocks in the analyst's (or the analyst's team's) coverage universe.] Underweight [Over the next six to twelve months, we expect this stock will underperform the average total return of the stocks in the analyst's (or the analyst's team's) coverage universe.] The analyst or analyst's team's coverage universe is the sector and/or country shown on the cover of each publication. See below for the specific stocks in the certifying analyst(s) coverage universe.
+
+Coverage Universe: Michael Rehaut, CFA: Beacon Roofing Supply (BECN), Beazer Homes (BZH), Black & Decker Corp. (BDK), D.R. Horton (DHI), Fortune Brands (FO), Hovnanian Enterprises (HOV), KB Home (KBH), Lennar (LEN), MDC Holdings (MDC), Masco Corp. (MAS), Mohawk Industries (MHK), Owens Corning (OC), PGT, Inc. (PGTI), Pulte (PHM), Ryland Group (RYL), Standard Pacific (SPF), The Stanley Works (SWK), Toll Brothers (TOL), USG Corporation (USG), Whirlpool (WHR)
+
+7
+24
+
+Michael Rehaut, CFA (1-212) 622-6696 michael.rehaut@jpmorgan.com
+
+North America Equity Research 25 September 2009
+
+J.P. Morgan Equity Research Ratings Distribution, as of June 30, 2009
+
+JPM Global Equity Research Coverage IB clients*
+JPMSI Equity Research Coverage IB clients*
+
+Overweight (buy) 36% 55% 36% 77%
+
+Neutral (hold) 46% 56% 52% 72%
+
+Underweight (sell) 18% 42% 12% 60%
+
+*Percentage of investment banking clients in each rating category. For purposes only of NASD/NYSE ratings distribution rules, our Overweight rating falls into a buy rating category; our Neutral rating falls into a hold rating category; and our Underweight rating falls into a sell rating category.
+
+Valuation and Risks: Please see the most recent company-specific research report for an analysis of valuation methodology and risks on any securities recommended herein. Research is available at http://www.morganmarkets.com , or you can contact the analyst named on the front of this note or your J.P. Morgan representative.
+Analysts' Compensation: The equity research analysts responsible for the preparation of this report receive compensation based upon various factors, including the quality and accuracy of research, client feedback, competitive factors, and overall firm revenues, which include revenues from, among other business units, Institutional Equities and Investment Banking.
+Other Disclosures
+J.P. Morgan is the global brand name for J.P. Morgan Securities Inc. (JPMSI) and its non-US affiliates worldwide.
+Options related research: If the information contained herein regards options related research, such information is available only to persons who have received the proper option risk disclosure documents. For a copy of the Option Clearing Corporation's Characteristics and Risks of Standardized Options, please contact your J.P. Morgan Representative or visit the OCC's website at http://www.optionsclearing.com/publications/risks/riskstoc.pdf.
+Legal Entities Disclosures U.S.: JPMSI is a member of NYSE, FINRA and SIPC. J.P. Morgan Futures Inc. is a member of the NFA. JPMorgan Chase Bank, N.A. is a member of FDIC and is authorized and regulated in the UK by the Financial Services Authority. U.K.: J.P. Morgan Securities Ltd. (JPMSL) is a member of the London Stock Exchange and is authorised and regulated by the Financial Services Authority. Registered in England & Wales No. 2711006. Registered Office 125 London Wall, London EC2Y 5AJ. South Africa: J.P. Morgan Equities Limited is a member of the Johannesburg Securities Exchange and is regulated by the FSB. Hong Kong: J.P. Morgan Securities (Asia Pacific) Limited (CE number AAJ321) is regulated by the Hong Kong Monetary Authority and the Securities and Futures Commission in Hong Kong. Korea: J.P. Morgan Securities (Far East) Ltd, Seoul branch, is regulated by the Korea Financial Supervisory Service. Australia: J.P. Morgan Australia Limited (ABN 52 002 888 011/AFS Licence No: 238188) is regulated by ASIC and J.P. Morgan Securities Australia Limited (ABN 61 003 245 234/AFS Licence No: 238066) is a Market Participant with the ASX and regulated by ASIC. Taiwan: J.P.Morgan Securities (Taiwan) Limited is a participant of the Taiwan Stock Exchange (company-type) and regulated by the Taiwan Securities and Futures Bureau. India: J.P. Morgan India Private Limited is a member of the National Stock Exchange of India Limited and Bombay Stock Exchange Limited and is regulated by the Securities and Exchange Board of India. Thailand: JPMorgan Securities (Thailand) Limited is a member of the Stock Exchange of Thailand and is regulated by the Ministry of Finance and the Securities and Exchange Commission. Indonesia: PT J.P. Morgan Securities Indonesia is a member of the Indonesia Stock Exchange and is regulated by the BAPEPAM. Philippines: J.P. Morgan Securities Philippines Inc. is a member of the Philippine Stock Exchange and is regulated by the Securities and Exchange Commission. Brazil: Banco J.P. Morgan S.A. is regulated by the Comissao de Valores Mobiliarios (CVM) and by the Central Bank of Brazil. Mexico: J.P. Morgan Casa de Bolsa, S.A. de C.V., J.P. Morgan Grupo Financiero is a member of the Mexican Stock Exchange and authorized to act as a broker dealer by the National Banking and Securities Exchange Commission. Singapore: This material is issued and distributed in Singapore by J.P. Morgan Securities Singapore Private Limited (JPMSS) [MICA (P) 132/01/2009 and Co. Reg. No.: 199405335R] which is a member of the Singapore Exchange Securities Trading Limited and is regulated by the Monetary Authority of Singapore (MAS) and/or JPMorgan Chase Bank, N.A., Singapore branch (JPMCB Singapore) which is regulated by the MAS. Malaysia: This material is issued and distributed in Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-X) which is a Participating Organization of Bursa Malaysia Berhad and a holder of Capital Markets Services License issued by the Securities Commission in Malaysia. Pakistan: J. P. Morgan Pakistan Broking (Pvt.) Ltd is a member of the Karachi Stock Exchange and regulated by the Securities and Exchange Commission of Pakistan. Saudi Arabia: J.P. Morgan Saudi Arabia Ltd. is authorised by the Capital Market Authority of the Kingdom of Saudi Arabia (CMA) to carry out dealing as an agent, arranging, advising and custody, with respect to securities business under licence number 35-07079 and its registered address is at 8th Floor, Al-Faisaliyah Tower, King Fahad Road, P.O. Box 51907, Riyadh 11553, Kingdom of Saudi Arabia.
+Country and Region Specific Disclosures U.K. and European Economic Area (EEA): Unless specified to the contrary, issued and approved for distribution in the U.K. and the EEA by JPMSL. Investment research issued by JPMSL has been prepared in accordance with JPMSL's policies for managing conflicts of interest arising as a result of publication and distribution of investment research. Many European regulators require that a firm to establish, implement and maintain such a policy. This report has been issued in the U.K. only to persons of a kind described in Article 19 (5), 38, 47 and 49 of the Financial
+8
+25
+
+Michael Rehaut, CFA (1-212) 622-6696 michael.rehaut@jpmorgan.com
+
+North America Equity Research 25 September 2009
+
+Services and Markets Act 2000 (Financial Promotion) Order 2005 (all such persons being referred to as "relevant persons"). This document must not be acted on or relied on by persons who are not relevant persons. Any investment or investment activity to which this document relates is only available to relevant persons and will be engaged in only with relevant persons. In other EEA countries, the report has been issued to persons regarded as professional investors (or equivalent) in their home jurisdiction. Australia: This material is issued and distributed by JPMSAL in Australia to "wholesale clients" only. JPMSAL does not issue or distribute this material to "retail clients." The recipient of this material must not distribute it to any third party or outside Australia without the prior written consent of JPMSAL. For the purposes of this paragraph the terms "wholesale client" and "retail client" have the meanings given to them in section 761G of the Corporations Act 2001. Germany: This material is distributed in Germany by J.P. Morgan Securities Ltd., Frankfurt Branch and J.P.Morgan Chase Bank, N.A., Frankfurt Branch which are regulated by the Bundesanstalt für Finanzdienstleistungsaufsicht. Hong Kong: The 1% ownership disclosure as of the previous month end satisfies the requirements under Paragraph 16.5(a) of the Hong Kong Code of Conduct for persons licensed by or registered with the Securities and Futures Commission. (For research published within the first ten days of the month, the disclosure may be based on the month end data from two months' prior.) J.P. Morgan Broking (Hong Kong) Limited is the liquidity provider for derivative warrants issued by J.P. Morgan International Derivatives Ltd and listed on The Stock Exchange of Hong Kong Limited. An updated list can be found on HKEx website: http://www.hkex.com.hk/prod/dw/Lp.htm. Japan: There is a risk that a loss may occur due to a change in the price of the shares in the case of share trading, and that a loss may occur due to the exchange rate in the case of foreign share trading. In the case of share trading, JPMorgan Securities Japan Co., Ltd., will be receiving a brokerage fee and consumption tax (shouhizei) calculated by multiplying the executed price by the commission rate which was individually agreed between JPMorgan Securities Japan Co., Ltd., and the customer in advance. Financial Instruments Firms: JPMorgan Securities Japan Co., Ltd., Kanto Local Finance Bureau (kinsho) No. 82 Participating Association / Japan Securities Dealers Association, The Financial Futures Association of Japan. Korea: This report may have been edited or contributed to from time to time by affiliates of J.P. Morgan Securities (Far East) Ltd, Seoul branch. Singapore: JPMSS and/or its affiliates may have a holding in any of the securities discussed in this report; for securities where the holding is 1% or greater, the specific holding is disclosed in the Important Disclosures section above. India: For private circulation only, not for sale. Pakistan: For private circulation only, not for sale. New Zealand: This material is issued and distributed by JPMSAL in New Zealand only to persons whose principal business is the investment of money or who, in the course of and for the purposes of their business, habitually invest money. JPMSAL does not issue or distribute this material to members of "the public" as determined in accordance with section 3 of the Securities Act 1978. The recipient of this material must not distribute it to any third party or outside New Zealand without the prior written consent of JPMSAL.
+General: Additional information is available upon request. Information has been obtained from sources believed to be reliable but JPMorgan Chase & Co. or its affiliates and/or subsidiaries (collectively J.P. Morgan) do not warrant its completeness or accuracy except with respect to any disclosures relative to JPMSI and/or its affiliates and the analyst's involvement with the issuer that is the subject of the research. All pricing is as of the close of market for the securities discussed, unless otherwise stated. Opinions and estimates constitute our judgment as of the date of this material and are subject to change without notice. Past performance is not indicative of future results. This material is not intended as an offer or solicitation for the purchase or sale of any financial instrument. The opinions and recommendations herein do not take into account individual client circumstances, objectives, or needs and are not intended as recommendations of particular securities, financial instruments or strategies to particular clients. The recipient of this report must make its own independent decisions regarding any securities or financial instruments mentioned herein. JPMSI distributes in the U.S. research published by non-U.S. affiliates and accepts responsibility for its contents. Periodic updates may be provided on companies/industries based on company specific developments or announcements, market conditions or any other publicly available information. Clients should contact analysts and execute transactions through a J.P. Morgan subsidiary or affiliate in their home jurisdiction unless governing law permits otherwise.
+"Other Disclosures" last revised January 30, 2009.
+Copyright 2009 JPMorgan Chase & Co. All rights reserved. This report or any portion hereof may not be reprinted, sold or redistributed without the written consent of J.P. Morgan.
+
+9
+26
+
+

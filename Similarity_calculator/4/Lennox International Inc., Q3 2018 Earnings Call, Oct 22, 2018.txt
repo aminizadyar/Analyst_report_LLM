@@ -1,0 +1,812 @@
+
+Lennox International Inc. NYSE:LII
+FQ3 2018 Earnings Call Transcripts
+Monday, October 22, 2018 1:30 PM GMT
+S&P Global Market Intelligence Estimates
+ -FQ3 2018--FQ4 2018--FY 2018--FY 2019- CONSENSUSACTUALSURPRISECONSENSUSCONSENSUSCONSENSUSEPS Normalized 2.922.72(6.85 %)1.539.2311.99Revenue  (mm)1053.681023.30(2.88 %)839.033844.544104.57Currency: USD
+Consensus as of  Oct-22-2018 2:25 PM GMT
+
+
+  - EPS NORMALIZED  -  CONSENSUSACTUALSURPRISEFQ4 20171.661.681.20 %FQ1 20181.101.132.73 %FQ2 20183.573.672.80 %FQ3 20182.922.72(6.85 %)
+
+Table of Contents
+ Call Participants........................................................................................................................................................3Presentation........................................................................................................................................................4Question and Answer........................................................................................................................................................9
+Call Participants 
+EXECUTIVES 
+ 
+ 
+Joseph William Reitmeier 
+Executive VP & CFO 
+ 
+ 
+Steve L. Harrison 
+Vice President of Investor Relations 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+ 
+ANALYSTS 
+ 
+ 
+Charles Stephen Tusa 
+JP Morgan Chase & Co, Research Division 
+ 
+ 
+Gautam J. Khanna 
+Cowen and Company, LLC, Research Division 
+ 
+ 
+Jeffrey David Hammond 
+KeyBanc Capital Markets Inc., Research Division 
+ 
+ 
+Jeffrey Todd Sprague 
+Vertical Research Partners, LLC 
+ 
+ 
+John Fred Walsh 
+Crédit Suisse AG, Research Division 
+ 
+ 
+Julian C.H. Mitchell 
+Barclays Bank PLC, Research Division 
+ 
+ 
+Nigel Edward Coe 
+Wolfe Research, LLC 
+ 
+ 
+Richard Michael Kwas 
+Wells Fargo Securities, LLC, Research Division 
+ 
+ 
+Ryan James Merkel 
+William Blair & Company L.L.C., Research Division 
+ 
+ 
+Steven Eric Winoker 
+UBS Investment Bank, Research Division 
+ 
+ 
+Walter Scott Liptak 
+Seaport Global Securities LLC, Research Division 
+
+Presentation 
+ 
+ 
+Operator 
+ 
+Ladies and gentlemen, thank you for standing by. Welcome to the Lennox International Third Quarter 2018 Earnings Conference Call. [Operator Instructions] As a reminder, this call is being recorded. 
+ 
+ 
+I would now like to turn the conference over to Steve Harrison, Vice President of Investor Relations. Please go ahead. 
+ 
+ 
+Steve L. Harrison 
+Vice President of Investor Relations 
+ 
+Good morning. Thank you for joining us for this review of Lennox International's financial performance for the third quarter of 2018. I'm here today with Chairman and CEO, Todd Bluedorn; and CFO, Joe Reitmeier. Todd will review key points for the quarter, Joe will take you through the company's financial performance and outlook. [Operator Instructions] 
+ 
+ 
+In the earnings release we issued this morning, we have included the necessary reconciliation of the non-GAAP financial measures that will be discussed to GAAP measures. All comparisons mentioned today are against the prior year period unless otherwise noted. You can find a direct link to the webcast to today's conference call on our website at www.lennoxinternational.com. The webcast also will be archived on the site for replay. 
+ 
+ 
+I would like to remind everyone that in the course of this call, to give you a better understanding of our operations, we will be making certain forward-looking statements. These statements are subject to numerous risks and uncertainties that could cause actual results to differ materially from such statements. For information concerning these risks and uncertainties, see Lennox International's publicly available filings with the SEC. The company disclaims any intention or obligation to update or revise any forward-looking statements whether as a result of new information, future events or otherwise. 
+ 
+ 
+Before I turn the call over to Todd, I would like to announce the date of our Annual Investment Community Meeting. The event will be held the morning of Wednesday, December 12, in New York City. Please mark your calendars, invitations and more details will follow. The meeting will also be webcast. 
+ 
+ 
+Now let me turn the call over to Chairman and CEO, Todd Bluedorn. 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+Thanks, Steve. Good morning, everyone, and thank you for joining us. There are a lot of moving pieces and noise from the tornado impact on the reported results to walk through for the third quarter and as we look ahead. 
+ 
+ 
+First, let me level set everyone with our estimates on the impact from the tornado that damaged our Marshalltown, Iowa residential manufacturing facility on July 19, and also make the overarching comment to keep in mind that the lost profits in 2018 and 2019 from business interruption due to the tornado will be fully offset by insurance proceeds in 2019 and be a benefit to us in that year. On our last conference call, 1 month after the tornado hit, we estimated the impact on our core business for 2018 of approximately $100 million of revenue and $55 million of segment profit and about $1.05 of EPS. Our initial view was that about 1/3 of this impact would hit in the third quarter and about 2/3 would hit the fourth quarter. 
+ 
+ 
+Further along, with more visibility, our current view is that the impact to our core business in 2018 will be approximately $115 million of revenue, $65 million of segment profit and $1.25 of EPS. We now expect approximately 40% of this impact was in the third quarter and 60% will be in the fourth quarter. So in the third quarter, we had $0.52 of tornado impact on our core business, which was  $0.17 -- approximately $0.17 more than originally estimated. 
+ 
+ 
+From an operational viewpoint, the recovery is at or ahead of schedule in all key areas. The Lennox team and our partners in the recovery have done a tremendous job and the Marshalltown community in Iowa have provided strong support. We still have a ways to go, but we expect to come out of this even better positioned than before. 
+ 
+ 
+The change in the 2018 financial estimates come from a clearer view on customer dynamics in the near term relative to our original round number estimates. For example, with the Lennox high-efficiency equipment shortages, we are seeing a lower number of visits to our PartsPlus stores during this time and lower sales of accessories, parts and supplies. We have maintained close relationships and strong lines of communications with our dealers. And we remain confident that we will win this short-term borrowed market share back, given the many reasons these customers were doing the majority of their business with us in the first place. 
+ 
+ 
+Looking ahead to 2019, we are introducing a view on the tornado impact on our core business for next year. We're estimating approximately $85 million of impact to revenue, and $35 million to segment profit and $0.70 to EPS. To reiterate, the lost profits in 2019 are fully covered by insurance and we expect to receive the proceeds in the same year. 
+ 
+ 
+Below the line for 2018, noncore special pretax charges related to the tornado are still expected to be approximately $80 million, offset by insurance proceeds in 2018. In the third quarter, we had $49 million of these charges offset by $49 million of insurance recovery. 
+ 
+ 
+Below the line for 2019, we're estimating noncore special pretax charges relating to the tornado impact of USD 15 million. We expect these to be more than offset by insurance proceeds in line with the cost to replace. 
+ 
+ 
+Turning to the business results as reported today. For the company overall, revenue on a GAAP basis was $1.03 -- excuse me, was $1.03 billion, down 2%. On an adjusted basis, excluding noncore Refrigeration business in Australia, Asia and South America divested in 2018, revenue was up 2% to a third quarter record $1.02 billion. Foreign exchange was neutral to revenue. 
+ 
+ 
+On a GAAP basis, operating income was $145 million in the third quarter, down 6%. GAAP EPS from continuing operations was a third quarter record $2.65, up 8%. On an adjusted basis, total segment profit declined 3% to $155 million. Total segment margin was down 80 basis points to 15.2%. Adjusted EPS from continuing operations rose 8% to a third quarter record of $2.72. 
+ 
+ 
+Turning to the key points on our business segment for the third quarter. Our residential, commercial businesses set new record highs for revenue and Refrigeration set a new all-time high for segment margin. 
+ 
+ 
+In residential, of course, impacted by the tornado, revenue rose 1%, profit was down 1% and segment margin was down 40 basis points to 19%. Residential revenue from replacement business was up low single digits and new construction was down low single digits. 
+ 
+ 
+Turning to commercial. Revenue was up 2%, segment profit was down 7% and margin was down 170 basis points to 16.9%. Commercial's performance was impacted by the lumpiness of shipments in our commercial national accounts equipment business, lower factory productivity and the timing of about $2 million of expenses on a year-over-year basis. 
+ 
+ 
+Breaking down commercial revenue for the third quarter. National account equipment revenue was down low single digits compared to 20% growth in the prior year quarter. Year-to-date, National accounts revenue was up low single digits, which includes being up low double digits in the second quarter and flat in first quarter. As is typical, not straight-line growth here. As we look at the first 3 weeks of October, the backlog is strong, up double digits, and we are tracking to having a strong growth in the fourth quarter. 
+ 
+ 
+For our local and regional commercial businesses in the third quarter, revenue was up mid-single digits. Overall for North America equipment, revenue was up low single digits at constant currency. Replacement revenue was up high single digits and new construction was down high single digits at constant currency. On the commercial service side, Lennox account services revenue was up high teens. In Europe, commercial HVAC revenue was down low double digits as market softness continues. 
+ 
+ 
+Turning to our core Refrigeration business. Revenue was up 4%. In North America, constant currency revenue was up mid-single digits. In Europe, the constant currency revenue was also up mid-single digits, led by double-digit growth in our nonfood Refrigeration business. Refrigeration profit rose 19% in the third quarter and segment margin expanded 190 basis points to 15.4%. 
+ 
+ 
+We completed the last of the divestitures planned for this year, closing on the sale of our South America business in the third quarter. In the second quarter, we closed on the sale of our Asia and Australia businesses, as well as the sale of real estate in the Sydney area. Total net proceeds from these transactions were $116 million. 
+ 
+ 
+Overall for the company, price/cost was favorable in the third quarter. We had $27 million of price benefit, more than 2.5% of revenue, which more than offset commodity, freight and tariff headwinds in the quarter. We have even more confidence on price for 2018 and are raising our guidance for price benefit from $75 million to $80 million for the year. 
+ 
+ 
+We plan to repurchase $100 million of stock in fourth quarter for a total of $450 million this year as we look forward to a strong close to 2018 and ahead to 2019. We remain focused on normalizing residential production and continuing to execute on our corporate initiatives to drive company performance and shareholder value. 
+ 
+ 
+Now let me turn it over to Joe to talk more in detail about third quarter performance and the full year outlook. 
+ 
+ 
+Joseph William Reitmeier 
+Executive VP & CFO 
+ 
+Thank you, Todd, and good morning, everyone. I'll provide some additional comments and financial details on the business segments for the quarter, starting with Residential Heating & Cooling. 
+ 
+ 
+In the third quarter, revenue from Residential Heating & Cooling was a third quarter record $595 million, up 1%. Volume was down 2%, price was up 3% and mix was relatively flat. Foreign exchange was neutral to revenue. Residential profit was $113 million, down 1%. Segment margin was down 40 basis points to 19%. Segment profit was impacted by the tornado and the business had lower volume, higher commodity, freight, distribution and other product costs and unfavorable foreign exchange in the quarter. Partial offsets included higher price, sourcing and engineering-led cost reductions, factory productivity and lower SG&A expenses. 
+ 
+ 
+Turning to our Commercial Heating & Cooling business. Commercial revenue was a third quarter record $276 million, up 2%. Volume was up 1%, price was up 1% and mix was flat. Foreign exchange was neutral to revenue. Commercial segment profit was $47 million, down 7%. Segment margin was 16.9%, down 170 basis points. Segment profit was impacted by higher commodity, freight, distribution and other product costs; higher SG&A expenses; and unfavorable foreign exchange. Partial offsets include higher volume, favorable price and sourcing and engineering-led cost reductions. 
+ 
+ 
+In our Refrigeration segment, which excludes the noncore businesses in Australia, Asia and South America that we divested this year, revenue in the third quarter was $153 million, up 4%. Volume was up 4%, price was up 2% and mix was down 2%. Foreign exchange was neutral to revenue. By region, on a reported basis at actual currency, North America and Europe were both up mid-single digits. Refrigeration segment profit was $24 million, up 19%. Segment margin was 15.4%, up 190 basis points. Segment profit was impacted by higher volume, higher price, sourcing and engineering-led cost reductions and lower SG&A expenses. Partial offsets include higher commodity and freight costs. 
+ 
+ 
+Overall for the company on an adjusted basis, the third quarter had a net after-tax charges of $2.4 million. This included $2.4 million for the net loss on the sale of business and related property, a total of $3.1 million for various other items and a $1.7 million benefit for excess tax benefits for share-based compensation and a $1.4 million net benefit for other tax items. Corporate expenses were $28 million in the third quarter, up from $24 million in the prior year quarter. 
+ 
+ 
+Overall, SG&A on a GAAP basis was $149 million in the third quarter or 14.5% of revenue, down from 15.1% in the prior quarter. On an adjusted basis, SG&A as a percent of revenue was 14.4% in the third quarter, down from 14.5% in the prior year quarter. 
+ 
+ 
+Net cash from operations in the third quarter was $266 million, including $45 million in cash from insurance proceeds, compared to $177 million in the third quarter a year ago. Capital expenditures were $18 million compared to $17 million in the prior year quarter, and free cash flow was approximately $248 million compared to $160 million in the third quarter a year ago. 
+ 
+ 
+Total debt was $1.13 billion at the end of the quarter, and we ended September with a debt-to-EBITDA ratio of 1.9. Cash and cash equivalents were $46 million at the end of September. The company paid $26 million in dividends in the third quarter. 
+ 
+ 
+Before I turn it over to Q&A, I'll review our current outlook for 2018. Our underlying market assumptions for 2018 are unchanged. For the industry overall, we still expect North American residential HVAC shipments to be up mid-single digits. We expect North America commercial unitary shipments to be up low single digits. And we expect North America Refrigeration shipments to be up low single digits. We are reiterating our 2018 guidance for GAAP revenue growth of 2% to 4% and for an adjusted revenue growth of 4% to 6%. 
+ 
+ 
+We are updating our 2018 guidance for GAAP EPS from continuing operations from $8.38 to $8.78 to a new range of $8.11 to $8.51. We are updating 2018 guidance for adjusted EPS from continuing operations from $8.90 to $9.30 to a new range of $8.70 to $9.10. The updated GAAP and adjusted EPS ranges include the additional $0.20 of tornado impact expected this year, $0.17 of which were in the third quarter. This will be the -- this will be a benefit to 2019 upon receipt of insurance proceeds next year. 
+ 
+ 
+Now let me walk you through the various puts and takes in our 2018 guidance, starting with the ones that are changing. As Todd mentioned, we are raising our guidance from price from $75 million to $80 million on even more confidence on capturing yield this year. And as we look ahead to 2019, our commercial business has already announced a price increase of up to 4% to be effective January 1. 
+ 
+ 
+For commodities, we now expect $45 million of headwind for the full year, down from our prior guidance of $50 million. Freight expenses are now expected to be $25 million for this year, up from the prior guidance of $20 million. And we now expect $30 million of savings from our sourcing and engineering-led cost reduction programs, down from prior year guidance of $35 million. 
+ 
+ 
+For the 2018 guidance points that remain the same. Foreign exchange is expected to be neutral for the year. Tariffs are still a $5 million headwind for 2018. We still see $7 million of savings from our residential factories as we focus on automation at our U.S. plants and other productivity initiatives. Our distribution investments are a $10 million headwind. SG&A is still expected to be about $10 million over last year, and the corporate expense target for this year remains approximately $85 million. 
+ 
+ 
+Now just a few other guidance points. Net interest expense is expected to be a bit over $35 million for the full year. Tax rate guidance remains 22% to 24% on an adjusted basis for the full year. Capital expenditures are still planned to be approximately $100 million, excluding the impact of the tornado repairs. We are planning a total of $450 million of stock repurchases for the full year and are reiterating guidance for an average diluted share count of approximately 41 million shares on a full year basis. And we are still targeting approximately $395 million of free cash flow for the full year. 
+And with that, let's go to Q&A. 
+
+ 
+
+Question and Answer 
+ 
+ 
+Operator 
+ 
+[Operator Instructions] Our first question is from the line of Jeff Hammond with KeyBanc Capital Markets. 
+ 
+ 
+Jeffrey David Hammond 
+KeyBanc Capital Markets Inc., Research Division 
+ 
+Just -- so on the impact, one, what's informing the higher amount for '18? And then what does that -- the $85 million, when does that imply that you'll be back to normal production by? And then just also, it looks like you're using lower incremental margins or margins on the '19 impact. If you could just kind of touch on why that is. 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+Let me see if I get all parts of the question. If not, jump back in and correct me. First one, I think the first part of the question is why did we sort of raise the '18 guide for the tornado impact? And I think I'd answer it a couple of ways. One is the first guide we gave was about 3 weeks after the tornado when we did a high-level estimate of round numbers, and I sort of made the point $100 million was a big, round number. $100 million of revenue and $55 million of segment profit or $1.05 of EPS for 2018. We've refined those estimates now that we're several -- 2, 3 months into this thing and we've got further along and have a clearer view, quite frankly, on the customer dynamics in the near term. And as I said on the call -- or on the script, operationally we're ahead of or at where we thought we'd be on sort of building a product ramping up. It just reflects our customers are buying, specifically as I mentioned on the script about the attachment rate of parts and supplies and accessories to when we sell major pieces of equipment. I think the other part of the question was just operationally, where do we stand and when we're being ramped up? When we look at full production capability for Lennox Residential, and this includes all 3 residential factories, Marshalltown, Orangeburg and Saltillo, and that's how I'll talk about it, sort of full production capability. In Marshalltown, the heating product section of the factory had the most damage and the cooling product section had relatively less damage. So for cooling products, we expect Lennox to be back up to full pre-tornado production capability early in fourth quarter in '18, so here in the next month or so. For heating products, we expect Lennox to be back up to full production capability in first quarter of 2019. We will have a bit of lag from the perspective of fully meeting market demand due to having to catch up on rebuilding our inventory in the channel. And so sort of the tornado impact, if you will, will sort of bleed into second quarter, even though we are up to full production, as we'll have to sort of ramp up to build even more inventory. And I think the other question is, why was the drop-through different in '19 versus '18? This is a function of the mix of products and the product tiers impacted. And really, so to shorthand, I'd point to furnaces are more profitable than air conditioners, and we are more impacted by furnaces in 2018 than we will be in 2019. I think that's everything you asked. Okay? 
+ 
+ 
+Jeffrey David Hammond 
+KeyBanc Capital Markets Inc., Research Division 
+ 
+Okay, yes. Yes, you covered it great. And then just -- can you just talk about how you're thinking -- you mentioned the price increase in commercial, how you're thinking about price/cost as you move into '19? And then you lowered the material cost savings bucket for this year. How should we think about that bucket into '19? I'll get back in queue. 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+We lowered the price -- or excuse me, the material cost reduction bucket, just reflecting sort of more inflation because, again, this is always a net number. I also mentioned on the call that third -- yes, third quarter, we turned the corner. I got quarter and corner mixed up. In third quarter, we  turned the corner and had $27 million of price more than offset commodities, freight and... 
+ 
+ 
+Joseph William Reitmeier 
+Executive VP & CFO 
+ 
+Tariffs. 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+Tariffs, excuse me. And as we go into 2019, that's clearly going to be the case as we're setting up now and as commodities move on us very quickly. We have announced a commercial price increase. We thought it was, quite frankly, bad form to announce a residential price increase right now with all the moving pieces. But we're clearly going to announce a residential and Refrigeration price increase as we go into 2019. I'll give more specific math at the December Analyst Day. But price, commodities, tariffs and freight will be a net positive to us in 2019. 
+ 
+ 
+Operator 
+ 
+Next, we go to the line of Steve Tusa with JPMorgan. 
+ 
+ 
+Charles Stephen Tusa 
+JP Morgan Chase & Co, Research Division 
+ 
+Thanks for all the detail on the unfortunate situation there. Just on the market. You guys were down in resi and in new housing-related business. Can you maybe just discuss what you think kind of the markets have done this quarter? So -- just so we can kind of figure out where the impact for you guys is kind of most pertinent. Or maybe it's split between the 2, new housing versus replacement in resi. 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+I think it's split between the 2. And I -- when -- we really started seeing a tornado impact in September. So the vast majority -- I don't want to say all, but the vast majority of the tornado impact was in September. In July and August, we were off to a strong start in residential, both in new construction in and out on replacement. And to give a read through to the other guys, I think the market was pretty strong in the third quarter. August -- July and August, we were up mid to high single digits in residential, both segments of the marketplace. And then obviously, we saw -- as we started to run out of equipment, we saw the impact in September. And I think the weather was reasonably good in September. So I think overall, the market was probably strong for the quarter. 
+ 
+ 
+Charles Stephen Tusa 
+JP Morgan Chase & Co, Research Division 
+ 
+Got it. And then with regards to tariffs, what are you -- this new round that's come out -- or at least the new couple rounds, I can't even keep track anymore. But what -- how are you kind of thinking about that specifically for now for 2019? And how much of that impact, I don't know if you gave it yet, but what is the specific impact that you think from that on 2018? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+For 2018, we think the overall impact's $5 million, and that's the guide. And again, that's included what's been implemented, what's been announced with detail, but doesn't include any tweaks that sort of even add more to it than that. So it's sort of -- it's what you can do the math on. We think that 2018, order of magnitude, is going to be $5 million. And then I've publicly said that's, in essence, sort of less than 0.5 years, and so 2019 is going to be something probably a little over twice that. And then the other point I'd like to make is we're proactively taking action. I'm not sure the Chinese tariffs are going to be a short term, and so we're taking action to sort of avoid the tariffs by moving to Southeast Asia and other low-cost countries that can meet our requirements. 
+ 
+ 
+Charles Stephen Tusa 
+JP Morgan Chase & Co, Research Division 
+ 
+And that's the gross number, that just basically taking what you buy and kind of marking it up by the amount of the tariffs? Or is that kind of the net number? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+It's sort of the -- it's the net number. So the $5 million is what -- order of magnitude, $5 million is what we expect to see on the P&L. And we haven't guided -- haven't guided yet on '19, but I would sort of take over twice that amount and sort of -- if I was building a model and assume that for '19. 
+ 
+ 
+Charles Stephen Tusa 
+JP Morgan Chase & Co, Research Division 
+ 
+Okay. And that -- and again, just to be clear on this, because there's a lot of -- everybody's kind of approaching their communications around this in different ways. That, that would reflect the new round of stuff that's coming through at kind of a higher rate, correct? So that's the -- that would reflect the incremental. Okay, got it. All right. And then just one more. You talked about doing something in resi, but obviously, not exactly the right time to go through with something additional. There have been others that have gone through with other price increases. Is there a sense that if you did go out with something in resi here in the near term, excluding the tornado impact, that customers have yet to kind of push back on that price? Or everybody is generally understanding of the, i.e., price discipline in the industry and acceptance of that price is still pretty strong in the channel? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+I think I'll unpack it a couple of ways. To that question, I'd say, which is a direct question, customers expect price increases. And several of our competitors have announced some things, we announced in commercial [ mix ]. They're not surprised, they're accepting it, point one. Point two is we raised our price guide in 2018 from $75 million to $80 million. And that $5 million's -- I think I'm comfortable saying it's exclusively residential. So quite frankly, we didn't have to announce a price increase. It's always about the yield and how you hang on to it. And so we're getting better price yield in residential, just like we speculated, we might, given the shortage of inventory. But we didn't want to announce something new. We're just sort of continuing to toe the line and getting a better yield than what we thought we were. And then as we go into '19, we're confident, again, that we'll announce another price increase and get more price in 2019, both in res and in our other businesses. 
+ 
+ 
+Charles Stephen Tusa 
+JP Morgan Chase & Co, Research Division 
+ 
+Okay. Sorry, one more quick one. Sorry to dominate the early innings here. You made some comments at a recent conference, a competitor conference, that you kind of opined on consolidation in the industry. And you said that you believe that there could be consolidation among the top 4 resi guys out there, despite what looks like a reasonably consolidated situation. Can you maybe just clarify that? Or maybe I read that in the transcript the wrong way. Can you maybe clarify what you said there on industry consolidation of, potentially, 1 of the top 4 resi guys? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+I was asked the question. I think you got it, what I said, pretty close. I always get in trouble when I opine, so maybe strike the opine. I asked a question, answered a question. But I don't know York's residential market share, but I think it's -- has 1 digit in it. And so I think they could combine with other players in the industry, certainly could combine with us. I think their commercial unitary share starts with 1 digit. And then their applied is a larger part of the business. But they -- so the York business can certainly combine with us. And when I look at the other Residential businesses, it's other players. Again, I think they can combine with York or maybe even us. So I think those are -- that was sort of the broad question of, did I think anything was prohibit -- or are there things that couldn't happen? Certainly. But are there combinations that could happen? Certainly. 
+ 
+ 
+Charles Stephen Tusa 
+JP Morgan Chase & Co, Research Division 
+ 
+Right. I guess you commented on York very specifically. Can you comment on Carrier very specifically? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+I'm not -- unless -- their share starts with 2 digits, I know that. And then beyond that, I'm not exactly sure where they're at. So my guess is they could combine with us. I think they could -- well, certainly, they could combine with York and I think they could combine with us, but I don't know that for certain. And it also depends, what's being enforced at the time. But I think it would be -- I don't know the exact number because I don't know Carrier's share. 
+ 
+ 
+Operator 
+ 
+Next we'll go to Jeffrey Sprague with Vertical Research Partners. 
+ 
+ 
+Jeffrey Todd Sprague 
+Vertical Research Partners, LLC 
+ 
+Well, I can't help but to pick up on that. It's a good thread. 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+You guys are a feeding frenzy on industry consolidation. 
+ 
+ 
+Jeffrey Todd Sprague 
+Vertical Research Partners, LLC 
+ 
+At least we're not talking about tornadoes, right? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+Yes. I know for a fact Greg knows the Carrier share, so you should ask him. 
+ 
+ 
+Jeffrey Todd Sprague 
+Vertical Research Partners, LLC 
+ 
+We think you know it, too, but we won't press you. Does consolidation make sense? What would be gained, in your view, given kind of this great pricing discipline that we're observing, especially in the resi business? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+So I mean, industry consolidation, obviously with the caveat of at the right price. But I think it would be traditional, horizontal integration of an industry. So -- and I would view it as distribution forward, so consolidating factories, consolidating supplier spend, taking out SG&A, taking out corporate expenses. We're making significant investments, we as a company, in digitization of the business; significant investments in control systems. Again, that could all be leveraged over a larger-volume business. We have a great Mexico campus, most of our competitors on residential don't. And so the ability to leverage that Mexican campus to lower cost. And so I just sort of think traditional cost takeouts in an assembled product business like we have, I think you could create lots of synergies. And then again, it'd have to be at the right price. But I think it's clear industrial logic of how we take out costs. 
+ 
+ 
+Jeffrey Todd Sprague 
+Vertical Research Partners, LLC 
+ 
+And how about on the distribution side, Todd? Some companies have chosen to kind of third-party their distributions. Others like you own it. Putting that type of footprint together, do you see any particular challenges there? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+My experience, haven't seen this done at other places open at, is I think the challenge is to make sure you don't lose market share when you rip all the costs out of the back end. And so we -- my perspective on it would be in an industry like this, when you consolidate, that there would be some period of time when you leave distribution alone. And so whatever it was, you optimize it and manage it as it was. I don't think you want to sort of go from one model to another model quickly. But the investments that a company was making in digitization and support of your contractors, whether it was company-owned distribution, a JV or independent distribution, you could leverage those investments with those distributors. So I don't think you would have to physically make a change in distribution to leverage some of the investments that a company was making. 
+ 
+ 
+Jeffrey Todd Sprague 
+Vertical Research Partners, LLC 
+ 
+And then just one on the quarter for me, just to kind of make sure I've got my head around really what's going on in your margins, right? So the resi margins we're seeing today, obviously, you have a revenue impact on the top line, but you have little or no overt profit impact on insurance recoveries, right? So we can kind of calculate an underlying margin that's lower than your headline margin. Is that difference primarily this negative, I'll call it ripple effect for a lack of a better term, in the PartsPlus and other parts of your business? Or how would you characterize that? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+I'm not sure I understand the question. You had me right to the end when you started talking about PartsPlus. 
+ 
+ 
+Jeffrey Todd Sprague 
+Vertical Research Partners, LLC 
+ 
+Well, I'm just saying your underlying margins, arguably, were down, right? And I'm just trying to understand the composition of that in resi. 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+I'll ramble and see if I answer the question. So I mean, the margins were down because of the tornado impact on revenue and the corresponding impact on EBIT, is why they were down. And even from the guide that we've given earlier, which was $120 million and $55 million of EBIT, 1/3 of it in the fourth quarter, we're now saying it's 40% in third quarter and the overall number is going up to $65 million of EBIT and $120 million of revenue. And we performed extremely well in residential. So if I understand the question right, it's all because of the tornado. 
+ 
+ 
+Operator 
+ 
+Next, we go to the line of Julian Mitchell with Barclays. 
+ 
+ 
+Julian C.H. Mitchell 
+Barclays Bank PLC, Research Division 
+ 
+So maybe just trying to stick to 2 questions. The first one on the commercial business. If there was any extra color you could give on U.S. trends as they stand today. And also on the margin front, margins were down a bunch in the third quarter, how quickly do you think that comes back? And any extra detail you can give on the factory productivity you cited. 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+First, talking about commercial, and I talked about it in the call, I think, at some detail. It's just the lumpiness in national accounts. And so we feel confident in fourth quarter, still a lot of work in front of us, but through the first 3 weeks of our quarter, backlog is strong, up double digits, and we're tracking to have another strong revenue quarter for commercial in fourth quarter. And so second quarter -- first quarter, we were flattish in commercial; second quarter, we were up 18%; third quarter, we were flattish; and fourth quarter, we're going to have strong revenue growth. In terms of the margin, as I mentioned in the call, it was impacted by a couple of things. One was the timing of some expenses, just sort of year-over-year differences of when you make adjustments for expenses like warranty and LIFO without getting too accounting on -- count-y on you. And then the other one, I think more operational, was we had some factory productivity issues in third quarter. And really, what's driving the factory productivity issues is we're seeing labor shortages in our Stuttgart facility, and we've been addressing it with overtime and extra shifts to be able to meet customer demands. And we're in the process of staffing up with full-time workers. We've historically used quite a bit of temporary workers, now we're moving to full-time workers and converting the temp workers to full-time workers. And this will have -- the issue around labor productivity and not having enough folks will have impact in Q3, and we'll also see if it bleed off into Q4. So when on the fourth quarter call, I'll also be talking about this because it just takes while to get it in place. But we expect to have it full resolved by first quarter of 2019. 
+ 
+ 
+Julian C.H. Mitchell 
+Barclays Bank PLC, Research Division 
+ 
+Thank you for the detail. My second question would be on Refrigeration. One of your peers had talked about the retail Refrigeration market maybe bottoming out. Your own revenue growth numbers suggest you're taking some share. So maybe just any commentary on how you see the market in the U.S. retail Refrigeration. 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+I still think it's tough. I mean, Dover refers to it at retail refrigeration, we refer to it as grocery, I assume that's what you're talking about. And that has the biggest impact also in our Kysor/Warren segment. We still saw revenue down in KW even though we were up in North America. Where we're seeing the growth in our North America business is driven -- the year-over-year growth is in large part driven, cold storage. And so it's not the retail segment or the grocery segment, it's sort of other parts of the cold storage channel -- or cold chain, cold storage market, where we've seen the growth. 
+ 
+ 
+Operator 
+ 
+Next is the line of Gautam Khanna with Cowen. 
+ 
+ 
+Gautam J. Khanna 
+Cowen and Company, LLC, Research Division 
+ 
+I was wondering, Todd, could you just talk a little bit about your confidence level in recapturing the share that you're sort of giving up in the interim while you're recovering from the tornado? What specifically can you do to kind of -- what gives you that confidence? And what are you doing to make sure, on the other side of it, we're not going to see an impact at PartsPlus or elsewhere? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+Yes. I mean, we're working hard to do that. And I mean, as I've spoken about before and you've heard me say, kind of I'll say it for everybody else, is we're communicating very clearly with our dealer partners. We're out there daily talking to them about what we have and when we're going to have it back and allowing them to make the transition, I've used the phrase a week early rather than a week late. So we don't want to run out of equipment and then have them feel the pain. So we want -- we'll feel the pain and allow them to move over. I think that honest, open communication helps a lot. And then the second thing is going to be on the flip side, that as we reach full production capability, and as I spoke about, we expect air conditioners in fourth quarter and furnaces in first quarter will be up full production capability. That as we start to make new commitments to people and turn them back on, that we execute against those new commitments. So we don't let them down on the way down and then we don't let them down on the way back up, and we're very focused on doing that. Overall, we have a loyal Lennox dealer base. And as I've mentioned also on prior calls, almost all dealers carry multiple brands, and we think the majority of this borrowed share will be someone who did business with us and with competitor b and they'll move some volume to competitor b while we're not able to provide supply. And then when we come back online, they will move the share back to us. And so we're very focused on this and we'll put incentives in place for our sales guys and sort of do all the right things to make sure we have laser-like focus in '19. But we're committed to doing that. 
+ 
+ 
+Gautam J. Khanna 
+Cowen and Company, LLC, Research Division 
+ 
+Okay. And just a quick follow-up on just the national account equipment and service pipeline as you look out to 2019. Can you make any comments on how rich an environment it is? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+'19, little early to sort of speculate or even give guide because the order book tends to fill up 3, 4, 5 months ahead of its sale. So '19 is still very early. And then the other caveat I'd make is we always know much more about national accounts once we get through the Christmas selling season. That retail, while we've reduced our exposure to that, is still about half of our national account business. And so getting a better take on the Christmas selling season will help us. All that being said, retail is strong right now. Consumers are spending money. Consumers feel good. Retailers are spending money on things they weren't 1 year or 2 ago in our industry. So we feel pretty good as we go into '19. But we'll give more of a guide at the December Analyst Day. 
+ 
+ 
+Operator 
+ 
+Next, we go to the line of John Walsh with Crédit Suisse. 
+ 
+ 
+John Fred Walsh 
+Crédit Suisse AG, Research Division 
+ 
+So I apologize if I missed it. But as we think about the moving parts for the free cash flow, can you help us think about maybe a finer point on this year and then next year as you're looking to rebuild inventory? And how that kind of impacts the conversion ratio? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+I don't think we've gone into that kind of detail quite yet about sort of how it's going to impact. I mean, I would point out we had a very strong quarter in cash generation in third quarter, and so we continue to generate cash. But we sort of haven't put a fine-tooth answer about the inventory bleed-out and the inventory rebuild. The only point we made on cash is that the below-the-line impact of $80 million, I'm looking at Joe to make sure I have that number right, that we'll expect to have [ minimal ] cash proceeds to offset that so we'll be neutral on cash on the below-the-line charges, if you will. And then third quarter, we saw that [ $47 million, $47 million ] on the offsets. And then for the above the line impact, sort of the core impact, we expect to have cash proceeds in 2019 to offset the EBIT miss or the EBIT that will shift -- or that we're not going to get in 2018 because of the lost revenue, we'll get that back in EBIT payout from the earn -- payout from the insurance companies in cash in 2019. 
+ 
+ 
+Joseph William Reitmeier 
+Executive VP & CFO 
+ 
+And we are compensating with the lost profits which are a proxy for cash flow. We're going to obviously offset that or compensate with lower investments and working capital inventory which, will keep us whole and on target for the $395 million for the full year. 
+ 
+ 
+John Fred Walsh 
+Crédit Suisse AG, Research Division 
+ 
+Okay. And then can you just remind us, your comfortability or where you're comfortable taking the balance sheet in terms of leverage? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+Yes, we've said our guide has been 1.5x to 2x debt-to-EBITDA, and that allows us to remain investment grade and we think that's an important place to be in an uncertain world. And then we always put the caveat around that, that for the right opportunity to create shareholder value, we would look to go higher with a path to come back down, that it's an industry that others, like a Goodman, have gone private over the years a couple of times and have had debt-to-EBITDA maybe twice that amount and have been fine with it, and I think we would be, too. But I don't think I'd want to do that just as a natural course of events. I think if we had something that could create real shareholder value, like an industry-consolidating acquisition, we would think about it. But in a more normal course of business, I think the right balance approaches 1.5 to 2. 
+ 
+ 
+Operator 
+ 
+Next, we go to the line of Rich Kwas with Wells Fargo. 
+ 
+ 
+Richard Michael Kwas 
+Wells Fargo Securities, LLC, Research Division 
+ 
+On price, so I think the guide implies $22 million for the fourth quarter, you did $27 million in Q3. What drives it down in terms of the contribution, given the number of price increases this year? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+I think it's just the volume, that the third quarter's seasonally higher volume. 
+ 
+ 
+Richard Michael Kwas 
+Wells Fargo Securities, LLC, Research Division 
+ 
+Okay. And then the lap-over benefit into '19 should be meaningful, right? I mean, you'll be comping against some contribution, but it should be a decent contributor, right? That's the way we should be thinking about it? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+Yes, I mean, I think you could -- so to shorthand, I would take the $50 million that we initially gave and sort of assume how much of that was in first half of the year versus second half of the year, and then we've now raised it to $80 million. And that incremental $30 million is all second half of the year. And you might even expect even sort of more back end loaded than that. So I think if you sort of do some of that, and then you lay on top of that some new price that we would announce going in 2019, I think you can start back into a number that's going to be meaningful, and as I said, will offset the inflationary pressures we're feeling from commodities, freight and tariffs. 
+ 
+ 
+Richard Michael Kwas 
+Wells Fargo Securities, LLC, Research Division 
+ 
+Cost base should start coming down, too, as '19 plays out, right? Even with the hedges. 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+Say it again? 
+ 
+ 
+Richard Michael Kwas 
+Wells Fargo Securities, LLC, Research Division 
+ 
+The cost base should start getting incrementally improved, even with the hedges, as we start rolling through '19, right? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+If commodities continue on the trend they're on, yes. 
+ 
+ 
+Richard Michael Kwas 
+Wells Fargo Securities, LLC, Research Division 
+ 
+Yes, okay. And then just on -- as you think about affordability, I mean, everybody's -- some have put through 3, you've put in a couple, you're going to put in another one, there's going to be another price increase on the residential side across the board, one would think, at the start of the year. Any impact on mix as we think about mix had started to get better for everyone. How should -- how do you see this playing out over the course of '19 on the resi side? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+I'm not sure I understand the question per se. I mean... 
+ 
+ 
+Richard Michael Kwas 
+Wells Fargo Securities, LLC, Research Division 
+ 
+Well, let's just say, 13 SEER. I mean, is there -- does the incremental buyer come in on the remodel side and say, "I'm not going to do 17 SEER, I'll do 14 SEER because mortgage rates are up and I'm not going to -- I bought a house, I'm not going to up the ante with regards to the efficiency because the cost is..." 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+No, I think maybe on the margins, but I think when people sit down and do the economics on most markets -- or -- in the northern markets, you're going to be in the house 3 to 5 years, it makes sense to get a premium furnace. And if you're in the south and you're going to be in a house 3 to 5 years, it makes sense to get a premium air conditioner, and that's just the math of it. And I don't think that changes with incremental interest rates. The other point around our pricing power, as you know, half the cost of a unit's labor and they buy 1 every 15 years. So our ability to continue to raise price in the marketplace is driven more about at the dealer level and what competitors do rather than the homeowners' willing to accept it. 
+ 
+ 
+Richard Michael Kwas 
+Wells Fargo Securities, LLC, Research Division 
+ 
+Okay, right. And then just last one, real quick on Commercial was -- did you say new construction was down high single digits in the -- in North America? Did I catch that right? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+Yes, correct. And I think that was -- and that was driven in large part by national accounts. 
+ 
+ 
+Operator 
+ 
+Next, we go to the line of Steven Winoker with UBS. 
+ 
+ 
+Steven Eric Winoker 
+UBS Investment Bank, Research Division 
+ 
+Todd, I just want to come back to the consolidation comments again. So we've been talking about consolidation on and off for 20 years. The industrial logic's generally always been there. If you sort of think about what dynamics have changed now to make that increasingly likely, despite some of the moves that have already taken place, what do you think are the biggest factors that would actually make that more realistic in the industry today than, say, it's been in the past decade? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+Well, I'm just pausing to make sure I answer the question in a way that, when the transcript comes back to me, I'm happy with what I said. So I think... 
+ 
+ 
+Steven Eric Winoker 
+UBS Investment Bank, Research Division 
+ 
+Always wise. 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+Yes. I think I'd answer it this way. I -- we've always talked about focus wins and that the best place to be as a corporation is to be large enough to be at scale and then be focused on industries. And I think, at least in my business lifetime, there's never been a time where the investment community feels the same way. And I think corporate leaders feel the same way. And so that's another way of saying industrial conglomerates are under pressure. And having -- at least 2 players in our industry are owned by industrial conglomerates who, from everything I read, are reviewing their portfolio of businesses. And so I think there's sort of more optimism that maybe one of them or both of them will decide to do something with their portfolio that could make assets available. 
+ 
+ 
+Steven Eric Winoker 
+UBS Investment Bank, Research Division 
+ 
+Okay, so willingness to sell on that front. So secondly, just going to the replacement demand in a little more detail. I know it's got to be a little hard to tell with working through all of the mitigation actions and recovery on the tornado front. But just sort from a market level I guess as you -- and you talked about a little bit earlier, I think, on new construction. What are you seeing in terms of replacement demand on the resi front? Resi, light commercial, too? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+On -- still remains strong, Steve. And so July and August, our replacement business was up mid to high single digits. And then it -- obviously, it slowed down in September, and that's what you see in the reported numbers. And I think September was warm enough and sort of a good enough month that my guess is our competitors will talk about a market that was up mid to high single digits. 
+ 
+ 
+Steven Eric Winoker 
+UBS Investment Bank, Research Division 
+ 
+And where are you thinking we are in terms of the overall cycle? Again, exclusive of what you guys have been personally experiencing with the tornado. But as you sort of look out on the timing, how would you characterize it? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+What we've publicly said, and continue to be the case in my mind, is that we think there's another 3 to 5 years of mid-single digit growth in residential, and this reflects the echo of all those homes that were put in, in the new housing bubble in the early, mid-2000s. And that continues to sort of bleed into the replacement market. And that analysis that we did, there's a bell-shaped curve around this number, but on average, units lasts about 15 years before there's a catastrophic failure that it has to be replaced. So when we do all that math, we think it's 3 to 5 years of mid-single digit growth. And again, that assumes sort of a neutral economy. It doesn't have to be 3.8% unemployment, just a solid economy. And then again, any given year, it can be swung by the weather. But we're still optimistic that this market still has legs. 
+ 
+ 
+Operator 
+ 
+Next, we go to the line of Ryan Merkel with William Blair. 
+ 
+ 
+Ryan James Merkel 
+William Blair & Company L.L.C., Research Division 
+ 
+Two quick questions for me. So first, Todd, you said as the Iowa factory recovers, you will come out of this stronger than before. Can you just expand upon this? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+Well, I think a couple of ways. One maybe where you're leading me is we're building capability in our other factories to manufacture and fabricate parts for premium product. And I think that transfer of knowledge and capability is important for longer-term capability of the company. I also just think that as we're sort of testing and challenging team members and they're rising to the occasion, and I just think the talent in our Iowa factory has been challenged and pushed, and my experience is the way you sharpen a blade is that way. And I think the blade of the Marshalltown factory is being sharpened and our capabilities are just being improved. 
+ 
+ 
+Ryan James Merkel 
+William Blair & Company L.L.C., Research Division 
+ 
+Got it. Okay. And then secondly, just to clarify. Is the tornado impact a pretty solid estimate now in your mind? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+I think where I'm most solid on is our production ramp-up, but that still has variables in it also. I mean, I'll be honest with you, there's still some pieces of equipment that are under wrap that we haven't broken out and started back up again after they've sort of been rained on and the tornado hit them. And so we still have some risk there. And then it's sort of our best guess on how the customer will play out. But I'd like to say we got all this nailed down, but this is virgin territory for us and we're giving you information as we know it. 
+ 
+ 
+Operator 
+ 
+Next question is from the line of Nigel Coe with Wolfe Research. 
+ 
+ 
+Nigel Edward Coe 
+Wolfe Research, LLC 
+ 
+We've covered a lot of ground here. I appreciate the detail, guys. Want to go back to price. I'd imagine that the problems you're having with the heating production makes this -- the market very, very tight as we go into the heating season. So I'm curious whether pricing actually improves short-term, i.e., in 4Q, from the 3% you showed this quarter. And then as you then come back online in 2019, does that then puts a little bit of deflationary pressure on industry pricing. So I'm just curious if you can just dig into pricing and maybe focus more on the near-term pricing impacts. 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+I think our guide of raising price from, full year from $75 million to $80 million for the corporation, the $5 million increase was really tied to residential and our ability to yield the price that we've already passed on. I don't think we will give price back in 2019. I think it will be the opposite, I think there will another price increase and we'll get even more in '19. So I think short answer is we've recognized some benefit of price -- increased price in '18. Maybe we do better, maybe we do a little bit worse, but we'll see. But that's our guide for today. And then in '19, we think we'll get even more price. 
+ 
+ 
+Nigel Edward Coe 
+Wolfe Research, LLC 
+ 
+But does the tightness in 4Q on the heating side mean that rebating and discounting activity might be more moderate and therefore realized price goes higher in 4Q? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+I think our attempt on raising the price guide by $5 million was our attempt to capture that. 
+ 
+ 
+Nigel Edward Coe 
+Wolfe Research, LLC 
+ 
+Okay. And then just quick on tariffs. You have obviously minimal impacts, based on what you know right now. Are all of your China imports wrapped into the current Lists 1 through 3 right now? So if we do get further actions, as List 4 or List 5, are you pretty much done at this point? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+Ask the question one more time, please? 
+ 
+ 
+Nigel Edward Coe 
+Wolfe Research, LLC 
+ 
+Yes. I'm just wondering, your China imports, are they all covered by Lists 1 to 3? Or are there some other potential impact if we do get a broadening of the tariff lists? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+I think the vast majority of what we did import from China is impacted from List 1, 2 and 3. But there may be some that aren't impact. So if we move to a sort of -- if the administration moves to tariffs on everything imported from China, there's probably some more risk. 
+ 
+ 
+Nigel Edward Coe 
+Wolfe Research, LLC 
+ 
+Okay. And just a quick one, Todd. Going back to the European weakness in commercial HVAC. Is that a broad impact that you're seeing across the whole market there? Or is it just lumpiness? And any comments on that European weakness would be helpful. 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+I think it's more broad in the European market. Early in 2018, there was a regulatory change in Europe regarding minimum efficiency and refrigerant policy, refrigerant that you can use. These changes, combined, added about, specifically on our rooftop business there, which is our largest business, these changes combined, added about 15% or so to the cost of a rooftop. And in the near term, leading customers slowed down their replacement cycle. So in 2018, there was some sticker shock as we and all our competitors had to make these changes and add cost to the system. As we've started to sort of go through the year, the market's absorbing the new reality. And quite frankly, they have to replace the units that they have and build new stores. And so the year-on-year comparisons will start to become more favorable in fourth quarter and certainly as we go into 2019. But I think in large part, it's an industry phenomena. 
+ 
+ 
+Operator 
+ 
+Next is the line of Walter Liptak with Seaport Global. 
+ 
+ 
+Walter Scott Liptak 
+Seaport Global Securities LLC, Research Division 
+ 
+Was hoping to go back to the balance sheet and just get some detail about the receivables were up pretty nicely. And I think typically this time of year, there's some seasonality to it, but it looked better. And I'm wondering what that was related to. And inventories presumably were down as you worked off any inventory that you were building for the heating season. But I wonder, can you talk about the inventory for the fourth and first quarter as well related to heating? And then when -- with production ramping for heating next year in the first quarter, is it early in the year or early in the quarter? Or is it late in the quarter? How do -- do you miss the heating season because you're -- as you're ramping production? 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+I'll answer the last part first. We're clearly missing some of the heating season, and that's reflected in the lost revenue guide that we've given. So short answer is we're missing some. Second point is we expect, by the end of first quarter, to be up and running in our heating production or have the capability to do heating production. And I would also say that we sell furnaces all year round. It's seasonal, but it's not as seasonal as air conditioners. Typically, when somebody's going to replace an air conditioning system, if it's a 10- or 15-year-old system, they will buy a new furnace also. And so there's an attachment rate of furnaces that go with that. In terms of the working capital flow, it's going to be off from where it's been in prior years because of the tornado impact. But I think about inventory being down because we're selling out of our product, our receivable's a seasonal effect where we typically have big third quarters, and we did -- not -- relatively not as well as we have traditionally done, but still up year-over-year revenue-wise, and that drove the receivable increases. 
+ 
+ 
+Joseph William Reitmeier 
+Executive VP & CFO 
+ 
+Yes. And I'd say the impacts that you see on working capital are directly related to the impacts of the tornado. 
+ 
+ 
+Operator 
+ 
+And we have no further questions. You may continue. 
+ 
+ 
+Todd M. Bluedorn 
+Chairman & CEO 
+ 
+Okay, great. Thanks, operator. To wrap up, we look forward to a strong close to 2018 as we remain focused on executing on all our corporate initiatives to drive company performance and shareholder value. We hope to see everyone on December 12 at our Annual Investment Community Meeting in New York as we look ahead to 2019 and our long-term plans. Thanks, everyone, for joining us today. 
+ 
+ 
+OperatorLadies and gentlemen, that does conclude your conference for today. Thank you for using AT&T TeleConference Service. You may now disconnect. 
+
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved. 
+ 
+ 
+These materials have been prepared solely for information purposes based upon information generally available to the public and from sources believed to be reliable. No content (including index data, ratings, credit-related analyses and data, research, model, software or other application or output therefrom) or any part thereof (Content) may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of S&P Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not be used for any unlawful or unauthorized purposes. S&P Global and any third-party providers, (collectively S&P Global Parties) do not guarantee the accuracy, completeness, timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions, regardless of the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS, SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions, quotes and credit-related and other analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do not address the suitability of any security. S&P Global Market Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and objectivity of their respective activities. As a result, certain divisions of S&P Global may have information that is not available to other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic information received in connection with each analytical process. 
+ 
+ 
+S&P Global may receive compensation for its ratings and certain analyses, normally from issuers or underwriters of securities or from obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made available on its Web sites, www.standardandpoors.com  (free of charge), and www.ratingsdirect.com  and www.globalcreditportal.com (subscription), and may be distributed through other means, including via S&P Global publications and third-party redistributors. Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees. 
+© 2020 S&P Global Market Intelligence. 
+
+Contents
+
+
+
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence2
+
+ 
+
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence1
+
+LENNOX INTERNATIONAL INC.  FQ3 2018 EARNINGS CALL   |    OCT 22, 2018
+
+
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.3spglobal.com/marketintelligence 
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.8spglobal.com/marketintelligence 
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.23spglobal.com/marketintelligence 
+
+COPYRIGHT © 2020 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved.24spglobal.com/marketintelligence 
+

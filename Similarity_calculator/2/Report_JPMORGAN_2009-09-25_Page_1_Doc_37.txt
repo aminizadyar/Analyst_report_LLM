@@ -1,0 +1,871 @@
+North America Equity Research
+25 September 2009
+
+McCormick & Co., Inc.
+Less Cloudy
+
+Neutral
+MKC, MKC US Price: $33.90
+ Price Target: $39.00
+Previous: $34.00
+
+Following the company's strong fiscal 3Q09 yesterday (McCormick beat by $0.03), we reiterate our Neutral rating, as we do not yet see sufficient upside. We also remain concerned about organic volume trends. The valuation has become more attractive, and we appreciate the clarity provided by management about the two biggest overhangs on the name: Walmart and pensions.
+· Beating the Street. McCormick reported a $0.57 fiscal 3Q09 (August) yesterday, three pennies above the consensus estimate. Revenues grew by 4.6% year-on-year, roughly in line with our estimate of 4.4%. Though the gross margin came in a bit lighter than we had modeled (40.3% vs 40.7%), it nonetheless improved by 70 bps year-on-year. The majority of the beat came from the SG&A line, where cost savings reduced the SG&A margin by 40 bps y/y. Guidance was raised to the top end of the $2.31-$2.33 range ex-items.
+· Clarity on Walmart and pensions. To McCormick's credit, management addressed two of the more important overhangs on the stock. For pensions, the company said that as of today it expects a $0.05-$0.07 hit in FY10 (this corresponds with our forecast -- contact us for a MKC pension model). Regarding Walmart, MKC said that WMT is not only testing shelf sets that are exclusively private label, but also sets that are exclusively McCormick for core spices/seasonings. If WMT likes what it sees from the latter test, then the changes from Project Impact could benefit McCormick.
+· We remain concerned about organic volume growth. Organic (ex-acquisition) volume in the important Consumer division fell by 2.4% y/y in 3Q, the third consecutive decline. This came despite a deceleration in price growth to 2.5% from 3.5% y/y. With the benefits of pricing rolling off and the Lawry's acquisition having been lapped, McCormick needs to drive volumes higher. This may require, as the company suggested yesterday, even greater marketing spending.
+· Valuation and price target. At 13.8x the consensus NTM EPS estimate, McCormick trails the group average by about 0.8x. We see no reason why MKC should trade above the group, but it probably shouldn't trade at much of a discount either. If we apply 14.6x (the group average) to our new FY11 EPS estimate of $2.68, we get fair value of $39 at the end of next year. Indeed, $39 is our new Dec10 price target (note that our old price target of $34 was for Dec-09).
+
+Food Ken GoldmanAC
+(1-212) 622-0359 kenneth.goldman@jpmorgan.com
+J.P. Morgan Securities Inc.
+
+Price Performance 40
+
+36 $
+32
+
+28 Sep-08
+
+Dec-08
+
+Mar-09
+
+Jun-09
+
+Sep-09
+
+YTD 1m 3m 12m
+
+Abs
+
+6.4% 4.2% 4.9% -11.9%
+
+McCormick & Co., Inc. (MKC;MKC US)
+
+2009E
+
+(Old)
+
+EPS (Operating) ($)
+
+Q1 (Feb) Q2 (May)
+
+0.44A 0.42A
+
+Q3 (Aug) Q4 (Nov)
+
+0.53A 0.91A
+
+FY
+
+2.30A
+
+Excludes non-recurring gains and charges.
+
+2009E
+(New)
+0.44A 0.42A 0.57A 0.89A 2.33A
+
+2010E
+(Old)
+0.49 0.47 0.55 0.94 2.46
+
+2010E
+(New)
+0.48 0.46 0.62 0.93 2.49
+
+2011E
+0.50 0.48 0.65 1.05 2.68
+
+Company Data
+Price ($) Date Of Price 52-week Range ($) Mkt Cap ($ bn) Fiscal Year End Shares O/S (mn) Price Target ($) Price Target End Date
+
+33.90 24 Sep 09 39.71 - 28.08
+4.49 Nov 132 39.00 31 Dec 10
+
+See page 7 for analyst certification and important disclosures.
+J.P. Morgan does and seeks to do business with companies covered in its research reports. As a result, investors should be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only a single factor in making their investment decision.
+355
+
+Ken Goldman (1-212) 622-0359 kenneth.goldman@jpmorgan.com
+
+North America Equity Research 25 September 2009
+
+Conclusion
+Following the company's strong fiscal 3Q09 yesterday (McCormick beat by $0.03), we reiterate our Neutral rating, as we do not yet see sufficient upside. We also remain concerned about organic volume trends. But the valuation has become more attractive, and we appreciate the clarity provided by management about the two biggest overhangs on the name: Walmart and pensions.
+Beating the Street
+McCormick reported a $0.57 fiscal 3Q09 (August) yesterday, three pennies above the consensus estimate. Revenues grew by 4.6% year-on-year, roughly in line with our estimate of 4.4%. Though the gross margin came in a bit lighter than we had modeled (40.3% vs 40.7%), it nonetheless improved by 70 bps year-on-year. The majority of the beat came from the SG&A line, where cost savings reduced the SG&A margin by 40 bps y/y. Guidance was raised to the top end of the $2.31-$2.33 range ex-items.
+Clarity on Walmart and pensions
+To McCormick's credit, management addressed two of the more important overhangs on the stock. For pensions, the company said that as of today it expects a $0.05-$0.07 hit in FY10 (this corresponds with our forecast -- contact us for a MKC pension model). Note: we continue to see risk to earnings from pensions in FY11 and beyond on an incremental basis; we do not think that the pension headwind necessarily ends in FY10.
+Regarding Walmart, MKC said that WMT is not only testing shelf sets that are exclusively private label, but also sets that are exclusively McCormick (for core spices/seasonings). If WMT likes what it sees from the latter test, then the changes from Project Impact could benefit McCormick.
+
+2
+356
+
+Ken Goldman (1-212) 622-0359 kenneth.goldman@jpmorgan.com
+
+North America Equity Research 25 September 2009
+
+Figure 1: Estimated Impact on MKC if Walmart Goes 100% McCormick Spices/Seasonings
+
+$ in millions
+
+Total Consumer Segment Total Sales
+Sales in North America Sales in North American Walmarts Only
+Total EBIT EBIT in North America EBIT in North American Walmarts Only
+
+Old
+2,035.0 1,436.7
+376.5 394.8 273.7 69.1
+
+Change
+8.5 8.5 8.5
+
+New
+2,035.0 1,436.7
+376.5 403.3 282.2 77.6
+
+Assumptions
+
+Core Seasonings Total Sales
+Sales in North America Sales in North American Walmarts Only
+Total EBIT EBIT in North America EBIT in North American Walmarts Only
+
+407.0 280.8 70.2 73.3 50.5 12.6
+
+60.5
+
+467.5
+
+60.5
+
+341.4
+
+60.5
+
+130.7
+
+10.9
+
+84.2
+
+10.9
+
+61.4
+
+10.9
+
+23.5
+
+Percent of Consumer sales that are core seasonings Percent of core seasoning sales in North America Percent of North American core seasoning sales in Walmart
+Core seasoning product margin
+
+Value-Added Seasonings, et al Total Sales
+Sales in North America Sales in North American Walmarts Only
+Total EBIT EBIT in North America EBIT in North American Walmarts Only
+
+1,424.5 982.9 245.7 313.4 216.2 54.1
+
+-
+
+1,424.5
+
+-
+
+982.9
+
+-
+
+245.7
+
+-
+
+313.4
+
+-
+
+216.2
+
+-
+
+54.1
+
+Percent of Consumer sales that are value-added Percent of value-added sales in North America Percent of North American value-added sales in Walmart
+Value-added product margin
+
+Private Label Total Sales
+Sales in North America Sales in North American Walmarts Only
+Total EBIT EBIT in North America EBIT in North American Walmarts Only
+
+203.5 173.0 60.5
+8.1 6.9 2.4
+
+(60.5) (60.5) (60.5) (2.4) (2.4) (2.4)
+
+143.0 112.4
+5.7 4.5 -
+
+Percent of Consumer sales that are private label Percent of private label sales in North America Percent of North American private label sales in Walmart
+Private label product margin
+
+20.0% 69.0% 25.0% 18.0%
+70.0% 69.0% 25.0% 22.0%
+10.0% 85.0% 35.0% 4.0%
+
+Total Impact on McCormick's FY10E EPS
+Sales EBIT Interest Expense Other Expense Pretax Income Taxes Tax Rate Income from Consolidated Ops Income from Unconsolidated Ops Net Income Shares Outstanding (FD) EPS
+Source: J.P. Morgan estimates.
+
+Old
+
+Change
+
+New
+
+8.5
+
+8.5 2.6 31.0% 5.8
+5.8
+0.04
+
+3
+357
+
+Ken Goldman (1-212) 622-0359 kenneth.goldman@jpmorgan.com
+
+North America Equity Research 25 September 2009
+
+Figure 2: Estimated Impact on MKC if Walmart Goes 100% Private Label Spices/Seasonings
+
+$ in millions
+
+Total Consumer Segment Total Sales
+Sales in North America Sales in North American Walmarts Only
+Total EBIT EBIT in North America EBIT in North American Walmarts Only
+
+Old
+2,035.0 1,436.7
+376.5 394.8 273.7 69.1
+
+Change
+(9.8) (9.8) (9.8)
+
+New
+2,035.0 1,436.7
+376.5 385.0 263.9 59.3
+
+Assumptions
+
+Core Seasonings Total Sales
+Sales in North America Sales in North American Walmarts Only
+Total EBIT EBIT in North America EBIT in North American Walmarts Only
+
+407.0 280.8 70.2 73.3 50.5 12.6
+
+(70.2) (70.2) (70.2) (12.6) (12.6) (12.6)
+
+336.8 210.6
+60.6 37.9 -
+
+Percent of Consumer sales that are core seasonings Percent of core seasoning sales in North America Percent of North American core seasoning sales in Walmart
+Core seasoning product margin
+
+Value-Added Seasonings, et al Total Sales
+Sales in North America Sales in North American Walmarts Only
+Total EBIT EBIT in North America EBIT in North American Walmarts Only
+
+1,424.5 982.9 245.7 313.4 216.2 54.1
+
+-
+
+1,424.5
+
+-
+
+982.9
+
+-
+
+245.7
+
+-
+
+313.4
+
+-
+
+216.2
+
+-
+
+54.1
+
+Percent of Consumer sales that are value-added Percent of value-added sales in North America Percent of North American value-added sales in Walmart
+Value-added product margin
+
+Private Label Total Sales
+Sales in North America Sales in North American Walmarts Only
+Total EBIT EBIT in North America EBIT in North American Walmarts Only
+
+203.5 173.0 60.5
+8.1 6.9 2.4
+
+70.2
+
+273.7
+
+70.2
+
+243.2
+
+70.2
+
+130.7
+
+2.8
+
+10.9
+
+2.8
+
+9.7
+
+2.8
+
+5.2
+
+Percent of Consumer sales that are private label Percent of private label sales in North America Percent of North American private label sales in Walmart
+Private label product margin
+
+20.0% 69.0% 25.0% 18.0%
+70.0% 69.0% 25.0% 22.0%
+10.0% 85.0% 35.0% 4.0%
+
+Total Impact on McCormick's FY10E EPS
+Sales EBIT Interest Expense Other Expense Pretax Income Taxes Tax Rate Income from Consolidated Ops Income from Unconsolidated Ops Net Income Shares Outstanding (FD) EPS
+Source: J.P. Morgan estimates.
+
+Old
+
+Change
+
+New
+
+(9.8)
+
+(9.8) (3.0) 31.0% (6.8)
+(6.8)
+(0.05)
+
+We remain concerned about organic volume growth. Organic (ex-acquisition) volume in the important Consumer division fell by 2.4% y/y in 3Q, the third consecutive decline. This came despite a deceleration in price growth to 2.5% from 3.5% y/y.
+
+4
+358
+
+Ken Goldman (1-212) 622-0359 kenneth.goldman@jpmorgan.com
+
+North America Equity Research 25 September 2009
+
+Figure 3: McCormick Consumer Division Organic Sales Growth
+Year-on-Year
+
+6%
+
+5%
+
+4%
+
+3%
+
+2%
+
+1%
+
+0%
+
+-1%
+
+-2%
+
+-3%
+
+-4% 1Q08
+
+2Q08
+
+3Q08
+
+Organic
+
+Source: Company reports.
+
+4Q08
+
+2008
+
+1Q09
+
+2Q09
+
+Vol/Mix (ex-acquisitions)
+
+Pricing
+
+3Q09
+
+With the benefits of pricing rolling off and the Lawry's acquisition having been lapped, McCormick needs to drive volumes higher. This may require, as the company suggested yesterday, even greater marketing spending.
+
+Valuation and price target
+At 13.8x the consensus NTM EPS estimate, McCormick trails the group average by about 0.8x. We see no reason why MKC should trade above the group, but it probably shouldn't trade at much of a discount either. If we apply 14.6x (the group average) to our new FY11 EPS estimate of $2.68, we get fair value of $39 at the end of next year. Indeed, $39 is our new Dec-10 price target. Note that our old price target of $34 was for Dec-09.
+
+Risks to our rating
+Upside: 1) Walmart may go 100% McCormick core spices; 2) the economy may turn around, thus driving more consumers back to higher mix items; 3) new products (as we discussed in a note two weeks ago) may drive sales higher than we expect.
+
+Downside: 1) Walmart may go 100% private label core spices; 2) the consumer may continue to worsen, thus driving a lower mix; 3) new products may not succeed.
+
+5
+359
+
+Ken Goldman (1-212) 622-0359 kenneth.goldman@jpmorgan.com
+
+North America Equity Research 25 September 2009
+
+McCormick & Co., Inc.: Summary of Financials
+
+Income Statement - Annual
+
+FY08A FY09E FY10E Income Statement - Quarterly
+
+Revenues Cost of Goods Sold Gross Profit
+
+3,177 3,202 3,348 Revenues 1,884 1,881 1,947 Cost of Goods Sold 1,293 1,321 1,400 Gross Profit
+
+Other Operating Expenses Operating Income
+
+-
+
+-
+
+- Other Operating Expenses
+
+422 478 503 Operating Income
+
+Interest, Net Pretax Income Taxes
+Tax Rate Net Income Diluted Shares Outstanding
+
+57 384 115 29.9%
+132
+
+54 426 132 30.9%
+132
+
+52 Interest, Net
+
+455 Pretax Income
+
+141 Taxes
+
+31.0%
+
+Tax Rate
+
+- Net Income
+
+132 Diluted Shares Outstanding
+
+EPS Operating EPS - Consensus
+
+2.18 2.33 2.49 EPS Operating
+
+-
+
+-
+
+- EPS - Consensus
+
+EBITDA Per Share
+
+508 579 611 EBITDA
+
+3.85 4.38 4.62
+
+Per Share
+
+Balance Sheet and Cash Flow Data
+
+FY08A FY09E FY10E Ratio Analysis and Valuation
+
+Cash and Equivalents Accounts Receivable Inventories Current Assets
+PP&E Goodwill and Intangibles
+Total Assets
+Short-term Debt Current Liabilities
+Long-term Debt Total Liabilities
+
+39 381 439 968
+461 1,605
+3,220
+354 414
+885 2,165
+
+168 329 412 1,025
+473 1,686
+3,411
+289 327
+919 2,056
+
+261 Sales Growth
+
+334
+
+Organic
+
+417
+
+Volume
+
+1,129
+
+Price and Mix
+
+Currency
+
+487
+
+Acquisitions
+
+1,686
+
+Gross Margin
+
+3,529 SG&A Margin
+
+EBIT Margin
+
+289 EBITDA Margin
+
+327
+
+ROIC
+
+919 ROA
+
+2,059 ROE
+
+Shareholders' Equity
+Net Income (GAAP) D&A
+
+1,055
+86
+
+1,355
+97
+
+1,470 EBIT Growth EBITDA Growth
+- Net Income Growth 108 EPS Growth
+
+Changes in Working Capital Cash from Operations
+
+0
+
+0
+
+0 Total Debt
+
+315 387 294 Debt to-EBITDA
+
+Capital Expenditures
+
+(86) (79) (88) P/E Enterprise Value to EBITDA
+
+Cash from Investing Cash from Financing
+
+Free Cash Yield (747) (78) (88) Dividend Yield
+433 (186) (113)
+
+Dividends Paid Free Cash Flow
+Per Share
+
+(114) (126) (133) Avg Receivables as % of LTM Sales 229 308 206 Avg Inventory as % of LTM COGS 1.74 2.33 1.56 Avg Payables as % of LTM COGS
+
+Source: Company reports and J.P. Morgan estimates. Note: $ in millions (except per-share data). Fiscal year ends Nov
+
+1Q09A 2Q09A 3Q09A 4Q09E
+
+718 757 792 935 434 455 473 519 284 302 319 415
+
+-
+
+-
+
+-
+
+-
+
+90 89 118 181
+
+14 13 13 14
+
+76 78 105 167
+
+22 26 32 52
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+132 132 132 132
+
+0.44 0.42 0.57 0.89
+
+-
+
+-
+
+-
+
+-
+
+110 116 145 208 0.84 0.88 1.09 1.57
+
+FY08A FY09E FY10E
+
+4.9% 2.1% 2.4%
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1.6% (4.6%) 2.2%
+
+2.4% 3.4% 0.0%
+
+40.7% 27.4% 13.3% 16.0%
+
+41.2% 26.3% 14.9% 18.1%
+
+41.8% 26.8% 15.0% 18.3%
+
+13.4% 13.3% 13.3% 9.5% 10.1% 10.1% 13.3% 6.8% 7.0%
+
+8.8% 13.2% 5.2%
+
+8.7% 13.8% 5.3%
+
+-
+
+-
+
+-
+
+13.3% 6.8% 7.0%
+
+1,239 1,208 1,208 2.4 2.1 2.0
+
+15.6 14.6 13.6
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+6
+
+360
+
+Ken Goldman (1-212) 622-0359 kenneth.goldman@jpmorgan.com
+
+North America Equity Research 25 September 2009
+
+Analyst Certification: The research analyst(s) denoted by an "AC" on the cover of this report certifies (or, where multiple research analysts are primarily responsible for this report, the research analyst denoted by an "AC" on the cover or within the document individually certifies, with respect to each security or issuer that the research analyst covers in this research) that: (1) all of the views expressed in this report accurately reflect his or her personal views about any and all of the subject securities or issuers; and (2) no part of any of the research analyst's compensation was, is, or will be directly or indirectly related to the specific recommendations or views expressed by the research analyst(s) in this report.
+Important Disclosures
+· Client of the Firm: McCormick & Co., Inc. is or was in the past 12 months a client of JPMSI. · Non-Investment Banking Compensation: An affiliate of JPMSI has received compensation in the past 12 months for products or
+services other than investment banking from McCormick & Co., Inc..
+
+McCormick & Co., Inc. (MKC) Price Chart
+
+70
+60
+50
+40 Price($)
+30
+
+N $37 N OW $42
+
+N $34 N $31 N $33
+
+Date
+
+Rating Share Price Price Target
+
+($)
+
+($)
+
+02-Jun-08 OW 37.58
+
+42.00
+
+14-Aug-08 N
+
+41.38
+
+--
+
+27-Oct-08 N
+
+30.69
+
+37.00
+
+05-Mar-09 N
+
+31.33
+
+33.00
+
+19-May-09 N
+
+31.35
+
+31.00
+
+10-Sep-09 N
+
+33.44
+
+34.00
+
+20
+
+10
+
+0
+
+Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec Mar Jun
+
+06
+
+06
+
+07
+
+07
+
+07
+
+07
+
+08
+
+08
+
+08
+
+08
+
+09
+
+09
+
+Source: Reuters and J.P. Morgan; price data adjusted for stock splits and dividends. Initiated coverage Jun 02, 2008. This chart shows J.P. Morgan's continuing coverage of this stock; the current analyst may or may not have covered it over the entire period. J.P. Morgan ratings: OW = Overweight, N = Neutral, UW = Underweight.
+
+Sep 09
+
+Explanation of Equity Research Ratings and Analyst(s) Coverage Universe: J.P. Morgan uses the following rating system: Overweight [Over the next six to twelve months, we expect this stock will outperform the average total return of the stocks in the analyst's (or the analyst's team's) coverage universe.] Neutral [Over the next six to twelve months, we expect this stock will perform in line with the average total return of the stocks in the analyst's (or the analyst's team's) coverage universe.] Underweight [Over the next six to twelve months, we expect this stock will underperform the average total return of the stocks in the analyst's (or the analyst's team's) coverage universe.] The analyst or analyst's team's coverage universe is the sector and/or country shown on the cover of each publication. See below for the specific stocks in the certifying analyst(s) coverage universe.
+
+Coverage Universe: Ken Goldman: McCormick & Co., Inc. (MKC), Pilgrim's Pride (PGPDQ), Sanderson Farms, Inc. (SAFM), Smithfield Foods, Inc. (SFD), TreeHouse Foods Inc. (THS), Tyson Foods (TSN), Weight Watchers International (WTW)
+
+7
+361
+
+Ken Goldman (1-212) 622-0359 kenneth.goldman@jpmorgan.com
+
+North America Equity Research 25 September 2009
+
+J.P. Morgan Equity Research Ratings Distribution, as of June 30, 2009
+
+JPM Global Equity Research Coverage IB clients*
+JPMSI Equity Research Coverage IB clients*
+
+Overweight (buy) 36% 55% 36% 77%
+
+Neutral (hold) 46% 56% 52% 72%
+
+Underweight (sell) 18% 42% 12% 60%
+
+*Percentage of investment banking clients in each rating category. For purposes only of NASD/NYSE ratings distribution rules, our Overweight rating falls into a buy rating category; our Neutral rating falls into a hold rating category; and our Underweight rating falls into a sell rating category.
+
+Valuation and Risks: Please see the most recent company-specific research report for an analysis of valuation methodology and risks on any securities recommended herein. Research is available at http://www.morganmarkets.com , or you can contact the analyst named on the front of this note or your J.P. Morgan representative.
+Analysts' Compensation: The equity research analysts responsible for the preparation of this report receive compensation based upon various factors, including the quality and accuracy of research, client feedback, competitive factors, and overall firm revenues, which include revenues from, among other business units, Institutional Equities and Investment Banking.
+Other Disclosures
+J.P. Morgan is the global brand name for J.P. Morgan Securities Inc. (JPMSI) and its non-US affiliates worldwide.
+Options related research: If the information contained herein regards options related research, such information is available only to persons who have received the proper option risk disclosure documents. For a copy of the Option Clearing Corporation's Characteristics and Risks of Standardized Options, please contact your J.P. Morgan Representative or visit the OCC's website at http://www.optionsclearing.com/publications/risks/riskstoc.pdf.
+Legal Entities Disclosures U.S.: JPMSI is a member of NYSE, FINRA and SIPC. J.P. Morgan Futures Inc. is a member of the NFA. JPMorgan Chase Bank, N.A. is a member of FDIC and is authorized and regulated in the UK by the Financial Services Authority. U.K.: J.P. Morgan Securities Ltd. (JPMSL) is a member of the London Stock Exchange and is authorised and regulated by the Financial Services Authority. Registered in England & Wales No. 2711006. Registered Office 125 London Wall, London EC2Y 5AJ. South Africa: J.P. Morgan Equities Limited is a member of the Johannesburg Securities Exchange and is regulated by the FSB. Hong Kong: J.P. Morgan Securities (Asia Pacific) Limited (CE number AAJ321) is regulated by the Hong Kong Monetary Authority and the Securities and Futures Commission in Hong Kong. Korea: J.P. Morgan Securities (Far East) Ltd, Seoul branch, is regulated by the Korea Financial Supervisory Service. Australia: J.P. Morgan Australia Limited (ABN 52 002 888 011/AFS Licence No: 238188) is regulated by ASIC and J.P. Morgan Securities Australia Limited (ABN 61 003 245 234/AFS Licence No: 238066) is a Market Participant with the ASX and regulated by ASIC. Taiwan: J.P.Morgan Securities (Taiwan) Limited is a participant of the Taiwan Stock Exchange (company-type) and regulated by the Taiwan Securities and Futures Bureau. India: J.P. Morgan India Private Limited is a member of the National Stock Exchange of India Limited and Bombay Stock Exchange Limited and is regulated by the Securities and Exchange Board of India. Thailand: JPMorgan Securities (Thailand) Limited is a member of the Stock Exchange of Thailand and is regulated by the Ministry of Finance and the Securities and Exchange Commission. Indonesia: PT J.P. Morgan Securities Indonesia is a member of the Indonesia Stock Exchange and is regulated by the BAPEPAM. Philippines: J.P. Morgan Securities Philippines Inc. is a member of the Philippine Stock Exchange and is regulated by the Securities and Exchange Commission. Brazil: Banco J.P. Morgan S.A. is regulated by the Comissao de Valores Mobiliarios (CVM) and by the Central Bank of Brazil. Mexico: J.P. Morgan Casa de Bolsa, S.A. de C.V., J.P. Morgan Grupo Financiero is a member of the Mexican Stock Exchange and authorized to act as a broker dealer by the National Banking and Securities Exchange Commission. Singapore: This material is issued and distributed in Singapore by J.P. Morgan Securities Singapore Private Limited (JPMSS) [MICA (P) 132/01/2009 and Co. Reg. No.: 199405335R] which is a member of the Singapore Exchange Securities Trading Limited and is regulated by the Monetary Authority of Singapore (MAS) and/or JPMorgan Chase Bank, N.A., Singapore branch (JPMCB Singapore) which is regulated by the MAS. Malaysia: This material is issued and distributed in Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-X) which is a Participating Organization of Bursa Malaysia Berhad and a holder of Capital Markets Services License issued by the Securities Commission in Malaysia. Pakistan: J. P. Morgan Pakistan Broking (Pvt.) Ltd is a member of the Karachi Stock Exchange and regulated by the Securities and Exchange Commission of Pakistan. Saudi Arabia: J.P. Morgan Saudi Arabia Ltd. is authorised by the Capital Market Authority of the Kingdom of Saudi Arabia (CMA) to carry out dealing as an agent, arranging, advising and custody, with respect to securities business under licence number 35-07079 and its registered address is at 8th Floor, Al-Faisaliyah Tower, King Fahad Road, P.O. Box 51907, Riyadh 11553, Kingdom of Saudi Arabia.
+Country and Region Specific Disclosures U.K. and European Economic Area (EEA): Unless specified to the contrary, issued and approved for distribution in the U.K. and the EEA by JPMSL. Investment research issued by JPMSL has been prepared in accordance with JPMSL's policies for managing conflicts of interest arising as a result of publication and distribution of investment research. Many European regulators require that a firm to establish, implement and maintain such a policy. This report has been issued in the U.K. only to persons of a kind described in Article 19 (5), 38, 47 and 49 of the Financial
+8
+362
+
+Ken Goldman (1-212) 622-0359 kenneth.goldman@jpmorgan.com
+
+North America Equity Research 25 September 2009
+
+Services and Markets Act 2000 (Financial Promotion) Order 2005 (all such persons being referred to as "relevant persons"). This document must not be acted on or relied on by persons who are not relevant persons. Any investment or investment activity to which this document relates is only available to relevant persons and will be engaged in only with relevant persons. In other EEA countries, the report has been issued to persons regarded as professional investors (or equivalent) in their home jurisdiction. Australia: This material is issued and distributed by JPMSAL in Australia to "wholesale clients" only. JPMSAL does not issue or distribute this material to "retail clients." The recipient of this material must not distribute it to any third party or outside Australia without the prior written consent of JPMSAL. For the purposes of this paragraph the terms "wholesale client" and "retail client" have the meanings given to them in section 761G of the Corporations Act 2001. Germany: This material is distributed in Germany by J.P. Morgan Securities Ltd., Frankfurt Branch and J.P.Morgan Chase Bank, N.A., Frankfurt Branch which are regulated by the Bundesanstalt für Finanzdienstleistungsaufsicht. Hong Kong: The 1% ownership disclosure as of the previous month end satisfies the requirements under Paragraph 16.5(a) of the Hong Kong Code of Conduct for persons licensed by or registered with the Securities and Futures Commission. (For research published within the first ten days of the month, the disclosure may be based on the month end data from two months' prior.) J.P. Morgan Broking (Hong Kong) Limited is the liquidity provider for derivative warrants issued by J.P. Morgan International Derivatives Ltd and listed on The Stock Exchange of Hong Kong Limited. An updated list can be found on HKEx website: http://www.hkex.com.hk/prod/dw/Lp.htm. Japan: There is a risk that a loss may occur due to a change in the price of the shares in the case of share trading, and that a loss may occur due to the exchange rate in the case of foreign share trading. In the case of share trading, JPMorgan Securities Japan Co., Ltd., will be receiving a brokerage fee and consumption tax (shouhizei) calculated by multiplying the executed price by the commission rate which was individually agreed between JPMorgan Securities Japan Co., Ltd., and the customer in advance. Financial Instruments Firms: JPMorgan Securities Japan Co., Ltd., Kanto Local Finance Bureau (kinsho) No. 82 Participating Association / Japan Securities Dealers Association, The Financial Futures Association of Japan. Korea: This report may have been edited or contributed to from time to time by affiliates of J.P. Morgan Securities (Far East) Ltd, Seoul branch. Singapore: JPMSS and/or its affiliates may have a holding in any of the securities discussed in this report; for securities where the holding is 1% or greater, the specific holding is disclosed in the Important Disclosures section above. India: For private circulation only, not for sale. Pakistan: For private circulation only, not for sale. New Zealand: This material is issued and distributed by JPMSAL in New Zealand only to persons whose principal business is the investment of money or who, in the course of and for the purposes of their business, habitually invest money. JPMSAL does not issue or distribute this material to members of "the public" as determined in accordance with section 3 of the Securities Act 1978. The recipient of this material must not distribute it to any third party or outside New Zealand without the prior written consent of JPMSAL.
+General: Additional information is available upon request. Information has been obtained from sources believed to be reliable but JPMorgan Chase & Co. or its affiliates and/or subsidiaries (collectively J.P. Morgan) do not warrant its completeness or accuracy except with respect to any disclosures relative to JPMSI and/or its affiliates and the analyst's involvement with the issuer that is the subject of the research. All pricing is as of the close of market for the securities discussed, unless otherwise stated. Opinions and estimates constitute our judgment as of the date of this material and are subject to change without notice. Past performance is not indicative of future results. This material is not intended as an offer or solicitation for the purchase or sale of any financial instrument. The opinions and recommendations herein do not take into account individual client circumstances, objectives, or needs and are not intended as recommendations of particular securities, financial instruments or strategies to particular clients. The recipient of this report must make its own independent decisions regarding any securities or financial instruments mentioned herein. JPMSI distributes in the U.S. research published by non-U.S. affiliates and accepts responsibility for its contents. Periodic updates may be provided on companies/industries based on company specific developments or announcements, market conditions or any other publicly available information. Clients should contact analysts and execute transactions through a J.P. Morgan subsidiary or affiliate in their home jurisdiction unless governing law permits otherwise.
+"Other Disclosures" last revised January 30, 2009.
+Copyright 2009 JPMorgan Chase & Co. All rights reserved. This report or any portion hereof may not be reprinted, sold or redistributed without the written consent of J.P. Morgan.
+
+9
+363
+
+
